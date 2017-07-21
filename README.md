@@ -12,4 +12,4 @@ Project Sunbird is a multi-year, multi-stakeholder open, iterative and collabora
 To get started with Sunbird, please try out our demo site at: https://demo.open-sunbird.org/
 
 ## Reporting Issues
-We have an open and active [issue tracker](/issues). Please report any issues or  you find.
+We have an open and active [issue tracker](https://github.com/project-sunbird/sunbird-commons/issues). Please report any issues or  you find.
