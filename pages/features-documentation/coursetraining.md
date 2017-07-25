@@ -9,4 +9,6 @@ hide_platform_selector: true
 hide_section_selector: true
 published: true
 ---
-# Course and Traning
+# Courses and Training
+
+<page under construction>
