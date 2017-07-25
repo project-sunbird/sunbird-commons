@@ -6,6 +6,11 @@ body > header {
 	background: -o-linear-gradient(45deg, #0d9474 0%, #2a6fa8 100%); 
     background: -webkit-linear-gradient(45deg, #0d9474 0%, #2a6fa8 100%);
     background: linear-gradient(45deg, #0d9474 0%, #2a6fa8 100%);
+    position:fixed;
+    width:100%;
+    top:0;
+    left:0;
+    z-index: 2;
 }
 .logo{
 	padding-top:10px;
@@ -33,3 +38,4 @@ body > header {
 .collapse.in {
     display: block;
 }
+.fixed-content{margin-top:75px;}

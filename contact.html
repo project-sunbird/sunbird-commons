@@ -7,25 +7,12 @@
 
   <body>
 	  {% include header.html %}
-    <div class="contributepage fill-height inner__content">
+    <div class="contributepage fill-height inner__content fixed-content">
 			<div class="container main">
 				<div class="row">
 					<div class="col-xs-12">
-						<form>
-							<div class="form-group">
-							<label for="name">Name</label>
-							<input type="text" class="form-control" id="name" placeholder="Full Name">
-						  </div>
-						  <div class="form-group">
-							<label for="email">Email address</label>
-							<input type="email" class="form-control" id="email" placeholder="Email">
-						  </div>
-						  <div class="form-group">
-							<label for="comment">Comments</label>
-							<textarea class="form-control" id="comments" placeholder="Comments" rows="3"></textarea>
-						  </div>
-						  <button type="submit" class="btn btn-default">Submit</button>
-						</form>
+						<iframe title="Feedback Form" class="freshwidget-embedded-form" id="freshwidget-embedded-form" src="https://ekstep.freshdesk.com/widgets/feedback_widget/new?widgetType=embedded&submitTitle=Send&screenshot=no&submitThanks=Thank you for getting in touch. Your help request has been logged, and our team will follow up with you." scrolling="yes" height="800px" width="100%" frameborder="0" >
+</iframe>
 					</div>
 				</div>
 			</div>
