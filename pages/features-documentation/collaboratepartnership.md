@@ -13,8 +13,8 @@ Keywords: 'collaborate, contribute, partner, create content, consume content'
 ---
 type: landing
 directory: features-documentation
-page_title: Collaborate and Partnership
-description: Collaborate and Partnership
+page_title: Content Editor
+description: Content Editor
 keywords: >-
   content editor, create course, create content, create lesson, textbook,
   collection, course
