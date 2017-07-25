@@ -7,7 +7,7 @@
 {% endif %}
 
   <body>
-  <div class="container inner container-height">
+  <div class="container inner container-height docs">
     <header class="logo-container">
       <div class="logo">
         <a href="/">
@@ -25,18 +25,18 @@
       <div class="inner__sidebar">
         {% include sidebar.html %}
       </div>
-      <div class="inner__supportbar">
+     <!-- <div class="inner__supportbar">
         <a href="#">Help & Support</a>
-      </div>
+      </div>-->
     </nav>
     <div class="content">
       <div class={% if page.contents == 'number'%}
-          "inner__content content-guide"
+          "inner__content header content-guide"
         {% elsif page.contents == 'list' %}
-          "inner__content"
+          "inner__content header"
         {% elsif page.guide %}
-          "inner__content content-guide"
-        {% else %}"inner__content"{% endif %}>
+          "inner__content header content-guide"
+        {% else %}"inner__content header"{% endif %}>
 
         {% breadcrumbs %}
         <h1>{{ page.title }} </h1>
@@ -62,19 +62,20 @@
           "inner__content content-guide"
         {% else %}"inner__content"{% endif %}>
         {% if page.contents == 'list' or page.contents.list contains page.section %}
-          {{ content | toc_generate:'list' }}
+
+          {{ content }}
         {% elsif page.contents == 'number' or page.contents.number contains page.section %}
-          {{ content | toc_generate:'number' }}
+          {{ content }}
         {% elsif page.contents == 'hide' or page.contents.hide contains page.section %}
           {{ content }}
         {% elsif page.overview %}
           {{ content }}
         {% elsif page.guide %}
-          {{ content | toc_generate:'number' }}
+          {{ content }}
         {% elsif page.advanced or page.support %}
-          {{ content | toc_generate:"list" }}
+          {{ content }}
         {% else %}
-          {{ content | toc_generate:"list" }}
+          {{ content }}
         {% endif %}
       </div>
     </div>

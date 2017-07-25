@@ -138,4 +138,8 @@
 		background-color: #fafafa;
 	}
 }
+.docs #main-content.inner__content>h1:first-child,
+.docs #main-content.inner__content>h2:first-child{display:none;}
+.inner__content.header{padding:0 45px;}
+.inner__content.header h1{margin:0; padding:0;line-height: 1;}
 

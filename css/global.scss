@@ -1,4 +1,3 @@
-$branch-font-path: "https://cdn.branch.io/font";
 $font-family-sans-serif:  "Open Sans", Helvetica, Arial, sans-serif;
 $brand-primary: #4D8099; // #5691AD;
 $border-radius-base: 2px;
@@ -11,7 +10,6 @@ $link-color-hover: #6EBADF;
 
 @import "bootstrap.scss";
 @import "fonts.scss";
-@import "branch-font/font.scss";
 @import "highlightjs.scss";
 
 body {

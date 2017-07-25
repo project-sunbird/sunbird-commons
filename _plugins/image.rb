@@ -6,7 +6,7 @@ image tag takes three properties
 - alt
 
 {% image src="/img/ingredients/configuring_the_dashboard/web_url.png" half center alt="Web Url" %}
-{% image src="http://cdn.branch.io/components/image.png" left quarter alt="Some Image: check it out!" %}
+{% image src="http://cdn.sunbird.io/components/image.png" left quarter alt="Some Image: check it out!" %}
 =end
 
 module Jekyll
