@@ -10,7 +10,5 @@ hide_section_selector: true
 published: true
 ---
 
-#Overview
 
 {% ingredient /architecture/arch_overview %}{% endingredient %}
-
