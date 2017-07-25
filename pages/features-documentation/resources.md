@@ -1,6 +1,7 @@
 ---
 type: landing
 directory: features-documentation
+title: Resources
 page_title: Resources
 description: Resources
 keywords: 'resources, classroom resources, classroom content, consume resources'

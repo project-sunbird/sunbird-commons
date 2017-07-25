@@ -1,6 +1,7 @@
 ---
 type: landing
 directory: features-documentation
+title: Content Editor
 page_title: Content Editor
 description: Content Editor
 keywords: >-

@@ -1,6 +1,7 @@
 ---
 type: landing
 directory: features-documentation
+title: User Profile
 page_title: User Profile
 description: User Profile
 keywords: 'Profile, create profile, log in, sign in '

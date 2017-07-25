@@ -18,34 +18,23 @@ The following variables can/should be passed in
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
 	<meta name="apple-mobile-web-app-capable" content="yes" />
 	<meta name="apple-touch-fullscreen" content="yes" />
-
-	<link rel="apple-touch-icon" sizes="57x57" href="{{site.baseurl}}/img/favicon/apple-touch-icon-57x57.png">
-	<link rel="apple-touch-icon" sizes="114x114" href="{{site.baseurl}}/img/favicon/apple-touch-icon-114x114.png">
-	<link rel="apple-touch-icon" sizes="72x72" href="{{site.baseurl}}/img/favicon/apple-touch-icon-72x72.png">
-	<link rel="apple-touch-icon" sizes="144x144" href="{{site.baseurl}}/img/favicon/apple-touch-icon-144x144.png">
-	<link rel="apple-touch-icon" sizes="60x60" href="{{site.baseurl}}/img/favicon/apple-touch-icon-60x60.png">
-	<link rel="apple-touch-icon" sizes="120x120" href="{{site.baseurl}}/img/favicon/apple-touch-icon-120x120.png">
-	<link rel="apple-touch-icon" sizes="76x76" href="{{site.baseurl}}/img/favicon/apple-touch-icon-76x76.png">
-	<link rel="apple-touch-icon" sizes="152x152" href="{{site.baseurl}}/img/favicon/apple-touch-icon-152x152.png">
-	<link rel="icon" type="image/png" href="{{site.baseurl}}/img/favicon/favicon-96x96.png" sizes="96x96">
 	<link rel="icon" type="image/png" href="{{site.baseurl}}/img/favicon/favicon-16x16.png" sizes="16x16">
-	<link rel="icon" type="image/png" href="{{site.baseurl}}/img/favicon/favicon-32x32.png" sizes="32x32">
 
 	<meta name="msapplication-TileColor" content="#65d3f7">
-	<meta name="msapplication-TileImage" content="{{site.baseurl}}/img/favicon/mstile-144x144.png">
+	<meta name="msapplication-TileImage" content="/img/favicon/mstile-144x144.png">
 
 	<!-- Open Graph tags -->
 	<meta property="og:title" content="{% if include.page_title %}{{ include.page_title }} - {% endif %}{{ include.site_title | default: 'Sunbird' }}" />
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="{{site.baseurl}}{{ include.url }}" />
 	<meta property="og:image" content="{{site.baseurl}}/img/og_image.png" />
-	<meta property="og:description" content="{% if include.ios_description != "true" and include.android_description != "true" %}{{ include.description | default: 'Sunbird is a movement' }}{% endif %}{% if include.ios_description == "true" %}{{ include.ios_description }}{% endif %}{% if include.android_description == "true" %}{{ include.android_description }}{% endif %}" />
+	<meta property="og:description" content="{% if include.ios_description != "true" and include.android_description != "true" %}{{ include.description | default: 'Sunbird' }}{% endif %}{% if include.ios_description == "true" %}{{ include.ios_description }}{% endif %}{% if include.android_description == "true" %}{{ include.android_description }}{% endif %}" />
 
 	<!-- Twitter Card tags -->
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:site" content="@sunbird" />
-	<meta name="twitter:title" content="{% if page.ogtitle %}{{ page.ogtitle }}{% elsif page.title %}{{ page.title }}{% else %}{{ 'Deep links that just work | Branch' }}{% endif %}" />
-	<meta name="twitter:description" content="{% if include.ios_description != "true" and include.android_description != "true" %}{{ include.description | default: 'Sunbird is a movement' }}{% endif %}{% if include.ios_description == "true" %}{{ include.ios_description }}{% endif %}{% if include.android_description == "true" %}{{ include.android_description }}{% endif %}" />
+	<meta name="twitter:title" content="{% if page.ogtitle %}{{ page.ogtitle }}{% elsif page.title %}{{ page.title }}{% else %}{{ 'Sunbird' }}{% endif %}" />
+	<meta name="twitter:description" content="{% if include.ios_description != "true" and include.android_description != "true" %}{{ include.description | default: 'Sunbird' }}{% endif %}{% if include.ios_description == "true" %}{{ include.ios_description }}{% endif %}{% if include.android_description == "true" %}{{ include.android_description }}{% endif %}" />
 	<meta name="twitter:image" content="{{site.baseurl}}/img/og_image.png" />
 
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">

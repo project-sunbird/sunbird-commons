@@ -1,6 +1,7 @@
 ---
 type: landing
 directory: features-documentation
+title: Administration
 page_title: Administration
 description: Administration
 keywords: 'copyrights assertion, guidelines'

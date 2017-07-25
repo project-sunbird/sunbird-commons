@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 gem 'jekyll-gist', '1.1.0'
-gem 'jekyll', '2.5.3'
+gem 'jekyll', '3.2.0'
 gem 'rdiscount'
 gem 'kramdown'
 gem 'sass'

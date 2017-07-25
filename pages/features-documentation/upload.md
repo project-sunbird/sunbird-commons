@@ -1,6 +1,7 @@
 ---
 type: landing
 directory: features-documentation
+title: Upload
 page_title: Upload
 description: Uploading Content
 keywords: >-
