@@ -7,6 +7,7 @@ description: Logical View
 keywords: Logical View
 hide_platform_selector: true
 hide_section_selector: true
+published: true
 ---
 #Logical View
 
@@ -15,3 +16,4 @@ hide_section_selector: true
 {% ingredient /architecture/archd_logv_cat_sb_f_entities_p2 %}{% endingredient %}
 {% ingredient /architecture/archd_logv_sb_pform %}{% endingredient %}
 {% ingredient /architecture/archd_logv_sb_infra %}{% endingredient %}
+{% image src='sunbird-commons/pages/architecture/image/logical_arch_new.png' full center alt='Alt text' %}
