@@ -11,4 +11,14 @@ hide_platform_selector: true
 hide_section_selector: true
 published: true
 ---
-# Guidlines
+# Guidelines
+
+To ensure quality, there are guidelines for contributions to project sunbird. The guidelines can be categorized into those for:
+* **Intellectual Property
+
+* **Content Submission
+
+* **Code Submission	
+* **Review
+
+<page under consruction>
