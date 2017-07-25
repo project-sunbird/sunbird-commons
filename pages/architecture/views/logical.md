@@ -2,9 +2,9 @@
 type: landing
 directory: architecture/views
 title: Elementary Views
-page_title: Logical View
-description: Logical View
-keywords: Logical View
+page_title: Elementary View
+description: Elementary View
+keywords: 'Elementary views, Logical View'
 hide_platform_selector: true
 hide_section_selector: true
 published: true
