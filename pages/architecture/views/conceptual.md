@@ -7,6 +7,7 @@ description: Conceptual View
 keywords: Conceptual View
 hide_platform_selector: true
 hide_section_selector: true
+published: true
 ---
 
 #Conceptual View
@@ -15,3 +16,4 @@ hide_section_selector: true
 {% ingredient /architecture/archd_con_ciew_p1 %}{% endingredient %}
 {% ingredient /architecture/archd_con_ciew_p2 %}{% endingredient %}
 {% ingredient /architecture/archd_con_ciew_p3 %}{% endingredient %}
+{% image src='sunbird-commons/pages/architecture/image/conceptual view.jpg' full center alt='general Coceptual View' %}
