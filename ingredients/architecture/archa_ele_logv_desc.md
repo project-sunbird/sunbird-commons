@@ -2,7 +2,7 @@
 
 
 
- [Logical View](http://sunbird-commons/pages/architecture/image/Layers.png")
+ [Logical View](http://sunbird-commons/pages/architecture/image/logical_arch_new.png")
 
  
 >Fig 1.2 Logical View of the Sunbird Architecture
