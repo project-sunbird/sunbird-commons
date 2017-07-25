@@ -10,5 +10,15 @@ hide_section_selector: true
 published: false
 Keywords: 'collaborate, contribute, partner, create content, consume content'
 ---
-
+---
+type: landing
+directory: features-documentation
+page_title: Collaborate and Partnership
+description: Collaborate and Partnership
+keywords: >-
+  content editor, create course, create content, create lesson, textbook,
+  collection, course
+hide_platform_selector: true
+hide_section_selector: true
+---
 # Collaboration and Partnership
