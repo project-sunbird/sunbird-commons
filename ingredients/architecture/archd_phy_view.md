@@ -2,6 +2,8 @@
 
 The technical stack of sun bird is evolutionary and modern in nature with easy maintainability, seamless portability, enhanced Reusability, and maximizes on testability. Sunbird is built on Ekstep Infra layer with additional RESTful APIs and related contextual data to build a rich Learning Management System for teachers/students and is implemented using the following modern technologies:
 
+[Physical View](https://sunbird-commons/pages/architecture/image/phy_arch.png)
+
 **Apache Cassandra** 
 
 It’s a NoSQL database management system designed to handle large amounts of data across many commodity servers, providing high availability with no single point of failure. It holds all the contextual data of Sunbird like Organization, User, Course, Community, Forums etc.
@@ -25,4 +27,4 @@ Akka is used as base for play framework, which provides powerful reactive, concu
 Provides an environment to Sunbird which is extraordinarily expressive, readable, and quick to develop. It is fully extensible and works well with other libraries. Maximizes scalability and provides seamless extensibility.
 
 **Android**
-Sunbird can be viewed on mobile using android platform ,An Android Sunbird app is developed to make Sunbird mobile and enable anywhere and anytime use. 
+Sunbird can be viewed on mobile using android platform ,An Android Sunbird app is developed to make Sunbird mobile and enable anywhere and anytime use.
