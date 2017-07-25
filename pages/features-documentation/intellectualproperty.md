@@ -11,8 +11,8 @@ published: true
 ---
 type: landing
 directory: features-documentation
-page_title: Administration
-description: Administration
+page_title: Intellectual Property
+description: Intellectual Property
 keywords: >-
   copyrights assertion, creation guidelines, review guidelines, 
 hide_platform_selector: true
