@@ -10,4 +10,15 @@ hide_section_selector: true
 published: true
 ---
 
-# Users, Roles & Permissions
+{% ingredient/features-documentation/user_role&permission_rights%}{% endingredient %}
+
+{% ingredient/features-documentation/usercategories%}{% endingredient %}
+
+{% ingredient/features-documentation/adminrolefuncmatrix%}{% endingredient %}
+
+{% ingredient/features-documentation/privuserrolefuncmatrix%}{% endingredient %}
+
+{% ingredient/features-documentation/contconsumerrolefuncmatrix%}{% endingredient %}
+
+
+
