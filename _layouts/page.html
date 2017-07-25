@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+  {% webasset head page_title='{{page.page_title}}' android_page_title='{{page.android_page_title}}' ios_page_title='{{page.ios_page_title}}' keywords='{{page.keywords}}' android_keywords='{{page.android_keywords}}' ios_keywords='{{page.ios_keywords}}' ios='{{page.ios}}' android='{{page.android}}' description='{{page.description}}' ios_description='{{page.ios_description}}' android_description='{{page.android_description}}' site_title='Sunbird' url='{{site.base_url}}{{page.url}}' %}
+
+{% if page.exclude_from_google_search == true %}
+    <meta name="robots" content="noindex" />
+{% endif %}
+
+  <body>
+  <div class="container inner container-height">
+    <header class="logo-container">
+      <div class="logo">
+        <a href="/">
+          <img src="/img/sunbird-logo.png" alt="Sunbird docs" title="Sunbird docs">
+        </a>
+      </div>
+      <button type="button" class="dropdown-toggle collapsed" id="dropdown-trigger" data-toggle="collapse" data-target="#mobile-dropdown" aria-expanded="false">
+        <i class="fa fa-bars" aria-hidden="true"></i>
+      </button>
+    </header>
+    <nav class="sidebar-container" id="mobile-dropdown">
+      <div class="inner__searchbar">
+        {% searchbar %}
+      </div>
+      <div class="inner__sidebar">
+        {% include sidebar.html %}
+      </div>
+      <div class="inner__supportbar">
+        <a href="#">Help & Support</a>
+      </div>
+    </nav>
+    <div class="content">
+      <div class={% if page.contents == 'number'%}
+          "inner__content content-guide"
+        {% elsif page.contents == 'list' %}
+          "inner__content"
+        {% elsif page.guide %}
+          "inner__content content-guide"
+        {% else %}"inner__content"{% endif %}>
+
+        {% breadcrumbs %}
+        <h1>{{ page.title }} </h1>
+
+        {% if page.hide_section_selector == true %}
+          <span class="hide-selector">{% section_selector %}</span>
+        {% else %}
+          {% section_selector %}
+        {% endif %}
+      </div>
+
+      {% if page.hide_platform_selector != true and page.overview != true %}
+        {% unless page.hide_platform_selector contains page.section %}
+          {% platform_selector %}
+        {% endunless %}
+      {% endif %}
+
+      <div id="main-content" class={% if page.contents == 'number' or page.contents.number contains page.section %}
+          "inner__content content-guide"
+        {% elsif page.contents == 'list' or page.contents.list contains page.section %}
+          "inner__content"
+        {% elsif page.guide %}
+          "inner__content content-guide"
+        {% else %}"inner__content"{% endif %}>
+        {% if page.contents == 'list' or page.contents.list contains page.section %}
+          {{ content | toc_generate:'list' }}
+        {% elsif page.contents == 'number' or page.contents.number contains page.section %}
+          {{ content | toc_generate:'number' }}
+        {% elsif page.contents == 'hide' or page.contents.hide contains page.section %}
+          {{ content }}
+        {% elsif page.overview %}
+          {{ content }}
+        {% elsif page.guide %}
+          {{ content | toc_generate:'number' }}
+        {% elsif page.advanced or page.support %}
+          {{ content | toc_generate:"list" }}
+        {% else %}
+          {{ content | toc_generate:"list" }}
+        {% endif %}
+      </div>
+    </div>
+  </div>
+
+  <script>
+    var platformSelector = $("#platform-selector");
+    var mainContent = $("#main-content");
+
+    $(".content").scroll(function() {
+
+      if (this.scrollTop > 264) {
+        platformSelector.addClass("fixed");
+        mainContent.addClass("no-selector");
+      }
+      else {
+        platformSelector.removeClass("fixed");
+        mainContent.removeClass("no-selector");
+      }
+
+    });
+  </script>
+
+  <script type="text/javascript">
+
+      $(document).ready(function(){
+          $('#dropdown-trigger').click(function(e){
+              var $elm = $('#mobile-dropdown');
+              if($elm.is(":visible")){
+                  $elm.stop().slideUp();
+              }else{
+                  $elm.stop().slideDown();
+                  $('html,body').scrollTop(0);
+              }
+              e.stopPropagation();
+          });
+      });
+
+  </script>
+
+  </body>
+
+</html>

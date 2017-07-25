@@ -1,0 +1,33 @@
+# Site settings
+title: Sunbird
+name: Sunbird
+email: info@sunbird.org
+description: "Sunbird Meta Desc"
+url: "http://localhost:4000"
+baseurl: ""
+environment: production
+permalink: pretty
+markdown: kramdown
+highlighter: pygments
+dashboard_url: "http://localhost:3000"
+branch_github_url: "https://github.com/project-sunbird/sunbird-commons.git"
+safe: false
+
+exclude:
+- vendor
+- .gitignore
+- README.md
+- ingredients
+- js/components
+- js/stores
+- js/actions
+- js/support
+- node_modules
+- package.json
+- node.txt
+- Gemfile
+- Gemfile.lock
+- circle.yml
+
+sass:
+    sass_dir: css

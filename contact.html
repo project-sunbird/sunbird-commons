@@ -1,0 +1,38 @@
+---
+---
+<!DOCTYPE html>
+<html>
+	
+	{% webasset head page_title='{{page.page_title}}' android_page_title='{{page.android_page_title}}' ios_page_title='{{page.ios_page_title}}' keywords='{{page.keywords}}' android_keywords='{{page.android_keywords}}' ios_keywords='{{page.ios_keywords}}' ios='{{page.ios}}' android='{{page.android}}' description='{{page.description}}' ios_description='{{page.ios_description}}' android_description='{{page.android_description}}' site_title='Contact Us' url='{{site.base_url}}{{page.url}}' %}
+
+  <body>
+	  {% include header.html %}
+    <div class="contributepage fill-height inner__content">
+			<div class="container main">
+				<div class="row">
+					<div class="col-xs-12">
+						<form>
+							<div class="form-group">
+							<label for="name">Name</label>
+							<input type="text" class="form-control" id="name" placeholder="Full Name">
+						  </div>
+						  <div class="form-group">
+							<label for="email">Email address</label>
+							<input type="email" class="form-control" id="email" placeholder="Email">
+						  </div>
+						  <div class="form-group">
+							<label for="comment">Comments</label>
+							<textarea class="form-control" id="comments" placeholder="Comments" rows="3"></textarea>
+						  </div>
+						  <button type="submit" class="btn btn-default">Submit</button>
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+
+	{% include footer.html %}
+
+  </body>
+
+</html>

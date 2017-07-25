@@ -1,0 +1,25 @@
+---
+- key: ios
+  name: iOS
+- key: android
+  name: Android
+- key: cordova
+  name: Cordova / Ionic
+- key: xamarin
+  name: Xamarin
+- key: unity
+  name: Unity
+- key: adobe
+  name: Air ANE
+- key: titanium
+  name: Titanium
+- key: react
+  name: React Native
+- key: web
+  name: Web
+- key: mparticle_ios
+  name: mParticle iOS
+- key: mparticle_android
+  name: mParticle Android
+- key: ios_imessage
+  name: iOS iMessage

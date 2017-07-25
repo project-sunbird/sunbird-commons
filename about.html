@@ -1,0 +1,58 @@
+---
+---
+<!DOCTYPE html>
+<html>
+	{% webasset head page_title='{{page.page_title}}' android_page_title='{{page.android_page_title}}' ios_page_title='{{page.ios_page_title}}' keywords='{{page.keywords}}' android_keywords='{{page.android_keywords}}' ios_keywords='{{page.ios_keywords}}' ios='{{page.ios}}' android='{{page.android}}' description='{{page.description}}' ios_description='{{page.ios_description}}' android_description='{{page.android_description}}' site_title='About Sunbird' url='{{site.base_url}}{{page.url}}' %}
+  <body>
+	  {% include header.html %}
+    <div class="aboutpage fill-height inner__content">
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-12">
+						<h1>About Sunbird</h1>
+						<p>In today’s Information age, Internet and digital technology play a pivotal role in transforming lives. India is an amalgamation of multiple cultures nurtured over centuries, resulting in a unique, thriving, diverse society. The problems faced on ground need multiple, unique solutions that can be resolved only if we join hands and work together.</p>
+						<p>The Sunbird project is a unique, open source, teaching and learning solution; envisaged to democratize knowledge through the collaborative efforts of some of the brightest minds. It is Sunbird’s endeavour to harness the traditional educational system and empower it with modern technology to exponentially increase the efficacy and reach of education and literacy for the masses.</p>
+						<p>Sunbird is software that is cloud-hosted, scalable, extensible, multilingual, offline enabled and highly configurable. It is built for cloud/mobile native environments and enabled for collaboration, mutual interaction and co-creation between institutions, educators, publishers and students. It unfolds a wide array of opportunities to research, communicate, transact, connect, measure impacts, analyze data and build intelligence. &nbsp; <a href="#" class="readMore">Show more...</a></p>
+						<div class="more-text" style="display:none;">
+						<p>Organizations, institutions and individuals can self-host or co-host an instance of Sunbird to suit individual requirements. It provides them free software code, content templates and learning tools.It opens the  arena for multiple stakeholders to collaborate and create effective,  engaging and customizable learning solutions.</p>
+						<p>Salient features of Sunbird:</p>
+						<ul>
+							<li>Opensource</li>
+							<li>Robust, scalable and extensible framework and infrastructure</li>
+							<li>Community forums</li>
+							<li>Collaboration interfaces</li>
+							<li>Easy, felxible course structure definition</li>
+							<li>Flexible, Configurable and Interactive Content Editor</li>
+							<li>Configurable content creation, plugin and templates</li>
+							<li>Multilingual Support</li>
+							<li>Offline Support</li>
+							<li>Tool and resource library</li>
+							<li>Unique user profile pages</li>
+							<li>Member registry</li>
+						</ul>
+						<p><a class="readLess">Show less ...</a></p>
+						</div>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+
+	{% include footer.html %}
+	<script>
+	$(document).ready(function(){
+		$(".readMore").click(function(){
+			$(".more-text").slideDown('slow','swing');
+			$(".readMore").addClass("hide");
+		});
+		$(".readLess").click(function(){
+			$(".more-text").slideUp('slow','swing');
+			$(".readMore").removeClass("hide");
+		});
+		
+		
+	});
+	
+	</script>
+  </body>
+</html>
