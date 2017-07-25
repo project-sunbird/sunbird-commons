@@ -14,11 +14,10 @@ keyword: 'collaborate, partner, consume content, create content'
 ---
 type: landing
 directory: features-documentation
-page_title: Content Editor
-description: Content Editor
+page_title: Collaboration and Partnership
+description: Collaboration and Partnership
 keywords: >-
-  content editor, create course, create content, create lesson, textbook,
-  collection, course
+  collaborate, partner, consume content, create content, partner with sunbird
 hide_platform_selector: true
 hide_section_selector: true
 ---
