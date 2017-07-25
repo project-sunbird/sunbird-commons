@@ -8,14 +8,5 @@ hide_platform_selector: true
 hide_section_selector: true
 published: true
 ---
----
-type: landing
-directory: features-documentation
-page_title: Intellectual Property
-description: Intellectual Property
-keywords: >-
-  copyrights assertion, creation guidelines, review guidelines, 
-hide_platform_selector: true
-hide_section_selector: true
----
+
 # Intellectual Property
