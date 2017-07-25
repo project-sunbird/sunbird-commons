@@ -11,5 +11,8 @@ hide_platform_selector: true
 hide_section_selector: true
 published: true
 ---
+{% ingredient/features-documentation/using content editor%}{% endingredient %}
 
-# Content Editor
+{% ingredient/features-documentation/content types%}{% endingredient %}
+
+{% ingredient/features-documentation/course_create_using editor%}{% endingredient %}
