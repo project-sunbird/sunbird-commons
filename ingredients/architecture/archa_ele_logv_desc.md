@@ -2,7 +2,7 @@
 
 
 
- [Logical View](http://sunbird.github.com/images/log.jpg "The Stormtroopocat")
+ [Logical View](http://sunbird-commons/pages/architecture/image/Layers.png")
 
  
 >Fig 1.2 Logical View of the Sunbird Architecture
