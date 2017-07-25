@@ -11,6 +11,4 @@ published: true
 ---
 {% ingredient/features-documentation/user_self enrollment%}{% endingredient %}
 
-
 {% ingredient/features-documentation/signing in%}{% endingredient %}
-
