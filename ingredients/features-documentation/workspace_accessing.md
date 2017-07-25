@@ -2,16 +2,16 @@
 
 1 Click **Profile** tab on the header,
 
-			OR
-
-  Click the **Profile Icon** and select **Profile**
+**OR**
+        
+Click the **Profile Icon** and select **Profile**
 
 [Image](http://abc.com)
 
 2 Click **View your Workspace** from the right side of the profile page
 
-			OR
-
+**OR**
+        
 Click **Profile Icon** on the header
 
 Select **Workspace** from the drop-down list
