@@ -1,6 +1,7 @@
 ---
 type: landing
-directory: developer-docs/master-pages
+directory: developer-docs
+title: Customizing Sunbird
 page_title: Customizing Sunbird
 description: Customizing Sunbird
 keywords: Customize, Code, look & feel 
@@ -10,4 +11,4 @@ hide_section_selector: true
 
 # Customizing Sunbird
 
-{% ingredient /developer-docs/customize sunbird_look&feel %}{% endingredient %}
+{% ingredient /developer-docs/customize_sunbird_look_feel %}{% endingredient %}

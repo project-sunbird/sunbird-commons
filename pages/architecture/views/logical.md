@@ -14,7 +14,7 @@ From architectural perspective,  there are multiple views of Sunbird architectur
 ##Logical Views
 
 {% ingredient /architecture/archa_ele_logv_desc %}{% endingredient %}
-{% image src='sunbird-commons/pages/architecture/image/logical_arch_new.png' full center alt='LogicalArch.' %}
+{% image src='/pages/architecture/image/logical_arch_new.png' full center alt='LogicalArch.' %}
 {% ingredient /architecture/archd_logv_cat_sb_f_entities_p1 %}{% endingredient %}
 {% ingredient /architecture/archd_logv_cat_sb_f_entities_p2 %}{% endingredient %}
 {% ingredient /architecture/archd_logv_sb_pform %}{% endingredient %}

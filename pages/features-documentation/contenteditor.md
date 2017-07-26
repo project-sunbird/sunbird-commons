@@ -15,19 +15,19 @@ published: true
 
 The Content Editor or Online Authoring Tool allows all users with content creation rights to create multimedia content. Different content editors are available to create content for **Textbooks, Courses, Lessons and Collections**. 
 
-{% ingredient /features-documentation/texbook_create_usingeditor %}{% endingredient %}
+{% ingredient /features-documentation/textbook_create_usingeditor %}{% endingredient %}
 
 {% ingredient /features-documentation/create_textbooks %}{% endingredient %}
 
-{% ingredient /features-documentation/texbook_add_textbook unit %}{% endingredient %}
+{% ingredient /features-documentation/textbook_add_textbook_unit %}{% endingredient %}
 
-{% ingredient /features-documentation/texbook_add_story %}{% endingredient %}
+{% ingredient /features-documentation/textbook_add_story %}{% endingredient %}
 
-{% ingredient /features-documentation/texbook_add_game %}{% endingredient %}
+{% ingredient /features-documentation/textbook_add_game %}{% endingredient %}
 
-{% ingredient /features-documentation/texbook_add_worksheet %}{% endingredient %}
+{% ingredient /features-documentation/textbook_add_worksheet %}{% endingredient %}
 
-{% ingredient /features-documentation/texbook_add_collection %}{% endingredient %}
+{% ingredient /features-documentation/textbook_add_collection %}{% endingredient %}
 
 {% ingredient /features-documentation/course_create_usingeditor %}{% endingredient %}
 

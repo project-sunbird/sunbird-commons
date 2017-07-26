@@ -13,7 +13,7 @@ published: true
 #Conceptual View
 
 {% ingredient /architecture/archd_con_view_desc %}{% endingredient %}
-{% image src='sunbird-commons/pages/architecture/image/conceptual view.jpg' full center alt='General Coceptual View' %}
+{% image src='/pages/architecture/image/conceptualview.jpg' full center alt='General Conceptual View' %}
 {% ingredient /architecture/archd_con_ciew_p1 %}{% endingredient %}
 {% ingredient /architecture/archd_con_ciew_p2 %}{% endingredient %}
 {% ingredient /architecture/archd_con_ciew_p3 %}{% endingredient %}

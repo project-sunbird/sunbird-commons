@@ -1,8 +1,5 @@
-###Logical View  
-
-
-
- [Logical View](http://sunbird-commons/pages/architecture/image/logical_arch_new.png")
+ 
+ [Logical View](/pages/architecture/image/logical_arch_new.png)
 
  
 > Logical View of the Sunbird Architecture

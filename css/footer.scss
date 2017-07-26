@@ -43,7 +43,7 @@
 		.sideline{
 			@media (min-width: 992px){
 				border-left:1px solid #888;
-				min-height:125px;
+				min-height:80px;
 			}
 		}
 	}
@@ -94,3 +94,4 @@
 		margin:0 0 10px 0;
 }
 .footer .footer__top a.social-icon{display:inline-block; margin:5px; color:#b5b5b5;font-size: 16px;}
+iframe#freshwidget-embedded-form .copyright{display:none !important;}

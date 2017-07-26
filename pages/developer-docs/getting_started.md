@@ -1,6 +1,7 @@
 ---
 type: landing
-directory: developer-docs/master-pages
+directory: developer-docs
+title: Getting Started
 page_title: Getting Started
 description: Getting Started
 keywords: Getting Started, Supported, Enviornment
@@ -10,4 +11,4 @@ hide_section_selector: true
 
 # Getting Started
 
-{% ingredient/developer-docs/getting started_supported environment %}{% endingredient %}
+{% ingredient/developer-docs/getting_started_supported_environment %}{% endingredient %}

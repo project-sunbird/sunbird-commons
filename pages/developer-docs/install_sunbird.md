@@ -1,6 +1,7 @@
 ---
 type: landing
-directory: developer-docs/master-pages
+directory: developer-docs
+title: Installation
 page_title: Installation
 description: Installation
 keywords: Installation, Pre-requisite, Quick installation, Installation Procedure

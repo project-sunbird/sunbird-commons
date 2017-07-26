@@ -15,5 +15,5 @@ published: true
 #Architecture Design
 
 {% ingredient /architecture/archdesign_desc %}{% endingredient %}
-{% image src='sunbird-commons/pages/architecture/image/Layers.png' full center alt='Layers' %}
+{% image src='/pages/architecture/image/Layers.png' full center alt='Layers' %}
 {% ingredient /architecture/archdesign_layerdesc %}{% endingredient %}

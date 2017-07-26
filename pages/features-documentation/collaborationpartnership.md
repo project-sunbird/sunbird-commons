@@ -1,6 +1,7 @@
 ---
 type: landing
 directory: features-documentation
+title: Collaboration and Partnership
 page_title: Collaboration and Partnership
 description: Collaboration and Partnership
 keywords: 'Collaborate, Partner, Partner with Sunbird, Contact, Create content'
