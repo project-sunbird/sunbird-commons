@@ -1,5 +1,6 @@
 
 ####Courses
+
 A course is an illustration of content that comprises of the contextual information like the duration of course, type of delivery, organization offering the course, faculty, etc. The course becomes available for Sunbird users based on above contextual information.
  
 **Course Management**
@@ -20,5 +21,5 @@ User courses entity in Sunbird is designed around the following objects and attr
 
 **User content state**
 
-It contains the consumption details of content (inside or outside a course) by a user.User Content State entity in Sunbird is designed around the following objects and attributes 
+It contains the consumption details of content (inside or outside a course) by a user.User Content State entity in Sunbird is designed around the following objects and attributes: 
 User Content State:User Id,Content Id,Course Id, Consumption Status,Score,Result,Grade,View Count,Completion Count,etc.
