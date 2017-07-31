@@ -20,5 +20,4 @@ The architecture is:
 
 * **Multilingual:** Access extensive Sunbird content and user forums in multiple languages,free content and courses shared by Sunbird users across the world.
 
-* **Support:**
-Sunbird is well-supported by an active  community, and a team of dedicated full-time developers.It is driven by open collaboration.
+* **Support:** Sunbird is well-supported by an active  community, and a team of dedicated full-time developers.It is driven by open collaboration.
