@@ -22,4 +22,4 @@ User courses entity in Sunbird is designed around the following objects and attr
 **User content state**
 
 It contains the consumption details of content (inside or outside a course) by a user.User Content State entity in Sunbird is designed around the following objects and attributes: 
-User Content State:User Id,Content Id,Course Id, Consumption Status,Score,Result,Grade,View Count,Completion Count,etc.
+**User Content State**:User Id,Content Id,Course Id, Consumption Status,Score,Result,Grade,View Count,Completion Count,etc.
