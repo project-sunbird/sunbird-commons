@@ -14,5 +14,6 @@ The **organization** in Sunbird is designed around the following objects with fo
 **Organization Hierarchy:** Organization Id,Parent Organization Id,Relation.
 
 ###Users
-User Model contains the identity information that is required to uniquely identify the user and the static profile of the user and its demographic information, etc. A user can be a member of one or more organizations
+
+User Model contains the identity information that is required to uniquely identify the user and the static profile of the user and its demographic information, etc. A user can be a member of one or more organizations.
 Typically, a user can be a member of one or more organizations. “User” Model in Sunbird contains the identity information that is required to uniquely identify the user and the static profile of the user like demographic information, etc. In addition, a user will have a profile that gets refined as users interact with Sunbird platform.
