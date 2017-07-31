@@ -1,5 +1,6 @@
 
 ####Organization
+
 In Sunbird, The User base is not just limited to individuals but it spans across organizations like schools, colleges, education boards & departments, etc.In broader terms, Sunbird architecture defines users as “Organizations”. Following is the hierarchical structure of organization, the basic entity is a “Member”,where in a member can play following roles:
 
 + **Admin:** In Sunbird, the “Admin” has capabilities of adding or removing, changing the roles of other members. Also, an Admin can add or remove sub-hierarchical organizations.
