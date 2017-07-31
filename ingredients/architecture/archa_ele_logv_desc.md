@@ -1,8 +1,4 @@
- 
- [Logical View](/pages/architecture/image/logical_arch_new.png)
-
- 
-> Logical View of the Sunbird Architecture
+Logical View of the Sunbird Architecture
 
 The logical view of Sunbird comprises of the following functional entities:
 
