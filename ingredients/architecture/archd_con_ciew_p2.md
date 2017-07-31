@@ -1,5 +1,5 @@
 
-####Courses
+####Course
 
 A course is an illustration of content that comprises of the contextual information like the duration of course, type of delivery, organization offering the course, faculty, etc. The course becomes available for Sunbird users based on above contextual information.
  
