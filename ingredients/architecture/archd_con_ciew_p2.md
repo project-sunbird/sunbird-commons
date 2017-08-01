@@ -17,7 +17,7 @@ Users in Sunbird can explore and subscribe for the Live courses. Once subscribed
 
 User courses entity in Sunbird is designed around the following objects and attributes:
 
-**User Courses:**User Id,Course Id,Delta-TOC,Progress,Grade,Last Content Id.
+**User Courses:** User Id,Course Id,Delta-TOC,Progress,Grade,Last Content Id.
 
 **User content state**
 
