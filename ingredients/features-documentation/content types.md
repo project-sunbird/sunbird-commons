@@ -1,5 +1,4 @@
-##Content Types and Subtypes
-You can create a:
+There are four types of content:
 
 * Course
 
@@ -7,4 +6,4 @@ You can create a:
 
 * Textbook 
 
-* Collection 
+* Collection
