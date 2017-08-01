@@ -3,6 +3,9 @@ Sunbird works around a dynamic resource center, and data-aware environment. Its 
 
 Sunbird Infrastructure primarily provides:
 
++ Taxonomy.
 + Content repository. 
-+ Learning & Language platform on top of it.
++ Learning management system.
++ User management system
++ Content Editor.
 + Services for data analytics, data exhaust and telemetry.
