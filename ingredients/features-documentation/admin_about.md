@@ -1,6 +1,6 @@
 A system administrator is responsible for all activities associated with the rights and permissions of all users.
 
-CResponsibilities of a system administrator includes:
+Responsibilities of a system administrator includes:
 
 - Creating organizations
 
