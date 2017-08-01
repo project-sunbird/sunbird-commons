@@ -15,5 +15,4 @@ published: true
 #Architecture Design
 
 {% ingredient /architecture/archdesign_desc %}{% endingredient %}
-{% image src='/pages/architecture/image/Layers.png' half center alt='Layers' %}
 {% ingredient /architecture/archdesign_layerdesc %}{% endingredient %}
