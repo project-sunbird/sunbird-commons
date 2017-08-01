@@ -10,8 +10,10 @@ The platform offers and  facilitates these functional entities:
 + Course, 
 + Resources, 
 + Community, 
-For functional entities description, refer to conceptual view . 
+For functional entities description, refer to conceptual view. 
+
 The service entities with functional entities for the core or platform of Sunbird.
+
 **API Gateways:** Sunbird uses modern Micro service Architecture form which provides an intuitive way to hide the services behind a new service layer and provide APIs which are tailored to each client. This aggregator service layer is also known as API Gateway. API gateway permits orchestration, which enables micro services to arrange how the requests are being processed by the architecture.
 
 **Restful API’s:** Sunbird deploys RESTful API’s. The Stateless nature of RESTful Sunbird API’s can freely be re-deployed if something fails. Principally, Sunbird establishes a one-to-one mapping between create, read, update, and delete (CRUD) operations and HTTP methods. Sunbird ideally capitalizes on to keep the interface generalized and allows users to be explicit about the operations they invoke.Also , Sunbird uses Wrapper API’ s to expose an API in a much flexible and friendlier way.These wrapper API’s ease in handling requests and provide a simple set of methods that can be called in wrapper code.
