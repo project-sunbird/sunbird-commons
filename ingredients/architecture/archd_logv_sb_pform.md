@@ -2,16 +2,18 @@
 The Sunbird platform essentially embeds Service oriented architecture, which is a loosely-coupled architecture designed to meet the business needs of the organization.
 
 These form the core of the Sunbird.
+
 + **Functional Entities** 
 + **Service Entities**
 
 The platform offers and  facilitates these functional entities:
+
 + Organisation, 
 + Course, 
 + Resources, 
 + Community, 
-For functional entities description, refer to conceptual view. 
 
+For functional entities description, refer to conceptual view. 
 The service entities with functional entities for the core or platform of Sunbird.
 
 **API Gateways:** Sunbird uses modern Micro service Architecture form which provides an intuitive way to hide the services behind a new service layer and provide APIs which are tailored to each client. This aggregator service layer is also known as API Gateway. API gateway permits orchestration, which enables micro services to arrange how the requests are being processed by the architecture.
