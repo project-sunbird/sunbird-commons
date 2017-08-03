@@ -1,4 +1,4 @@
-## ##**Accessing your Workspace**
+##**Accessing your Workspace**
 
 1 Click **Profile** tab on the header,
 

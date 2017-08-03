@@ -11,4 +11,4 @@ published: true
 ---
 # Courses and Training
 
-<page under construction>
+page under construction

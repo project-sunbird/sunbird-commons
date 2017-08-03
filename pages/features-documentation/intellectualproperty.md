@@ -12,4 +12,4 @@ published: true
 
 # Intellectual Property
 
-<page under construction>
+page under construction

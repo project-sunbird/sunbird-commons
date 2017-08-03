@@ -10,4 +10,4 @@ hide_section_selector: true
 published: true
 ---
 #Implementation View
-<Page in progress>
+Page in progress
