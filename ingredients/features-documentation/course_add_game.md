@@ -1,4 +1,4 @@
-##**Adding Game to the Textbook**
+## Adding Game to the Textbook
 
 1 To add "**Game**" to the Course, select "**Game**" option from the left pane dropdown 
 
