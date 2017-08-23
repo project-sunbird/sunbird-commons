@@ -6,6 +6,7 @@ _site
 # Exclude Node Modules 
 #=======================================
 node_modules/**
+package-lock.json
 #=======================================
 # Exclude SASS Cache
 #=======================================

@@ -3,13 +3,13 @@ title: Sunbird
 name: Sunbird
 email: info@sunbird.org
 description: "Sunbird"
-url: "http://localhost:4000"
-baseurl: ""
+url: "http://open-sunbird.org"
+baseurl: "http://open-sunbird.org"
 environment: production
 permalink: pretty
 markdown: kramdown
 highlighter: pygments
-dashboard_url: "http://localhost:3000"
+dashboard_url: "http://open-sunbird.org"
 branch_github_url: "https://github.com/project-sunbird/sunbird-commons"
 safe: false
 

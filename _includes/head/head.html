@@ -13,7 +13,7 @@ The following variables can/should be passed in
 	<title>{{ include.page_title }}{% if page.title %} - {% endif %}{{ include.site_title | default: 'Sunbird' }}</title>
 
 	<meta name="keywords" content="{% if include.ios_keywords != "true" and include.android_keywords != "true" %}{{ include.keywords | default: 'Learn, Collaborate, Contribute, Open Source, Movement' }}{% endif %}{% if include.ios_keywords == "true" %}{{ include.ios_keywords }}{% endif %}{% if include.android_keywords == "true" %}{{ include.android_keywords }}{% endif %}" />
-	<meta name="description" content="{% if include.ios_description != "true" and include.android_description != "true" %}{{ include.description | default: 'Sunbird Meta Desc' }}{% endif %}{% if include.ios_description == "true" %}{{ include.ios_description }}{% endif %}{% if include.android_description == "true" %}{{ include.android_description }}{% endif %}" />
+	<meta name="description" content="{% if include.ios_description != "true" and include.android_description != "true" %}{{ include.description | default: 'Sunbird - Learn, Collaborate, Contribute, Open Source, Movement' }}{% endif %}{% if include.ios_description == "true" %}{{ include.ios_description }}{% endif %}{% if include.android_description == "true" %}{{ include.android_description }}{% endif %}" />
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
 	<meta name="apple-mobile-web-app-capable" content="yes" />
@@ -21,7 +21,7 @@ The following variables can/should be passed in
 	<link rel="icon" type="image/png" href="{{site.baseurl}}/img/favicon/favicon-16x16.png" sizes="16x16">
 
 	<meta name="msapplication-TileColor" content="#65d3f7">
-	<meta name="msapplication-TileImage" content="/img/favicon/mstile-144x144.png">
+	<meta name="msapplication-TileImage" content="/img/favicon/mstile-150x150.png">
 
 	<!-- Open Graph tags -->
 	<meta property="og:title" content="{% if include.page_title %}{{ include.page_title }} - {% endif %}{{ include.site_title | default: 'Sunbird' }}" />
@@ -37,7 +37,7 @@ The following variables can/should be passed in
 	<meta name="twitter:description" content="{% if include.ios_description != "true" and include.android_description != "true" %}{{ include.description | default: 'Sunbird' }}{% endif %}{% if include.ios_description == "true" %}{{ include.ios_description }}{% endif %}{% if include.android_description == "true" %}{{ include.android_description }}{% endif %}" />
 	<meta name="twitter:image" content="{{site.baseurl}}/img/og_image.png" />
 
-	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,600,700" rel="stylesheet">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
@@ -46,7 +46,6 @@ The following variables can/should be passed in
 	<script type="text/javascript" src="/js/owl.carousel.min.js"></script>
 	<script type="text/javascript" src="/js/all.js"></script>
 
-	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
 	<link href="/css/owl/owl.carousel.min.css" rel="stylesheet" type="text/css" />
 	<link href="/css/style.css" rel="stylesheet" type="text/css" />
 
