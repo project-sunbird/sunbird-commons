@@ -44,6 +44,7 @@ Content added to Sunbird needs to be indexed before it can be discovered. Sunbir
 Before content is published into the Sunbird content repositories it must go through quality checks, packaging for offline access and content analysis. Sunbird uses EkStep's open content publishing APIs to provide secure and reliable content publishing functionality.
 
 #### Telemetry and Analytics
+Telemetry is the core that allows introspection into the operation of the learning platform. The telemetry collected by various elements of the application are routed into logging and analysis infrastructure via [telemetry APIs](/link-to-telemetry-api-documentation). The data collected conforms to the [API Specification](/link-to-telemetry-v3-specification).
 
 ### Bits & Bytes
 #### Tools
