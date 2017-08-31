@@ -1,4 +1,4 @@
-# Open Sunbird Architecture
+# Sunbird Architecture
 
 ## Overview
 
