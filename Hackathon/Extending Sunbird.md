@@ -10,7 +10,7 @@
 
 ### How To customize the login Page? 
 
-###How to customize Logo?
+### How to customize Logo?
 
 
 ## Plugins
