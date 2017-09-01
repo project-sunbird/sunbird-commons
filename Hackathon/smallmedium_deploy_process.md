@@ -1,0 +1,1 @@
+# Procedure for small/medium deployment
