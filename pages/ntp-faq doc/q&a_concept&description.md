@@ -109,23 +109,23 @@
 ###Q: Incorporating Review Changes.###
 ###A: 
 
-###Q: What are the criteria to review content?
+###Q: What are the criteria to review content?###
 ###A: 
 
-###Q: Can you review your own content?
+###Q: Can you review your own content?###
 ###A: 
 
-###Q: Can you upload content at regular intervals or is there a specific time window for content upload?
+###Q: Can you upload content at regular intervals or is there a specific time window for content upload?###
 ###A: 
 
 ###Q: Are APIS required to pull content?
 ###A: 
 
-###Q: After content is uploaded on the platform, do updates made to the original content in the organization’s repository reflect automatically in platform's repository?
+###Q: After content is uploaded on the platform, do updates made to the original content in the organization’s repository reflect automatically in platform's repository?###
 ###A: 
 
-###Q: Does any change in the organization’s content repository affect the content repository on the platform?
+###Q: Does any change in the organization’s content repository affect the content repository on the platform?###
 ###A:
 
-###Q: Is the content provided stored in platform’s repository?
+###Q: Is the content provided stored in platform’s repository?###
 ###A: 
