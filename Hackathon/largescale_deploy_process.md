@@ -1,1 +1,0 @@
-# Procedure for large-scale deployment 
