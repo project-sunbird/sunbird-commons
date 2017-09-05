@@ -1,11 +1,11 @@
-###Q: Which product features are relevant for content creators and content providers?###
-###A: 
+### Q: Which product features are relevant for content creators and content providers?
+### A: 
 
-###Q: What are the languages supported on the platform?###
-###A: 
+### Q: What are the languages supported on the platform?
+### A: 
 
-###Q: Who is the audience for the content on the platform?###
-###A: 
+### Q: Who is the audience for the content on the platform?
+### A: 
 
 ###Q: Can content be specific to an organization?###
 ###A:
