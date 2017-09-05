@@ -1,4 +1,4 @@
-Currently, NTP supports the following formats for compiled content:
+Currently, the platform supports the following formats for compiled content:
 - Text (.pdf)
 - Video (.mp4, .webm, YouTube URLs)
 - HTML 
