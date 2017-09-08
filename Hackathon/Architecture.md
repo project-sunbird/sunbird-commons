@@ -2,6 +2,9 @@
 
 With a multi-tenant and robust framework. Sunbird Architectural design is resilient, flexible and agile. The Service Oriented & Microservice patterns enhances the structure and functionality of Sunbird. Sunbird employs a modern micro-service based architectural design. Applications and components access a common set of [well-documented, public APIs] (/link-to-api-documentation). In addition to its core components, Sunbird leverages a powerful set of content and analytics infrastructure from [EkStep](https://www.ekstep.org). In addition, the design patterns provide services. The architectural design is structured in such a manner that it maximizes on abstraction and security, enables portability, augments testing, provides seamless maintainability, gives better scalability, provides higher availability, Interoperability and rationalization.
 
+>**Diagram under review** 
+
+
 ## Key Components
 The essential components from which Sunbird derives its power are its content creation and distribution applications. Sunbird also incorporates a robust standards-based user registry to manage users and organisations and enables powerful community building tools.
 
