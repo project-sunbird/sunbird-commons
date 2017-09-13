@@ -15,18 +15,18 @@ Installing Sunbird requires two primary software components, the Sunbird portal 
 # Sunbird Portal Setup
 
 ## Prerequisites
+Please complete the following pre-requisites before installing and running the sunbird-player application
 
 ### Software dependencies
-Please install the following pre-requisites before attempting to install and run the sunbird-player application
 * [Node](https://nodejs.org/en/download/) - install the latest release of 6.x.x LTS series
-* [Bower](https://bower.io/#install-bower) (npm install -g bower) - latest version of bower
-* [Gulp](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md) (npm install -g gulp-cli) - latest version of gulp
+* [Bower](https://bower.io/#install-bower) - latest version of bower: `npm install -g bower`
+* [Gulp](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md) - latest version of gulp: `npm install -g gulp-cli`
 * [Mongo DB](https://www.mongodb.com/) - v3.4.1 and newer
 
 ### API Keys
 This installation guide will use a cloud hosted Sunbird APIs for which an API key is needed. Please email info@sunbird.org for an API key to use when [configuring the application](#edit-the-application-config).
 
-## Instructions to setup
+## Setup
 * Checkout the code from `https://github.com/project-sunbird/sunbird-portal.git`
 * Run the following commands
 ```
@@ -61,6 +61,7 @@ module.exports = {
   ...
 }
 ```
+## Run Application
 * Run the following commands:
 ```
 $ gulp build`
@@ -68,3 +69,6 @@ $ cd <PROJECT-FOLDER>/src/app
 $ node server.js
 ```
 * Open `http://localhost:3000` in browser
+
+# Sunbird Services Setup
+Coming soon!
