@@ -25,6 +25,12 @@
 ### Q: What data does a content provider see?
 ### A: 
 
+### Q: How do you sign up on the platform?
+### A: 
+
+### Q: How do you upload organizations on the platform?
+###A: 
+
 ### Q: Who owns content on the platform?
 ### A: 
 
@@ -128,4 +134,4 @@
 ### A:
 
 ### Q: Is the content provided stored in platform’s repository?
-### A: 
+### A:
