@@ -15,5 +15,7 @@ Organization administrators can use the credentials received to sign in and uplo
 1. The OrgName column is mandatory. Enter organization name in this column
 1. Enter each organization’s name in a separate row
 1. Entering details in all other columns is optional
-
-
+1. Save the csv file to your computer
+1. Click UPLOAD ORGANIZATIONS CSV. The explorer window is displayed
+1. Select the saved csv file and click open
+1. On successful file upload, a message intimating you of the same will be displayed, else an error message is displayed 
