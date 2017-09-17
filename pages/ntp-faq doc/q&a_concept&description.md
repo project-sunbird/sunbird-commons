@@ -31,6 +31,18 @@
 ### Q: How do you upload organizations on the platform?
 ###A: 
 
+### Q: How do you upload users on the platform?
+### A: 
+
+### Q: How do you integrate organization's existing teacher database with the platform?
+### A: 
+
+### Q: How do you add teacher profiles on the platform?
+### A: 
+
+### Q: How to update teacher regisrty on the platform? 
+### A: 
+
 ### Q: Who owns content on the platform?
 ### A: 
 
@@ -64,7 +76,7 @@
 ### Q: Explain the framework-taxonomy matrix
 ### A: 
 
-### Q: How does NTP use taxonomy, metadata and frameworks?
+### Q: How does this platform use taxonomy, metadata and frameworks?
 ### A: 
 
 ### Q: Can you create your own framework or tag content to other people’s framework?
@@ -109,10 +121,19 @@
 ### Q: Who can create content on the platform?
 ### A: 
 
+### Q: How do you create a course on the platform?
+### A: 
+
+### Q: How do you create a book on the platform?
+### A: 
+
 ### Q: Who reviews content?
 ### A: 
 
-### Q: Incorporating Review Changes.
+### Q: Sending content for review
+### A: 
+
+### Q: Incorporating Review Changes
 ### A: 
 
 ### Q: What are the criteria to review content?
@@ -121,10 +142,16 @@
 ### Q: Can you review your own content?
 ### A: 
 
+### Q: What is bulk upload? Is bulk upload possible on the platform? 
+### A: 
+
 ### Q: Can you upload content at regular intervals or is there a specific time window for content upload?
 ### A: 
 
 ### Q: Are APIS required to pull content?
+### A: 
+
+### Q: How can you fix errors after uploading content?
 ### A: 
 
 ### Q: After content is uploaded on the platform, do updates made to the original content in the organization’s repository reflect automatically in platform's repository?
