@@ -10,7 +10,9 @@ To set up the teacher registry:
 		i. Organization ID
 		ii. Username for teacher
 		iii. Teacher ID
-	b) Verified Email ID and mobile number of the teacher
+	
+    b) Verified Email ID and mobile number of the teacher
+    
 1. Defined role of the user (Whether the user is creator, member, admin, reviewer)
 1. Reply to the team’s  email at  content.ntp@centralsquarefoundation.org  informing them  that you have met all the requirements on the checklist
 1. The team will share a document with a link to the github repository to  your organization’s registered email ID.
