@@ -21,7 +21,7 @@
 1. You can add or upload details of up to 200 users at a time in one csv file
 1. The following columns are mandatory:
 
-Column Title | |Description
+Column Title | Description
 -------------|-|-----------
 FirstName | User’s first name
 Email | User’s verified email ID
@@ -30,13 +30,12 @@ Password | Unique name assigned to the user by the organization. For example, un
 
 ***Note:***
 *UserName and FirstName should not be the same*
-
 7. All other columns are optional. These columns include information about the user such as:
 
 Column Title	| Description
 -------------|-|-----------
- Role | User’s role on DIKSHA. For example; whether the user is a creator, reviewer or administrator.
-Grade | Classes taught by the user
+ Role	| User’s role on DIKSHA. For example; whether the user is a creator, reviewer or administrator.
+Grade	| Classes taught by the user
 Location | User’s place of location of the user
 DOB | User’s date of birth, the value should be entered in DD-MM-YYYY format
 Gender | User’s gender
