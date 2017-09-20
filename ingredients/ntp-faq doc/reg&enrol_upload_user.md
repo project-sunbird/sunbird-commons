@@ -1,5 +1,5 @@
 ### Signing In
-1. Sign in the DIKSHA portal using your registered credentials
+1. Sign in the platform portal using your registered credentials
 
 ### Accessing your Workspace
 1. Click Profile tab on the header
@@ -30,6 +30,7 @@ Password | Unique name assigned to the user by the organization. For example, un
 
 ***Note:***
 *UserName and FirstName should not be the same*
+
 7. All other columns are optional. These columns include information about the user such as:
 
 Column Title	| Description
