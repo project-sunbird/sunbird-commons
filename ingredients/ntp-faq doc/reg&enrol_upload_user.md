@@ -22,7 +22,7 @@
 1. The following columns are mandatory:
 
 Column Title | Description
--------------|-|-----------
+-------------|-----------
 FirstName | User’s first name
 Email | User’s verified email ID
 UserName | User’s place of location of the user
@@ -34,7 +34,7 @@ Password | Unique name assigned to the user by the organization. For example, un
 7. All other columns are optional. These columns include information about the user such as:
 
 Column Title	| Description
--------------|-|-----------
+-------------|-----------
  Role	| User’s role on DIKSHA. For example; whether the user is a creator, reviewer or administrator.
 Grade	| Classes taught by the user
 Location | User’s place of location of the user
