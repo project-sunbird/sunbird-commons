@@ -18,4 +18,4 @@ Organization administrators can use the credentials received to sign in and uplo
 1. Save the csv file to your computer
 1. Click UPLOAD ORGANIZATIONS CSV. The explorer window is displayed
 1. Select the saved csv file and click open
-1. On successful file upload, a message intimating you of the same will be displayed, else an error message is displayed 
+1. On successful file upload, a message intimating you of the same will be displayed, else an error message is displayed
