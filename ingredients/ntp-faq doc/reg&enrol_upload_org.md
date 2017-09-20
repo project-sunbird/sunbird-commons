@@ -18,11 +18,11 @@ Organization administrators can use the credentials received to sign in and uplo
 
 Column Title | Description
 -------------|------------
- isRootOrg | | Valid value for this column is True
+ isRootOrg	| Valid value for this column is True
 channel |Unique ID provided during master organization creation
-externalId | | Unique ID associated with each organization in the administrating | organization’s repository
-provider | |Channel ID of the administrator organization
-description |Details describing | the organization
+externalId | Unique ID associated with each organization in the administrating organization’s repository
+provider | Channel ID of the administrator organization
+description |Details describing the organization
 homeUrl |Organization’s homepage url
 orgCode | Organization’s unique code, if any,
 orgType | Type of organization, such as, NGO, primary school, secondary school etc
