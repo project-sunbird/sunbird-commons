@@ -36,7 +36,8 @@ You have a choice to use bare metal machines or go with a Cloud provider of your
 - Deploy [services](#service-deploy)
 
 ## Installation Details
-Following are some sample commands to automate various acts. Replace ? as appropriate. Understanding of Ansible is expected.
+Getting started with installation can be a daunting task. Fortunately, we've simplified the installation process.
+
 ### Machine bootstrap
 This bootstraps the VMs with initial configuration needed for automated script access.
 ```
