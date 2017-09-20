@@ -29,7 +29,7 @@
 ### A: 
 
 ### Q: How do you upload organizations on the platform?
-###A: 
+### A: 
 
 ### Q: How do you upload users on the platform?
 ### A: 
