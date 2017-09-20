@@ -1,6 +1,7 @@
+
 # Installation
 
-If you've read the [Sunbird architecture](/architecture) description, you will have read that it requires several distributed components for runtime operation. Getting started with this complexity can be a daunting task. Fortunately, we've simplified the installation process for some common scenarios.
+If you've read the [Sunbird architecture](/architecture) description, you will be aware that it requires several distributed components for runtime operation. Getting started with this complexity can be a daunting task. Fortunately, we've simplified the installation process for some common scenarios.
 
 ## Choosing an installation method
 Based on your usage and the level of complexity which you are comfortable with, there are a few different paths to installing and running Sunbird.
