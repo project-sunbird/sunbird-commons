@@ -7,7 +7,8 @@ To set up the teacher registry:
 1. Ensure that you have all the requirements on the checklist. The checklist includes information such as:
 	
     a) Unique and permanent:
-			i. Organization ID
+			
+            i. Organization ID
 			ii. Username for teacher
 			iii. Teacher ID
 	
