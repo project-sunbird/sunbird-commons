@@ -8,9 +8,9 @@ To set up the teacher registry:
 	
     a) Unique and permanent:
 			
-            i. Organization ID
-			ii. Username for teacher
-			iii. Teacher ID
+		i. Organization ID
+		ii. Username for teacher
+		iii. Teacher ID
 	
     b) Verified Email ID and mobile number of the teacher
     
