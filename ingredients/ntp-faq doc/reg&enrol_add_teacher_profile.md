@@ -6,9 +6,9 @@ To create or update your profile:
 1. Click Profile tab on the header
 <Image>
 1. Depending on your organisation, you may already see  some information available.
-1. Add or  edit the following details :
-	    
-        a) Experience: Add your occupation details  such as work title, organization name, joining date, etc
+1. Add or edit the following details :
+
+	    a) Experience: Add your occupation details  such as work title, organization name, joining date, etc
   <Image>
 	    b) Address: Add  your permanent and current address
   <Image>
