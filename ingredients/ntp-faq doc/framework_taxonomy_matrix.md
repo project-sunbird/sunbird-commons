@@ -1,8 +1,8 @@
  
 Framework-taxonomy matrix
 
-Framework name | Taxonomy used | Level
----------------|---------------|------
+Framework name	|Taxonomy used	|Level
+----------------|---------------|------
 Curriculum Tags	|Subject(s)	|1
 Framework	|Topic(s)	|2
 	|Subtopic(s)	|3
