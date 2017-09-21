@@ -142,6 +142,9 @@
 ### Q: Can you review your own content?
 ### A: 
 
+### Q: How do you upload content on the platform?
+### A: 
+
 ### Q: What is bulk upload? Is bulk upload possible on the platform? 
 ### A: 
 
