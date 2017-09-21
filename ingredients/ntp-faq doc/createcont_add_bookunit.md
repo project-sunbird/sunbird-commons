@@ -11,9 +11,9 @@
 	- Select the image and click Select to save and use the image
 	- Click Upload and use to upload an image. The Upload and use page is displayed.
 	- Choose the file or drag and drop the file. Supported file formats are:
-		.jpeg
-		.jpg
-		.png
+		- .jpeg
+		- .jpg
+		- .png
 1. Under Copyright & License, you can select whether to make the image available to everyone who has access to DIKSHA portal or restrict sharing the image. The options available are:
 	- Yes, make it available to everyone. Enter the mandatory fields from the form (Asset Caption and Creator) displayed.
 	- No, don’t share with anyone
@@ -23,4 +23,3 @@
 1. Click Send for review to send the created course unit for review
 
 You can add collections, stories and worksheets under your book unit
-
