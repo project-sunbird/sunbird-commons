@@ -1,1 +1,0 @@
-Content creators on this platform can be individuals or organisations. The content creators are owners of the content. All creators should ensure that their work does not violate any rights and possible claims of third parties. They are solely responsible for any violation of third party rights. 
