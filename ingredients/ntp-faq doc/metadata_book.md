@@ -2,7 +2,7 @@ There are metadata for different content types. Labels used for filling out meta
 
 Book metadata
 
-Textbook | Unit | Collection | Story | Worksheet
+Book | Unit | Collection | Story | Worksheet
 ---------|------|------------|-------|----------
 Title*  |Unit Title*    |Language   |Language   |Language
 Board   |Description*   |Grade  |Grade  |Grade
