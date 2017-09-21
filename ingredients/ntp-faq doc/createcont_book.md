@@ -5,14 +5,13 @@
 1. Click Profile tab on the header 
 		
         OR
-   	Click the Profile Icon and select Profile
+Click the Profile Icon and select Profile
 <Image>
 1. Click View your Workspace from the right side of the profile page
 		
         OR
- 	Click Profile Icon on the header > select Workspace from the drop-down list
+Click Profile Icon on the header > select Workspace from the drop-down list
 <Image>
-
 ### Creating a Book
 1. Click Book tab. The Create Book page is displayed
 2. Enter Name and select options from the dropdown list for Curriculum, Medium, Subject and Class
