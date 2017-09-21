@@ -4,6 +4,7 @@
 
 ***Note:***
 *You may choose to fill these details later, in the course creation page*
+
 3. The Course Creation page is displayed 
 4. Click + icon in the left navigation pane to add a Course Unit, Collection, Story, and/or Worksheet
 5. Click Edit in the right navigation pane to edit details of the course 
