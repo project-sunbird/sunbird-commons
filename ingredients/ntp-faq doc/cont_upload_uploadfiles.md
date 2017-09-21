@@ -21,8 +21,8 @@ Enter URL of the video ( If the file to be uploaded is a Youtube Video)
 	- Enter Name and select options from the dropdown list for Board, Medium, Subject and Grade
 	- Select Audience from the drop-down list available. You can select among two types of audiences:
 		
-        a. Learner
-		b. Instructor
+        	a. Learner
+			b. Instructor
 	
     - Specify the Resource Type from the drop-down list provided on the page. 
 	- From the Concept field, select any concept(s) from the list displayed
