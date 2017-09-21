@@ -1,1 +1,0 @@
-Currently, this platform does not support individual pages for organizations. Later, this feature will be provided.
