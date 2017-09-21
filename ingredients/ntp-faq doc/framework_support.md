@@ -1,7 +1,7 @@
 This platfom currently supports four frameworks based on the following framework types:
 
-- Teacher Competency     eg. CENTA, B.Ed,  
-- Curriculum Framework  eg. NCF, MSCERT, ICSE, CBSE
+- Teacher Competency, eg. CENTA, B.Ed,  
+- Curriculum Framework, eg. NCF, MSCERT, ICSE, CBSE
 
 The frameworks supported are:
 - Curriculum Tags Framework
