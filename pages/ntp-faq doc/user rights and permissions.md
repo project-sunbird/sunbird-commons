@@ -1,4 +1,3 @@
-#User Rights and Permissions	
 ---
 type: landing
 directory: ntp-faq doc
@@ -8,6 +7,7 @@ keywords: 'Content creator, Content provider, Feature, Platform, Product, Admini
 hide_platform_selector: true
 hide_section_selector: true
 ---
+#User Rights and Permissions	
 
 **What user roles does the platform support?**
 
