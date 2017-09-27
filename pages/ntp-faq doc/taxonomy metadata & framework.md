@@ -2,8 +2,8 @@
 type: landing
 directory: ntp-faq doc
 page_title: Feature
-description: Product features
-keywords: 'Content creator, Content provider, Feature, Platform, Product'
+description: About taxonomy, metadata and framework
+keywords: 'taxonomy, metadata, framework, coourse metadata, book metadata, collection metadata, lesson metadata, contribute taxonomy, different frameworks, tags, tagging on platform, add taxonomy, create vocabulary list, vocabulary list'
 hide_platform_selector: true
 hide_section_selector: true
 ---
