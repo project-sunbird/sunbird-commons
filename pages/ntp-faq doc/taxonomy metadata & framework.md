@@ -64,9 +64,9 @@ hide_section_selector: true
 
 {% ingredient /ntp-faq doc/taxonomy_vocab_list %}{% endingredient %}
 
-**How do I create a vocabulary list?**
+**What is the need for multiple frameworks and not a unified standard framework?**
 
-{% ingredient /ntp-faq doc/taxonomy_vocab_list %}{% endingredient %}
+{% ingredient /ntp-faq doc/framework_stndrd_ %}{% endingredient %}
 
 
 
