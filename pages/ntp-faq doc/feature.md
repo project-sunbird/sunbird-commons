@@ -1,0 +1,22 @@
+---
+type: landing
+directory: ntp-faq doc
+page_title: Feature
+description: Product features
+keywords: >-
+  Content creator, Content provider, Feature, Platform, Product, Languages,
+  Languages Supported, Multilingual Support, Indian Languages
+hide_platform_selector: true
+hide_section_selector: true
+published: true
+---
+
+#Features
+
+**Which product features are relevant for content creators and content providers?**
+
+{% ingredient /ntp-faq doc/feature_contcreator&provider %}{% endingredient %}
+
+**What are the languages supported on the platform?**
+
+{% ingredient /ntp-faq doc/feature_lang_support %}{% endingredient %}
