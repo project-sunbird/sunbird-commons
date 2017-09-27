@@ -1,4 +1,14 @@
-### **Glossary** ###
+---
+type: landing
+directory: ntp-faq doc
+page_title: Glossary
+description: Terms, definition and usage
+keywords: 'Glossary, domain, taxonomy, metadata, searchability, discoverability,vocabulary,framework,user, content provider, content creator, platform, product, information'
+hide_platform_selector: true
+hide_section_selector: true
+---
+
+## **Glossary** ##
 
 Term | Defination |NTP Usage/Example
 -----|-----------|-----------------
@@ -11,7 +21,3 @@ content |Expression and elucidation of a thought using speech, writing, images, 
 Vocabulary  |A list of words or phrases, used in a defined context. The vocabulary may differ when the context changes. For example; ‘The house plan submitted to the authorities did not fit in with the government’s plan to develop the area |The NTP has a vocabulary that covers universally known learning concepts or objectives. Every content piece on the NTP is tagged with one or many vocabulary words. The vocabulary words are associated with frameworks. E.g. Addition, Nouns, Plant Life, Pedagogy, Classroom Management
 Tags    |Tags and metadata are synonyms. Any content piece can have multiple tags   |On the NTP, tags associated with content make it easily searchable. There are five broad categories of tags mandated by the content editor and during content upload: - Content Description, - File Related, - Ownership and Audience, - Area Specific Fields, - Additional/User Defined, - Tags/Keywords
 framework   |A structure designed to define the scope of something  |In the context of the NTP, the framework is defined through a string of vocabularies, arranged to achieve a learning outcome. There are two types of frameworks: -Teacher Competency, eg. CENTA, B.Ed, - Curriculum Framework, eg. NCF, MSCERT, ICSE, CBSE,
-
-
-
-
