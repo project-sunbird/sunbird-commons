@@ -1,9 +1,2 @@
-Currently, the platform user's are categorized as:
+Yes, content can be targeted to users in an organization. The content is tagged appropriately. 
 
-- Organization Administrator
-- System Administrator
-- Content Creator
-- Content Reviewer
-- Registered General User
-
-The workflows for all user roles can be configured.
