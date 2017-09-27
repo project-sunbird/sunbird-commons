@@ -16,5 +16,5 @@ Click **Profile Icon** on the header
 
 Select **Workspace** from the drop-down list
 
-{% image src='/pages/ntp-faq doc/images/viewwrkspac.png' full center alt='My Workspace' %}
+
 
