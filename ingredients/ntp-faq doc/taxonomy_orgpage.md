@@ -1,0 +1,14 @@
+Currently, the platform supports individual pages for organizations such as states and NGOs. 
+
+To add an organization homepage:
+
+1.Write an email to content.ntp@centralsquarefoundation.org, with the subject as ‘Request for custom home page
+1.The team will respond with recommendations and a checklist.
+1.Create your own static design in  html. 
+1.Send the html page to content.ntp@centralsquarefoundation.org 
+1.The team will create and  integrate it within the portal
+1.After it is integrated, the team will share the unique url with the organization.
+1.Typically, the url for the organization’s home page will be https://ntp.net.in/*contentprovider* 
+
+_Note:_
+Home page serves as the entry point for any website. 
