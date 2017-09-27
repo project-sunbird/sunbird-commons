@@ -6,7 +6,7 @@
         
 Click the **Profile Icon** and select **Profile**
 
-[Image](http://abc.com)
+{% image src='/pages/ntp-faq doc/images/prfilpg.png' full center alt='Profile Page' %}
 
 2 Click **View your Workspace** from the right side of the profile page
 
@@ -16,4 +16,5 @@ Click **Profile Icon** on the header
 
 Select **Workspace** from the drop-down list
 
-[Image](http://abc.com)
+{% image src='/pages/ntp-faq doc/images/viewwrkspac.png' full center alt='My Workspace' %}
+
