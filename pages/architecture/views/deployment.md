@@ -10,5 +10,6 @@ hide_section_selector: true
 published: true
 ---
 
-#Deployment View
-Page in progress
+# Deployment View
+
+{% ingredient /architecture/arch_deploy_view %}{% endingredient %}
