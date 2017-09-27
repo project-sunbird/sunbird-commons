@@ -55,3 +55,18 @@ hide_section_selector: true
 **How can you contribute to taxonomy?**
 
 {% ingredient /ntp-faq doc/taxonomy_contribute %}{% endingredient %}
+
+**Can you build a framework on the platform?**
+
+{% ingredient /ntp-faq doc/framework_build %}{% endingredient %}
+
+**How do I create a vocabulary list?**
+
+{% ingredient /ntp-faq doc/taxonomy_vocab_list %}{% endingredient %}
+
+**How do I create a vocabulary list?**
+
+{% ingredient /ntp-faq doc/taxonomy_vocab_list %}{% endingredient %}
+
+
+
