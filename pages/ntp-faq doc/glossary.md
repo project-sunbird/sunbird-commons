@@ -14,7 +14,7 @@ published: true
 
 ## **Glossary** ##
 
-Term | Defination |Usage/Example
+Term | Definition |Usage/Example
 -----|------------|-----------------
 Domain | An area or range of knowledge, learning or information | Knowledge and learning can be classified using multiple filters - by subject, grade, competency or skill areas. On the NTP, a Domain is associated with multiple frameworks; e.g. Elementary Education, Science, Pedagogy, B.Ed, etc
 Taxonomy    |A pre-determined classification that provides an unambiguous conceptual framework. The classification describes and separates mutually exclusive categories and subcategories of topics. Taxonomies help individuals and search engines find and retrieve information and content  |  On the NTP, all content pieces must have metadata such as a title, description and other identifying elements that classify and aid the flow of content. NTP’s inbuilt taxonomy improves search results and helps users discover relevant content. It also helps the system automatically recommend content based on user profile and preference, thus enhancing user experience
