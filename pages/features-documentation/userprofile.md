@@ -9,4 +9,4 @@ hide_platform_selector: true
 hide_section_selector: true
 published: true
 ---
-Page in Progress
+{% ingredient /ntp-faq doc/reg&enrol_add_teacher_profile %}{% endingredient %}
