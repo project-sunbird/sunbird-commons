@@ -17,5 +17,5 @@ Note: pre-requisites are not required to try out the sandbox option.
 
 * [I want to try Sunbird](install_trysb_p2.md)
 * [I want to extend Sunbird](install_wanttextsb_p3)
-* [I want a medium scale deployment of Sunird](install_medscdep_p4.md)
+* [I want a medium scale deployment of Sunbird](install_medscdep_p4.md)
 * [I want a large scale deployment of Sunbird](install_largescdep_p5)
