@@ -25,3 +25,9 @@ At a minimum, you should be:
 * Comfortable with a terminal.Sunbird installation is triggered from the command-line terminal.
 
 Note: pre-requisites are not required to try out the sandbox option.
+ 
+ [I want to try Sunbird]{% ingredient /developer-docs/install_overview_chooseinstallmethod_p2 %}{% endingredient %}
+* [I want to extend Sunbird]{% ingredient /developer-docs/install_wantextsb_p3 %}{% endingredient %}
+* [I want a medium scale deployment of Sunbird]{% ingredient /developer-docs/install_medscdep_p4 %}{% endingredient %}
+* [I want a large scale deployment of Sunbird]{% ingredient /developer-docs/install_largescdep_p5 %}{% endingredient %}
+
