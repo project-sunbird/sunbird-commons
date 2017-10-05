@@ -1,7 +1,7 @@
 ---
 type: landing
 directory: developer-docs
-title: Getting Started
+title: Installation Overview
 page_title: Installation
 description: About Installing Sunbird
 keywords: Install Sunbird
