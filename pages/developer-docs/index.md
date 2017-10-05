@@ -30,4 +30,3 @@ Note: pre-requisites are not required to try out the sandbox option.
 * [I want to extend Sunbird]{% ingredient /developer-docs/install_wantextsb_p3 %}{% endingredient %}
 * [I want a medium scale deployment of Sunbird]{% ingredient /developer-docs/install_medscdep_p4 %}{% endingredient %}
 * [I want a large scale deployment of Sunbird]{% ingredient /developer-docs/install_largescdep_p5 %}{% endingredient %}
-
