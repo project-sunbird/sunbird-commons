@@ -10,7 +10,7 @@ hide_section_selector: true
 ---
 # API Reference
 
-{% ingredient /developer-docs/api_custom_javascript_plugin %}{% endingredient %}
+{% ingredient /developer-docs/organisation_man_api.md %}{% endingredient %}
 
 {% ingredient /developer-docs/api_rest_api %}{% endingredient %}
 
