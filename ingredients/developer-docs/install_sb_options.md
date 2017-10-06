@@ -6,5 +6,5 @@
 	This will get you started quickly so you can start extending Sunbird.
 * **I want a medium scale deployment of Sunbird**
 	If you plan to run Sunbird in a setting upto 10k users, we recommend you follow the process [Medium scale deployment]
-	(/developer-docs/install_medscdepcontent_p7 %).This option uses less resources to run Sunbird and has some limits on how much the 	 installed application can scale.
-* **I want a large scale deployment of Sunbird** If you plan to run Sunbird in a setting with 10k+ users, we recommend you follow the [large-scale deployment process] (/developer-docs/install_largescdepcontent_p8).This will deploy Sunbird to a cloud-hosting provider of your choice in a fully containerised manner. The containers allow you to scale the resources Sunbird consumes based on the usage.(/developer-docs/install_largescdep_p5)
+	(/developer-docs/install_medscdepcontent_p7).This option uses less resources to run Sunbird and has some limits on how much the 	 installed application can scale.
+* **I want a large scale deployment of Sunbird** If you plan to run Sunbird in a setting with 10k+ users, we recommend you follow the [large-scale deployment process] (/developer-docs/install_largescdepcontent_p8).This will deploy Sunbird to a cloud-hosting provider of your choice in a fully containerised manner. The containers allow you to scale the resources Sunbird consumes based on the usage.
