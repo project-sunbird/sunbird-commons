@@ -10,8 +10,8 @@ hide_section_selector: true
 ---
 # API Reference
 
-{% ingredient /developer-docs/organisation_man_api.md %}{% endingredient %}
+{% ingredient /developer-docs/api_organisation_man.md %}{% endingredient %}
 
-{% ingredient /developer-docs/api_rest_api %}{% endingredient %}
+{% ingredient /developer-docs/api_user_man.md %}{% endingredient %}
 
-{% ingredient /developer-docs/api_core_api %}{% endingredient %}
+{% ingredient /developer-docs/api_content.md %}{% endingredient %}
