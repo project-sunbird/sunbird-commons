@@ -1,4 +1,4 @@
-Currently, DIKSHA users are categorized as:
+Currently, Sunbird users are categorized as:
 
 - Organization Administrator
 - System Administrator
