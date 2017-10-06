@@ -15,5 +15,5 @@ published: true
 {% ingredient /developer-docs/install_sb_overview_p1 %}{% endingredient %}
 
 
-## Installation options
+## Installation Options
 {% ingredient /developer-docs/install_sb_options.md %}{% endingredient %}
