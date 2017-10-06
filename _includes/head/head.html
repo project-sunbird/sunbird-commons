@@ -51,4 +51,11 @@ The following variables can/should be passed in
 
 	{{ include.head }}
 	{% include trackers.html %}
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments)};
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-106552125-1');
+	</script>
 </head>

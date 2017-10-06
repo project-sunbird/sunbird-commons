@@ -1,0 +1,128 @@
+version: 2
+jobs:
+  staging:
+    working_directory: project/workspace/
+    docker:
+      - image: lakhanmandloi/sunbird-ubuntu
+    steps:
+    
+      #Checkout
+      - checkout
+      
+      # NPM Dependencies
+      - restore_cache:
+          key: sunbird-qa-npm-{{ checksum "package.json" }}
+      - run:
+          name: Install npm
+          command: npm install
+      - save_cache:
+          key: sunbird-qa-npm-{{ checksum "package.json" }}
+          paths:
+            - node_modules
+            
+      # Bundle Dependencies
+      - restore_cache:
+          key: sunbird-qa-ruby-{{ checksum "Gemfile.lock" }}
+      - run: bundle install --path vendor/bundle
+      - run: bundle update
+      - save_cache:
+          key: sunbird-qa-ruby-{{ checksum "Gemfile.lock" }}
+          paths:
+            - vendor/bundle
+            
+      # Run Build command
+      - type: shell
+        command: |
+          bundle exec jekyll build
+   
+      # Deploy to Gitpages
+      - type: shell
+        command: |
+           bundle exec s3_website push
+          
+      # Store Artifacts
+      - store_artifacts:
+          path: /project/workspace/_site
+          destination: sunbird-artifact-file-qa
+          
+  prod:
+    working_directory: project/workspace/
+    docker:
+      - image: lakhanmandloi/sunbird-ubuntu
+    steps:
+    
+      #Checkout
+      - checkout
+      
+      # NPM Dependencies
+      - restore_cache:
+          key: sunbird-prod-npm-{{ checksum "package.json" }}
+      - run:
+          name: Install npm
+          command: npm install
+      - save_cache:
+          key: sunbird-prod-npm-{{ checksum "package.json" }}
+          paths:
+            - node_modules
+            
+      # Bundle Dependencies
+      - restore_cache:
+          key: sunbird-prod-ruby-{{ checksum "Gemfile.lock" }}
+      - run: bundle install --path vendor/bundle
+      - run: bundle update
+      - save_cache:
+          key: sunbird-prod-ruby-{{ checksum "Gemfile.lock" }}
+          paths:
+            - vendor/bundle
+            
+      # Run Build command
+      - type: shell
+        command: |
+          bundle exec jekyll build
+          
+      - add_ssh_keys:
+          fingerprints:
+            - "95:dd:d1:b9:84:d7:bc:96:88:c2:f9:0f:4d:96:fc:17"
+        
+          
+      # Deploy to Gitpages
+      - type: shell
+        command: |
+          git config --global user.email "lakhan_m@tekditechnologies.com"
+          git config --global user.name "Lakhan Mandloi"
+          cd ..
+          mkdir deploy
+          cd deploy
+          git clone git@github.com:lakhanmandloi/lakhanmandloi.github.io.git
+          cd lakhanmandloi.github.io
+          cp -R .git/ ../
+          rm -rf *
+          cd ..
+          cp -R ../workspace/_site lakhanmandloi.github.io.git/
+          cp -R .git/ lakhanmandloi.github.io.git/
+          cd lakhanmandloi.github.io.git/
+          ls
+          git add -A
+          git commit -m "Deploy"
+          git push origin master
+          
+      # Store Artifacts
+      - store_artifacts:
+          path: /project/workspace/_site
+          destination: sunbird-artifact-file-qa
+workflows:
+  version: 2
+  build_and_deploy:
+    jobs:
+      - staging:
+          filters:
+            tags:
+              only: /^dev.*/
+            branches:
+              ignore: /.*/
+      - prod:
+          filters:
+            tags:
+              only: /^prod.*/
+            branches:
+              ignore: /.*/

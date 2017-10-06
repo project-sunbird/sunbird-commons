@@ -21,4 +21,4 @@ published: true
 
 **Does the platform accept only Shareable Content Reference Model (SCORM) compliant content packages?**
 
-{% ingredient /ntp-faq doc/intellectprpty_cc_licenseintellectprpty_scrom %}{% endingredient %}
+{% ingredient /ntp-faq doc/intellectprpty_scrom %}{% endingredient %}

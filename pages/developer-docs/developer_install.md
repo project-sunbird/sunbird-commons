@@ -7,4 +7,4 @@ keywords: >-
 hide_platform_selector: true
 hide_section_selector: true
 ---
-{% ingredient /developer-docs/instal_overvw_10kusertouse_sunbird_p6 %}{% endingredient %}
+

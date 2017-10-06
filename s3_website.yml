@@ -3,8 +3,6 @@ s3_secret: <%= ENV['S3_SECRET'] %>
 s3_bucket: sunbird-trial
 s3_endpoint: ap-southeast-1
 
-cloudfront_distribution_id: 
-cloudfront_invalidate_root: true
 
 max_age:
   "*": 6000
