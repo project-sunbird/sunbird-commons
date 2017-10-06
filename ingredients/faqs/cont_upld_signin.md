@@ -1,2 +1,2 @@
 ### Signing In
-1. Sign in to DIKSHA website with your registered credentials
+1. Sign in to Sunbird website with your registered credentials
