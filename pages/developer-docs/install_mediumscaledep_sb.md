@@ -7,4 +7,6 @@ hide_platform_selector: true
 hide_section_selector: true
 published: true
 ---
+## I want a medium scale deployment of Sunbird
+
 {% ingredient /developer-docs/install_medscdep_p4 %}{% endingredient %}
