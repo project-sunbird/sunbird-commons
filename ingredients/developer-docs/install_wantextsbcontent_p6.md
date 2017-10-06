@@ -19,21 +19,22 @@ This installation guide will use a cloud hosted Sunbird APIs for which an API ke
 ### 3. Setup
 * Checkout the code from `https://github.com/project-sunbird/sunbird-portal.git`
 * Run the following commands
-```
-$ cd <PROJECT-FOLDER>/src
-$ npm install
-$ bower cache clean
-$ bower install --force
-```
+  ```cd <PROJECT-FOLDER>/src```
+  ```npm install```
+  ```bower cache clean```
+  ```bower install --force```
 
 ### 4. Backend Service Stack
+
 The Sunbird portal application is powered by a set of Service APIs. These Service APIs can be run in a distributed environment, for instance when you deploy to production, or they can be run locally on a single server for ease of use and debugging. For now, we will configure our Sunbird portal to use a cloud instance of the Sunbird Service APIs. These APIs are hosted by Project Sunbird and are used for testing and demonstration purposes. 
 
 *Please note*: the cloud instance of the APIs hosted by Project Sunbird are not for production usage.
 
 ###Edit the application config
-* Open `<PROJECT-FOLDER>/src/app/helpers/environmentVariablesHelper.js` in your favourite text editor. Update the file so it contains the following values:    
-```
+
+* Open `<PROJECT-FOLDER>/src/app/helpers/environmentVariablesHelper.js` in your favourite text editor. Update the file so it contains the following values:   
+ 
+<pre>
 module.exports = {
   LEARNER_URL: env.sunbird_learner_player_url || 'https://staging.open-sunbird.org/api/',     // 1. LEARNER_URL
   CONTENT_URL: env.sunbird_content_player_url || 'https://staging.open-sunbird.org/api/',     // 2. CONTENT_URL
@@ -50,15 +51,16 @@ module.exports = {
   PORTAL_ECHO_API_URL: env.sunbird_echo_api_url || '',                                        // 6. PORTAL_ECHO_API_URL
   ...
 }
-```
+</pre>
+
 ### 5. Run Application
+
 * Run the following commands:
-```
-$ gulp build`
-$ cd <PROJECT-FOLDER>/src/app
-$ node server.js
-```
+	```$ gulp build```
+	```$ cd <PROJECT-FOLDER>/src/app```
+	```$ node server.js```
 * Open `http://localhost:3000` in browser
 
 ## Sunbird Services Setup
+
 Coming soon!

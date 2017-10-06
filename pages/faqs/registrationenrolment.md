@@ -1,6 +1,7 @@
 ---
 type: landing
 directory: faqs
+title: Registration and Enrolment
 page_title: Registration and Enrolment
 description: Who and how to register & enroll in the platform 
 keywords: 'Platform, Upload, User, Organization, Teacher, Teacher Registry, Database, Profile, Teacher Profile, Integrage'
@@ -11,20 +12,26 @@ hide_section_selector: true
 # Registration and Enrolment
 
 **How do you sign up on the platform?**
+
 {% ingredient /faqs/reg&enrol_signup %}{% endingredient %}
 
 **How do you upload organizations on the platform?**
-{% ingredient /faqs/reg&enrol_upld_org %}{% endingredient %}
+
+{% ingredient /faqs/regenrol_upld_org %}{% endingredient %}
 
 **How do you upload users on the platform?**
-{% ingredient /faqs/reg&enrol_upld_user %}{% endingredient %}
+
+{% ingredient /faqs/regenrol_upld_user %}{% endingredient %}
 
 **How do you integrate organization’s existing teacher database?**
-{% ingredient /faqs/reg&enrol_integrate_org_teacher_database %}{% endingredient %}
+
+{% ingredient /faqs/regenrol_integrate_org_teacher_database %}{% endingredient %}
 
 **How do you add teacher profiles on the platform?**
-{% ingredient /faqs/reg&enrol_add_teacher_profile %}{% endingredient %}
+
+{% ingredient /faqs/regenrol_add_teacher_profile %}{% endingredient %}
 
 **How to update teacher registry on the platform?**
-{% ingredient /faqs/reg&enrol_update_teacher_registry %}{% endingredient %}
+
+{% ingredient /faqs/regenrol_update_teacher_registry %}{% endingredient %}
 

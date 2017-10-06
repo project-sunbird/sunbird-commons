@@ -1,6 +1,7 @@
 ---
 type: landing
 directory: developer-docs
+title: Developer Installation
 page_title: Developer Installation
 description: About how developer can install
 keywords: >-

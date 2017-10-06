@@ -1,6 +1,7 @@
 ---
 type: landing
 directory: faqs
+title: Frequently Asked Questions
 page_title: Frequently Asked Question
 description: About the Document
 keywords: 'FAQ, Frequently Asked Question,Platform,Starter Guide,Content '

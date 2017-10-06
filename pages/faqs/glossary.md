@@ -1,6 +1,7 @@
 ---
 type: landing
 directory: faqs
+title: Glossary
 page_title: Glossary
 description: 'Terms, definition and usage'
 keywords: >-

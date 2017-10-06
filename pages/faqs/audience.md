@@ -1,6 +1,7 @@
 ---
 type: landing
 directory: faqs
+title: FAQ-Audience
 page_title: FAQ-Audience
 description: About audience for the content
 keywords: >-

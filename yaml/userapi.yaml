@@ -1,7 +1,7 @@
 swagger: '2.0'
 info:
   version: '1.0'
-  title: Sunbird Content API(s)
+  title: Sunbird User API(s)
   description: >-
     The User API resources perform operations related to 
     the _Users_ on the Sunbird Platform. The basic operations include Creation, Updation,Reading & searching.

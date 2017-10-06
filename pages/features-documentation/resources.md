@@ -9,6 +9,7 @@ hide_platform_selector: true
 hide_section_selector: true
 published: true
 ---
+
 {% ingredient/features-documentation/resource_about%}{% endingredient %}
 
 {% ingredient/features-documentation/resource_addfilter%}{% endingredient %}

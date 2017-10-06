@@ -1,7 +1,8 @@
 ---
 type: landing
 directory: faqs
-page_title: Feature
+title: Taxonomy, Metadata and Framework
+page_title: About taxonomy, metadata and framework
 description: About taxonomy, metadata and framework
 keywords: 'taxonomy, metadata, framework, coourse metadata, book metadata, collection metadata, lesson metadata, contribute taxonomy, different frameworks, tags, tagging on platform, add taxonomy, create vocabulary list, vocabulary list'
 hide_platform_selector: true

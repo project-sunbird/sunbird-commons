@@ -1,6 +1,7 @@
 ---
 type: landing
 directory: faqs
+title: Feature
 page_title: Feature
 description: Product features
 keywords: >-

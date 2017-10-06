@@ -1,7 +1,8 @@
 ---
 type: landing
 directory: faqs
-page_title: Intelluctual Property Licenses and Standards
+title: Intellectual Property Licenses and Standards
+page_title: Intellectual Property Licenses and Standards
 description: Information on intelluctual property rights
 keywords: >-
   Content creator, Content provider, License Fraework, CC-BY, SCORM, Content
@@ -13,6 +14,7 @@ published: true
 #Intellectual Property Licenses & Standards
 
 **Who owns content on the platform?**
+
 {% ingredient /faqs/intellectprpty_owncont %}{% endingredient %}
 
 **Why does the platform follow an open license framework, viz. Creative Commons License framework?**

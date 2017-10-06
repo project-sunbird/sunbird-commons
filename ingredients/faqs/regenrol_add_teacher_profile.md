@@ -4,15 +4,24 @@ To create or update your profile:
 
 1. Sign up and sign in  on the platform
 1. Click Profile tab on the header 
-{% image src='/pages/ntp-faq doc/images/prfilpg.png' full center alt='Profile Page' %}
+
+{% image src='/pages/faqs/images/prfilpg.png' full center alt='Profile Page' %}
+
 1. Depending on your organisation, you may already see  some information available.
 1. Add or edit the following details :
 
-	    a) Experience: Add your occupation details  such as work title, organization name, joining date, etc
-  			{% image src='/pages/ntp-faq doc/images/prfilexp.png' full center alt='Experience' %}
-	    b) Address: Add  your permanent and current address
-  			{% image src='/pages/ntp-faq doc/images/prfiladress.png' full center alt='Address' %}
-	    c) Education: Add your  academic qualifications, such as degree, year of passing, board or university, etc.
- 			{% image src='/pages/ntp-faq doc/images/prfiledu.png' full center alt='Education' %}
-	    d) Additional Information: Add personal information such as email, Aadhar number, mobile number, languages known, etc.
- 			{% image src='/pages/ntp-faq doc/images/prfiladdinfo.png' full center alt='Additional Information' %}
+a) Experience: Add your occupation details  such as work title, organization name, joining date, etc
+	    
+{% image src='/pages/faqs/images/prfilexp.png' full center alt='Experience' %}
+  			
+b) Address: Add  your permanent and current address
+	    
+{% image src='/pages/faqs/images/prfiladress.png' full center alt='Address' %}
+  			
+c) Education: Add your  academic qualifications, such as degree, year of passing, board or university, etc.
+	    
+{% image src='/pages/faqs/images/prfiledu.png' full center alt='Education' %}
+ 			
+d) Additional Information: Add personal information such as email, Aadhar number, mobile number, languages known, etc.
+	    
+{% image src='/pages/faqs/images/prfiladdinfo.png' full center alt='Additional Information' %}

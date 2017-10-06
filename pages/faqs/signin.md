@@ -1,6 +1,7 @@
 ---
 type: landing
 directory: faqs
+title: Signin
 page_title: Signin
 description: Registration and user credential
 keywords: >-
@@ -13,4 +14,5 @@ published: true
 ## Signin
 
 **How can you register and get user credentials to sign in to the platform?**
+
 {% ingredient /faqs/signin_reg_usercredtl %}{% endingredient %}

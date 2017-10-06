@@ -9,4 +9,5 @@ hide_platform_selector: true
 hide_section_selector: true
 published: true
 ---
-<Page in progress>
+
+Page in progress

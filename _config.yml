@@ -24,11 +24,13 @@ exclude:
 - js/support
 - node_modules
 - package.json
+- package-lock.json
 - node.txt
 - Gemfile
 - Gemfile.lock
 - circle.yml
 - s3_website.yml
+- staging
 
 sass:
     sass_dir: css
