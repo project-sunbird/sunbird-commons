@@ -1,6 +1,6 @@
 ---
 type: landing
-directory: ntp-faq doc
+directory: faqs
 page_title: User Rights and Permissions
 description: Product features
 keywords: >-
@@ -13,13 +13,13 @@ published: true
 #User Rights and Permissions	
 
 **What user roles does the platform support?**
-{% ingredient /ntp-faq doc/user_roles %}{% endingredient %}
+{% ingredient /faqs/user_roles %}{% endingredient %}
 
 **How do you get content creation rights on the platform?**
-{% ingredient /ntp-faq doc/user_rit&prmison_creationrit %}{% endingredient %}
+{% ingredient /faqs/user_rit&prmison_creationrit %}{% endingredient %}
 
 **What is the difference between the User ID of an administrator and a general user?**
-{% ingredient /ntp-faq doc/user_rit&prmison_diff_user&adminid %}{% endingredient %}
+{% ingredient /faqs/user_rit&prmison_diff_user&adminid %}{% endingredient %}
 
 **What data does a content provider see?**
-{% ingredient /ntp-faq doc/user_rit&prmison_data_contprovider_see&view %}{% endingredient %}
+{% ingredient /faqs/user_rit&prmison_data_contprovider_see&view %}{% endingredient %}

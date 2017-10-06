@@ -1,6 +1,6 @@
 ---
 type: landing
-directory: ntp-faq doc
+directory: faqs
 page_title: Fix Errors
 description: Fixing Error after uploading contents
 keywords: 'Fix Error, Content, Upload'
@@ -11,4 +11,4 @@ hide_section_selector: true
 # Fix Errors
 
 **How can you fix errors after uploading content?**
-{% ingredient /ntp-faq doc/fixerror_upldcont %}{% endingredient %}
+{% ingredient /faqs/fixerror_upldcont %}{% endingredient %}

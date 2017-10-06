@@ -9,12 +9,12 @@
 1. Click Profile tab on the header 
 		OR
 	Click the Profile Icon and select Profile
-    {% image src='/pages/ntp-faq doc/images/prfilpg.png' full center alt='Profile Page' %}
+    {% image src='/pages/faqs/images/prfilpg.png' full center alt='Profile Page' %}
   
 1. Click View your Workspace from the right side of the profile page 
 				OR
 	Click Profile Icon on the header > select Workspace from the drop-down list
-  	{% image src='/pages/ntp-faq doc/images/viewwrkspac.png' full center alt='View Workspace' %}
+  	{% image src='/pages/faqs/images/viewwrkspac.png' full center alt='View Workspace' %}
  
 ### Creating Course from your Workspace
 1. Click the Course tab. The Creating Course page is displayed 

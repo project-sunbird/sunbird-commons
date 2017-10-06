@@ -6,13 +6,13 @@
 		
         OR
 Click the Profile Icon and select Profile
-{% image src='/pages/ntp-faq doc/images/prfilpg.png' full center alt='Profile Page' %}
+{% image src='/pages/faqs/images/prfilpg.png' full center alt='Profile Page' %}
 
 1. Click View your Workspace from the right side of the profile page
 		
         OR
 Click Profile Icon on the header > select Workspace from the drop-down list
-{% image src='/pages/ntp-faq doc/images/viewwrkspac.png' full center alt='View Workspace' %}
+{% image src='/pages/faqs/images/viewwrkspac.png' full center alt='View Workspace' %}
 
 ### Creating a Book
 1. Click Book tab. The Create Book page is displayed

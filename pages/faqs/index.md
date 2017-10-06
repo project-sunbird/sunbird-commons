@@ -1,6 +1,6 @@
 ---
 type: landing
-directory: ntp-faq doc
+directory: faqs
 page_title: Frequently Asked Question
 description: About the Document
 keywords: 'FAQ, Frequently Asked Question,Platform,Starter Guide,Content '

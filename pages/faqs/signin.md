@@ -1,6 +1,6 @@
 ---
 type: landing
-directory: ntp-faq doc
+directory: faqs
 page_title: Signin
 description: Registration and user credential
 keywords: >-
@@ -13,4 +13,4 @@ published: true
 ## Signin
 
 **How can you register and get user credentials to sign in to the platform?**
-{% ingredient /ntp-faq doc/signin_reg_usercredtl %}{% endingredient %}
+{% ingredient /faqs/signin_reg_usercredtl %}{% endingredient %}

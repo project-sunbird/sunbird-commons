@@ -1,6 +1,6 @@
 ---
 type: landing
-directory: ntp-faq doc
+directory: faqs
 page_title: FAQ-Audience
 description: About audience for the content
 keywords: >-
@@ -15,13 +15,13 @@ published: true
 
 **Who is the audience for the content on the platform?**
 
-{% ingredient /ntp-faq doc/audience_who %}{% endingredient %}
+{% ingredient /faqs/audience_who %}{% endingredient %}
 
 **Can content be specific to an organization?**
 
-{% ingredient /ntp-faq doc/audience_user %}{% endingredient %}
+{% ingredient /faqs/audience_user %}{% endingredient %}
 
 **How are content authors and contributors given credit?**
 
-{% ingredient /ntp-faq doc/audience_credit_creator_contributor %}{% endingredient %}
+{% ingredient /faqs/audience_credit_creator_contributor %}{% endingredient %}
 

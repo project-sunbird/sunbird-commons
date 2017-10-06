@@ -1,6 +1,6 @@
 ---
 type: landing
-directory: ntp-faq doc
+directory: faqs
 page_title: Glossary
 description: 'Terms, definition and usage'
 keywords: >-

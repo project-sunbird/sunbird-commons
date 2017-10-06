@@ -1,6 +1,6 @@
 ---
 type: landing
-directory: ntp-faq doc
+directory: faqs
 page_title: Feature
 description: Product features
 keywords: >-
@@ -15,8 +15,8 @@ published: true
 
 **Which product features are relevant for content creators and content providers?**
 
-{% ingredient /ntp-faq doc/feature_contcreator&provider %}{% endingredient %}
+{% ingredient /faqs/feature_contcreator&provider %}{% endingredient %}
 
 **What are the languages supported on the platform?**
 
-{% ingredient /ntp-faq doc/feature_lang_support %}{% endingredient %}
+{% ingredient /faqs/feature_lang_support %}{% endingredient %}
