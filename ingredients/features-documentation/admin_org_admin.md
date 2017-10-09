@@ -11,5 +11,3 @@ Responsibilites of an organization administrator includes:
 - Updating name and logo 
 
 - Updating website pages
-
-
