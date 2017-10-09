@@ -13,13 +13,13 @@ published: true
 # Frequently Asked Question
 
 This page addresses the most commonly asked questions of our platform. Here you will find questions on all aspects of the platform such as: 
-Creating content on the platform
-Uploading content from the platform
-Content Repositories
-Copyrights assertions
-Fixing errors
-Taxonomy and metadata
-Glossary
 
-If you have a question that is not answered here, please contact us.
++ Creating content on the platform
++ Uploading content from the platform
++ Content Repositories
++ Copyrights assertions
++ Fixing errors
++ Taxonomy and metadata
++ Glossary
 
+If you have a question that is not answered here, please contact us @
