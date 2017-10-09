@@ -1,13 +1,18 @@
 ---
 type: landing
 directory: faqs
-title: Taxonomy, Metadata and Framework
-page_title: About taxonomy, metadata and framework
-description: About taxonomy, metadata and framework
-keywords: 'taxonomy, metadata, framework, coourse metadata, book metadata, collection metadata, lesson metadata, contribute taxonomy, different frameworks, tags, tagging on platform, add taxonomy, create vocabulary list, vocabulary list'
+title: 'Taxonomy, Metadata and Framework'
+page_title: 'About taxonomy, metadata and framework'
+description: 'About taxonomy, metadata and framework'
+keywords: >-
+  taxonomy, metadata, framework, coourse metadata, book metadata, collection
+  metadata, lesson metadata, contribute taxonomy, different frameworks, tags,
+  tagging on platform, add taxonomy, create vocabulary list, vocabulary list
 hide_platform_selector: true
 hide_section_selector: true
+published: true
 ---
+# Taxonomy, Metadata and Framework
 
 **What is taxonomy? Why do you need to tag content using the taxonomy provided?**
 
@@ -68,6 +73,3 @@ hide_section_selector: true
 **What is the need for multiple frameworks and not a unified standard framework?**
 
 {% ingredient /faqs/framework_stndrd_ %}{% endingredient %}
-
-
-
