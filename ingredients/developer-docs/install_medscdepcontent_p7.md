@@ -128,7 +128,7 @@ sunbird_trampoline_secret:     # Eg: HJKDHJEHbdggh23737
 - Run `sudo ./deploy-core.sh <implementation-name>-devops/ansible/inventories/<environment-name>`. This will setup all the sunbird core services.
 - Run `sudo ./deploy-proxy.sh <implementation-name>-devops/ansible/inventories/<environment-name>`. This will setup sunbird proxy services.
 
-#### Automation Walkthrough
+# Automation Walkthrough
 [Part 5](https://sunbirdpublic.blob.core.windows.net/installation/demo/demo-5.gif)
 [Part 6](https://sunbirdpublic.blob.core.windows.net/installation/demo/demo-6.gif)
 [Part 7](https://sunbirdpublic.blob.core.windows.net/installation/demo/demo-8.gif)
@@ -136,8 +136,6 @@ sunbird_trampoline_secret:     # Eg: HJKDHJEHbdggh23737
 # Step 4: Check Installation
 
 - Browse Sunbird Portal by accessing https://{proxy_server_name}/ (publicly accessible URL, it could be the load balancer URL or the actual domain name for production).
-
-**TODO** Need link to functional documentation to perform just enough user flows to ensure Sunbird implementation is functional
 
 # Step 5: Upgrade with a new version of Sunbird
 To update/redeploy sunbird please follow these steps:
@@ -149,14 +147,3 @@ To update/redeploy sunbird please follow these steps:
 - Run `sudo ./deploy-core.sh /ansible/inventories/`. This will setup all the sunbird core services.
 - Run `sudo ./deploy-proxy.sh /ansible/inventories/`. This will setup sunbird proxy services.
 
-# Step 6: Customize assets
-**TODO** This section will explain how to make cosmetic changed to Sunbird to give a custom look and feel.
-
-# Step 7: Customize sunbird
-**TODO** You can also build software extensions to Sunbird custom built to your requirements. Look forward to more detail here.
-
-# FAQ
-
-Q: I have run the DB scripts on the App server but I really want them on different machines. What do I do now?
-
-A: You could delete the app server and re-create. If you have any data you have copied, you should backup. Applications themselves are stateless and don't need a backup. If your DB was in use, then use the backup and restore mechanism to move the DB. To be on the safer side, take a backup of the disk and delete if the backup is not needed later. Otherwise, if it is a fresh installation, just delete the resource group (Azure) and re-run the Steps.
