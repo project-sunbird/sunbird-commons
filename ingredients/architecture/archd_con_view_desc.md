@@ -1,4 +1,4 @@
-###Conceptual view 
+## Conceptual view 
 
 The conceptual view or functional view is built on the core stakeholders in Sunbird which comprises of:
 
@@ -7,4 +7,3 @@ The conceptual view or functional view is built on the core stakeholders in Sunb
 + Courses
 + Assessment
 + Forums
-
