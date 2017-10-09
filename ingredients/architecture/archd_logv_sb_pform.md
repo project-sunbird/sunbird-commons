@@ -1,13 +1,11 @@
-####Sunbird Platform
+## Sunbird Platform
 The Sunbird platform essentially embeds Service oriented architecture, which is a loosely-coupled architecture designed to meet the business needs of the organization.
 
 These form the core of the Sunbird.
-
-+ **Functional Entities** 
++ **Functional Entities**
 + **Service Entities**
 
 The platform offers and  facilitates these functional entities:
-
 + Organisation, 
 + Course, 
 + Resources, 
