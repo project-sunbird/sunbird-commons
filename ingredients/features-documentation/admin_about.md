@@ -1,15 +1,3 @@
-A system administrator is responsible for all activities associated with the rights and permissions of all users.
+Being open source, it is imperative to have checks and balances to maintain the integrity and quality of the solution. Availability and access to Sunbird’s code, functionality, features and content depend on user rights and privileges. User responsibilities determine their rights to create, review, publish or consume content. Privileged users have rights to manage user or organization access, profiles, on-boarding, removal, passwords and site look-and-feel customization.
 
-Responsibilities of a system administrator includes:
 
-- Creating organizations
-
-- Creating users
-
-- Changing passwords
-
-- Changing user roles
-
-- Updating name and logo 
-
-- Updating website pages
