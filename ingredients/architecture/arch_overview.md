@@ -1,7 +1,7 @@
 
 Sunbird is an open source learning project aimed to build effective learning solutions and create diverse learning opportunities to exponentially impact mass learning.
 
-The architecture is:
+The Architecture is:
 
 + **Open-source and customizable:** Sunbird uses the open platform to empower individuals, where even failures contribute towards augmenting the solution. Being open-source, it can be customized to tailor to individual needs.
 
