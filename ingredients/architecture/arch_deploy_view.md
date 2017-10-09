@@ -1,6 +1,3 @@
-## Deployment Architecture
-
-
 ### Infrastructure
 Sunbird can run on Virtual Machines (VMs) on various Cloud providers or bare metal. Cloud Infrastructure automation is work in progress.
 
@@ -18,5 +15,5 @@ Ops dashboards are built using [Grafana](https://grafana.com/) with some [refere
 ### Custom builds
 Sunbird is extendible. Sunbird can be taken as a base image with custom implementation of public interfaces and rebuilt for deployment. Scripts are available for ramping up of complex deployments with support to run local build promotions and deployments.
 
-## License
+### License
 The code in this repository is licensed under AGPL-3.0 unless otherwise noted. Please see the [LICENSE](https://github.com/project-sunbird/sunbird-devops/blob/master/LICENSE) file for details.
