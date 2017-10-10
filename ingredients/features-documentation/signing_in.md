@@ -1,8 +1,6 @@
-## **To sign in with your credentials**
+**Signing In**
 
-1. Click **Sign in** option on the header
-
-2. Enter  **Username or email** and **Password**
-
-3. Click **Log in**
-
+To sign in with your credentials, follow the steps below:
+  1. Click Sign in option on the header
+  1. Enter  Username or email and Password
+  1. Click Log in button
