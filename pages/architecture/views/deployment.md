@@ -9,7 +9,6 @@ hide_platform_selector: true
 hide_section_selector: true
 published: true
 ---
-
-# Deployment View
+### Deployment View
 
 {% ingredient /architecture/arch_deploy_view %}{% endingredient %}
