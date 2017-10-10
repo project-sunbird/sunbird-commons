@@ -7,7 +7,8 @@ description: Elementary Views
 keywords: Elementary Views
 hide_platform_selector: true
 hide_section_selector: true
+published: true
 ---
 
-#Elementary Views
+## Elementary Views
 
