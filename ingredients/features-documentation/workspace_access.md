@@ -2,16 +2,16 @@
 
 1. Click Profile tab on the header,
 
-OR
+	OR
         
-Click the Profile Icon and select Profile
+	Click the Profile Icon and select Profile
 
 {% image src='/pages/faqs/images/prfilpg.png' full center alt='Profile Page' %}
 
 2. Click View your Workspace from the right side of the profile page
 
-OR
+	OR
         
-Click Profile Icon on the header
+	Click Profile Icon on the header
 
-Select Workspace from the drop-down list
+	Select Workspace from the drop-down list
