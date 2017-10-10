@@ -9,7 +9,7 @@ hide_platform_selector: true
 hide_section_selector: true
 published: true
 ---
-##Logical Views
+### Logical Views
 
 {% ingredient /architecture/archa_ele_logv_desc %}{% endingredient %}
 {% ingredient /architecture/archd_logv_cat_sb_f_entities_p1 %}{% endingredient %}
