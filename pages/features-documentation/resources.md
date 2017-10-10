@@ -11,8 +11,6 @@ published: true
 ---
 ## Resources
 
-{% ingredient/features-documentation/resource_about%}{% endingredient %}
-
 {% ingredient/features-documentation/resource_addfilter%}{% endingredient %}
 
 {% ingredient/features-documentation/resource_edit_deletenote%}{% endingredient %}
