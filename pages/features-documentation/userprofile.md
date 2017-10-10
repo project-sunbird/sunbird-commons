@@ -17,6 +17,7 @@ To create or update your profile:
 2. Click Profile tab on the header 
 
 {% image src='/pages/faqs/images/prfilpg.png' full center alt='Profile Page' %}
+
 3. Depending on your organisation, you may already see  some information available.
 4. Add or edit the following details :
 
