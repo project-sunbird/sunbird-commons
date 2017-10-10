@@ -8,7 +8,7 @@
 	- Click **My Images**. This page is empty for a first-time user. Subsequently, after creating content, images used and uploaded are displayed here.
 	- Click **All Images** to select from the existing images	
 	- Select the image and click **Select** to save and use the image
-	- Click **Upload and use** to upload an image. The Upload and use page is displayed.
+	- Click **Upload and use** to upload an image. The Upload and use page is displayed
 	- Choose the file or drag and drop the file. Supported file formats are:
 		- .jpeg
 		- .jpg
