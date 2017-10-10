@@ -9,10 +9,10 @@ hide_platform_selector: true
 hide_section_selector: true
 published: true
 ---
-# Courses and Training
+## Courses and Training
+**Courses**
 
-## Courses
-Course is content provided in sequence, broken down in modules, open for enrolment and completion for a duration. You can attach prerequisites for a course, and it may contain assessments.
+Course is a content provided in sequence, broken down in modules, open for enrolment and completion for a duration. You can attach prerequisites for a course, and it may contain assessments.
 
 **Compiling Courses in Sunbird**
 
@@ -23,5 +23,3 @@ Course is content provided in sequence, broken down in modules, open for enrolme
 {% ingredient /faqs/createcont_add_story %}{% endingredient %}
 {% ingredient /faqs/createcont_add_wrksheet %}{% endingredient %}
 {% ingredient /faqs/createcont_modify %}{% endingredient %}
-
-
