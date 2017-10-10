@@ -5,3 +5,4 @@ Four types of content can be added to a courses:
 - Collection
 - Story
 - Worksheet
+- Resource
