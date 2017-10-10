@@ -1,5 +1,4 @@
-## Privileged User Role Functionality Matrix 
-
+**Privileged User Role Functionality Matrix**
 
 | Functionality  Users | Create organization | Create user | Change user password | Change user role | Update name and logo | Update pages |   
 |----|---|---|----|----|---------|----|---|------|
