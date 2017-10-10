@@ -10,6 +10,7 @@ hide_section_selector: true
 published: true
 ---
 ## Resources
+
 {% ingredient/features-documentation/resource_about%}{% endingredient %}
 
 {% ingredient/features-documentation/resource_addfilter%}{% endingredient %}
