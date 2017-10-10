@@ -2,6 +2,7 @@
 
 Sunbird has a varied and diverse user base. Users play different set of roles, their dependence on content-creation and content-consumption decides their respective roles. 
 In this context, a user can be:
+
 + Admin 
 + Instructor
 + Student
