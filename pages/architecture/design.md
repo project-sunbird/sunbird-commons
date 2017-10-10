@@ -12,7 +12,7 @@ alias:
 published: true
 ---
 
-#Architecture Design
+## Architecture Design
 
 {% ingredient /architecture/archdesign_desc %}{% endingredient %}
 {% ingredient /architecture/archdesign_layerdesc %}{% endingredient %}
