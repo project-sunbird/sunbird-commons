@@ -1,7 +1,6 @@
-##User Categories
+**User Categories**
 
 Users are broadly categorized for the following roles:
-
 + Administrators:
   + System Administrator
   + Organization Administrator
@@ -11,4 +10,3 @@ Users are broadly categorized for the following roles:
   + Content Publishers 
   + Content Reviewers
   + Content consumers
-
