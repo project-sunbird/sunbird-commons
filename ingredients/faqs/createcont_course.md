@@ -18,7 +18,7 @@
  
 ### Creating Course from your Workspace
 1. Click the Course tab. The Creating Course page is displayed 
-1. Enter the course Name and Description 
+2. Enter the course Name and Description
 
 ***Note:***
 *You may choose to fill these details later, in the course creation page*
@@ -31,7 +31,8 @@
 8. Enter Faculty and Tutor details
 9. From the Concept field, select any concept(s) from the list displayed 
 10. Click Done to save the selected concepts
-11. Enter Keywords. 
+11. Enter Keywords.
+ 
 
 ***Note:***
 *Keywords act as metadata for search engines. They are associated with the course and help find the appropriate content when you type in search criteria. For example: For a course on English antonyms, the possible keywords are: synonyms, opposites, English meanings with opposites, etc.*
