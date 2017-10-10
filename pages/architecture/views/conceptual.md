@@ -9,8 +9,7 @@ hide_platform_selector: true
 hide_section_selector: true
 published: true
 ---
-
-#Conceptual View
+### Conceptual View
 
 {% ingredient /architecture/archd_con_view_desc %}{% endingredient %}
 {% image src='/pages/architecture/image/conceptualview.jpg' full center alt='General Conceptual View' %}
