@@ -10,6 +10,7 @@ hide_section_selector: true
 published: true
 ---
 ## User Roles and Permissions
+
 {% ingredient/features-documentation/user_role&permission_rights %}{% endingredient %}
 
 {% ingredient/features-documentation/usercategories %}{% endingredient %}
