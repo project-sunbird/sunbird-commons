@@ -2,8 +2,8 @@
 1. Sign in the platform portal, using your registered credentials
 
 ***Note:***
-- Existing users can sign in with their Facebook/Google+ IDs
-- First time users must obtain creation rights from their respective organization administrators. For details, refer section User Rights and Permissions
+  - Existing users can sign in with their Facebook/Google+ IDs
+  - First time users must obtain creation rights from their respective organization administrators. For details, refer section User Rights and Permissions
 
 **Accessing your Workspace**
 
@@ -56,7 +56,7 @@
     	-.jpeg
     	-.jpg
     	-.png
-13. Under Copyright & License, you can select whether to make the image available to everyone who has access to DIKSHA portal or restrict sharing the image. The options available are:
+13. Under Copyright & License, you can select whether to make the image available to everyone who has access to Sunbird portal or restrict sharing the image. The options available are:
 	- Yes, make it available to everyone. Enter the mandatory fields from the form (Asset Caption and Creator) displayed.
 	- No, don’t share with anyone
 14. Click Upload and Use to upload the image
