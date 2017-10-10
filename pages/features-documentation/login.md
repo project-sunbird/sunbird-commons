@@ -9,6 +9,7 @@ hide_platform_selector: true
 hide_section_selector: true
 published: true
 ---
+## Login
 {% ingredient/features-documentation/user_self_enrollment %}{% endingredient %}
 
 {% ingredient/features-documentation/signing_in %}{% endingredient %}
