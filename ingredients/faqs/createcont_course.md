@@ -1,7 +1,9 @@
 **Signing In**
+
 1. Sign in the platform portal, using your registered credentials
 
-***Note:***
+	***Note:***
+  
   - Existing users can sign in with their Facebook/Google+ IDs
   - First time users must obtain creation rights from their respective organization administrators. For details, refer section User Rights and Permissions
 
@@ -9,28 +11,28 @@
 
 1. Click Profile tab on the header 
    
- 	OR
+OR
 	
-   Click the Profile Icon and select Profile
+Click the Profile Icon and select Profile
     
-   {% image src='/pages/faqs/images/prfilpg.png' full center alt='Profile Page' %}
+{% image src='/pages/faqs/images/prfilpg.png' full center alt='Profile Page' %}
   
 2. Click View your Workspace from the right side of the profile page 
 
-	OR
-    
-    Click Profile Icon on the header > select Workspace from the drop-down list
+OR
+
+Click Profile Icon on the header > select Workspace from the drop-down list
   	
-    {% image src='/pages/faqs/images/viewwrkspac.png' full center alt='View Workspace' %}
+{% image src='/pages/faqs/images/viewwrkspac.png' full center alt='View Workspace' %}
 
 **Creating Course from your Workspace**
 
 1. Click the Course tab. The Creating Course page is displayed 
 2. Enter the course Name and Description
 
-***Note:***
+	***Note:***
 
-*You may choose to fill these details later, in the course creation page*
+	*You may choose to fill these details later, in the course creation page*
 
 3. The Course Creation page is displayed 
 4. Click + icon in the left navigation pane to add a Course Unit, Collection, Story, and/or Worksheet
@@ -42,9 +44,9 @@
 10. Click Done to save the selected concepts
 11. Enter Keywords
  
-***Note:***
+	***Note:***
 
-*Keywords act as metadata for search engines. They are associated with the course and help find the appropriate content when you type in search criteria. For example: For a course on English antonyms, the possible keywords are: synonyms, opposites, English meanings with opposites, etc.*
+	*Keywords act as metadata for search engines. They are associated with the course and help find the appropriate content when you type in search criteria. For example: For a course on English antonyms, the possible keywords are: synonyms, opposites, English meanings with opposites, etc.*
 
 12. Click the Image icon to add an image. The Select Image page is displayed
 	- Click My Images. This page is empty for a first-time user. Subsequently, after creating content, images used and uploaded are displayed here.
@@ -53,9 +55,9 @@
     - Click Select to save and use the image    
 	- Click Upload and use to upload an image. The Upload and use page is displayed    
 	- Choose the file or drag and drop the file. Supported file formats are:
-    	-.jpeg
-    	-.jpg
-    	-.png
+    	- .jpeg
+    	- .jpg 	
+        - .png
 13. Under Copyright & License, you can select whether to make the image available to everyone who has access to Sunbird portal or restrict sharing the image. The options available are:
 	- Yes, make it available to everyone. Enter the mandatory fields from the form (Asset Caption and Creator) displayed.
 	- No, don’t share with anyone
