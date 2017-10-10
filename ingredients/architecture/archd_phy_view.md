@@ -1,5 +1,4 @@
-## Physical View 
-The technical stack of sun bird is evolutionary and modern in nature with easy maintainability, seamless portability, enhanced Reusability, and maximizes on testability. Sunbird is built on Ekstep Infra layer with additional RESTful APIs and related contextual data to build a rich Learning Management System for teachers/students and is implemented using the following modern technologies:
+The technical stack of Sunbird is evolutionary and modern in nature with easy maintainability, seamless portability, enhanced reusability, and maximizes on testability. Sunbird is built on Ekstep Infra Layer with additional RESTful APIs and related contextual data to build a rich Learning Management System for teachers/students and is implemented using the following modern technologies:
 
 **Apache Cassandra** 
 
@@ -7,7 +6,7 @@ It’s a NoSQL database management system designed to handle large amounts of da
 
 **Elastic Search**
 
-It provides a distributed, multitenant-capable full-text search with an HTTP web interface and schema-free JSON documents. It helps Indexing courses for easy look-up against teacher, region, organization, time-line etc. Also, it provides Community tracking capabilities.  
+It provides a distributed, multitenant-capable full-text search with an HTTP web interface and schema-free JSON documents. It helps indexing courses for easy look-up against teacher, region, organization, time-line etc. Also, it provides Community tracking capabilities.  
 
 **Kafka & Kibana**
 
