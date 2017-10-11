@@ -3,13 +3,15 @@ type: landing
 directory: faqs
 title: Registration and Enrolment
 page_title: Registration and Enrolment
-description: Who and how to register & enroll in the platform 
-keywords: 'Platform, Upload, User, Organization, Teacher, Teacher Registry, Database, Profile, Teacher Profile, Integrage'
+description: Who and how to register & enroll in the platform
+keywords: >-
+  Platform, Upload, User, Organization, Teacher, Teacher Registry, Database,
+  Profile, Teacher Profile, Integrage
 hide_platform_selector: true
 hide_section_selector: true
+published: true
 ---
-
-# Registration and Enrolment
+## Registration and Enrolment
 
 **How do you sign up on the platform?**
 
@@ -34,4 +36,3 @@ hide_section_selector: true
 **How to update teacher registry on the platform?**
 
 {% ingredient /faqs/regenrol_update_teacher_registry %}{% endingredient %}
-
