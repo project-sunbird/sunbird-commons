@@ -13,7 +13,7 @@ published: true
 ---
 # Content Editor
 
-The Content Editor or Online Authoring Tool allows all users with content creation rights to create multimedia content. Different content editors are available to create content for **Textbooks, Courses, Lessons and Collections**. 
+The Content Editor or Online Authoring Tool allows all users with content creation rights to create multimedia content. Different content editors are available to create content for **Books, Courses, Lessons and Collections**. 
 
 {% ingredient /features-documentation/textbook_create_usingeditor %}{% endingredient %}
 
@@ -40,7 +40,3 @@ The Content Editor or Online Authoring Tool allows all users with content creati
 {% ingredient /features-documentation/course_add_worksheet %}{% endingredient %}
 
 {% ingredient /features-documentation/course_add_collection %}{% endingredient %}
-
-
-
-
