@@ -34,19 +34,6 @@ Organization administrators can use the credentials received to sign in and uplo
     preferredLanguage	| Language preferences for the organization, if any
     contactDetail	| Organization’s phone number and email ID. Details should be entered within single quotes. For 	example: ‘Phonenumber’
 
-Column Title | Description
--------------|------------
- isRootOrg	| Valid value for this column is True
-channel |Unique ID provided during master organization creation
-externalId | Unique ID associated with each organization in the administrating organization’s repository
-provider | Channel ID of the administrator organization
-description |Details describing the organization
-homeUrl |Organization’s homepage url
-orgCode | Organization’s unique code, if any,
-orgType | Type of organization, such as, NGO, primary school, secondary school etc
-preferredLanguage   | Language preferences for the organization, if any
-contactDetail:  | Organization’s phone number and email ID. Details should be entered within single quotes. For 	example: ‘Phonenumber’
-
 7. Save the csv file to your computer
 8. Click UPLOAD ORGANIZATIONS CSV. The explorer window is displayed
 9. Select the saved csv file and click open
