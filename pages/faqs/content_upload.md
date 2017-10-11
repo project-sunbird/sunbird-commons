@@ -7,9 +7,10 @@ description: Uploading Content
 keywords: 'Content, Upload, Uploading, Bulk Upload,Time Window, API, Pull content  '
 hide_platform_selector: true
 hide_section_selector: true
+published: true
 ---
 
-# Content Upload
+## Content Upload
 
 **How do you upload content on the platform?**
 
