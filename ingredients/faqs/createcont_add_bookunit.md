@@ -1,11 +1,12 @@
-### Adding Book Units
+**Adding Book Units**
+
 1. Click + icon on the left navigation pane
-1. Select Book Unit from the drop-down list. The unit is displayed as UnNamed Book Unit
-1. Enter the mandatory fields, Unit Name and Description 
-1. From the Concept field, select any concept(s) from the list displayed
-1. Enter Keywords 
-1. Enter Notes to Teacher, if any
-1. Click the image icon to add image. The Select Image page is displayed.
+2. Select Book Unit from the drop-down list. The unit is displayed as UnNamed Book Unit
+3. Enter the mandatory fields, Unit Name and Description 
+4. From the Concept field, select any concept(s) from the list displayed
+5. Enter Keywords 
+6. Enter Notes to Teacher, if any
+7. Click the image icon to add image. The Select Image page is displayed.
 	- Click My Images. This page is empty for a first-time user. Subsequently, after creating content, images used and uploaded are displayed here.
 	- Click All Images to select from the existing images	
 	- Select the image and click Select to save and use the image
@@ -14,12 +15,12 @@
 		- .jpeg
 		- .jpg
 		- .png
-1. Under Copyright & License, you can select whether to make the image available to everyone who has access to DIKSHA portal or restrict sharing the image. The options available are:
+8. Under Copyright & License, you can select whether to make the image available to everyone who has access to DIKSHA portal or restrict sharing the image. The options available are:
 	- Yes, make it available to everyone. Enter the mandatory fields from the form (Asset Caption and Creator) displayed.
 	- No, don’t share with anyone
-1. Click Upload and Use to upload the image
-1. Click Update to update the changes
-1. Click Save tab on the header to save the course 
-1. Click Send for review to send the created course unit for review
+9. Click Upload and Use to upload the image
+10. Click Update to update the changes
+11. Click Save tab on the header to save the course 
+12. Click Send for review to send the created course unit for review
 
 You can add collections, stories and worksheets under your book unit
