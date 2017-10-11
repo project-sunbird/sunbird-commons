@@ -15,18 +15,19 @@ You will need servers with the following minimum system requirements:
 **Provisioning your servers**
 
 For a non production setup, you could skip the automation and proceed to the manual steps. If however, you are setting up Sunbird and are not sure if you are setting up the infrastructure correctly, or if you plan to roll out your implementation to serious users, automation can help you setup your environment the same way we set it up.
-- **Automated**
+
+**Automated**
 
 The following set of scripts create the network and servers needed to run Sunbird. With the default configuration, you will be creating 3 servers, with the above mentioned min. requirement. A little knowledge about Azure: VNet, Resource Group, etc would help but is not necessary.
 
-- **Automation for Azure**
+**Automation for Azure**
 
-**Run Time**: 30 mins first time. Scripts can be re-tried and will not create a new set of servers every time. Some configurations cannot be changed, for instance, the server type. However, you can add/reduce the number of servers and re-run if you want to scale up or down.
+- **Run Time**: 30 mins first time. Scripts can be re-tried and will not create a new set of servers every time. Some configurations cannot be changed, for instance, the server type. However, you can add/reduce the number of servers and re-run if you want to scale up or down.
 
 Run the following steps from a machine which is connected to the internet:
 
 - Clone the sunbird-devops repo using `git clone https://github.com/project-sunbird/sunbird-devops.git`
-- Run `./sunbird-devops/deploy/generate-config.sh ntp production cloud` This will create config files for you in `./ntp-devops/test/azure`. Here, `ntp` is the **implementation-name** and `production` is the **environment-name**.
+- Run `./sunbird-devops/deploy/generate-config.sh ntp production cloud` This will create config files for you in `./ntp-devops/test/azure`. Here, `ntp` is the implementation-name and `production` is the environment-name.
 - Edit BOTH the new config files `azuredeploy.parameters.json` and `env.sh` as per your requirements for the app.
 -  Edit the new config files `azuredeploy.parameters.json` and `env.sh` as per your requirements for the db.
 - Run `export APP_DEPLOYMENT_JSON_PATH=<absolute path of azuredeploy.parameters.json>`. For instance, on my laptop it is `export DEPLOYMENT_JSON_PATH=/Users/shashankt/code2/sunbird/ntp-devops/production/azure/app`
@@ -68,14 +69,12 @@ Run the following steps starting from your local machine:
 
 - SSH into the `db-server`. If you have not edited the default configuration, then the name of the DB VM would be `db-1`. Automated setup does not expose the DB to the Internet, so to SSH into the DB, you will need to SSH to `vm-1` (check out `masterFQDN` above) with `ssh -A` (key forwarding) and then SSH to `db-1`.
 - Clone the sunbird-devops repo using `git clone https://github.com/project-sunbird/sunbird-devops.git`
-- Run `./sunbird-devops/deploy/generate-config.sh <implementation-name> <environment-name>`. Example `./sunbird-devops/deploy/generate-config.sh ntp production deploy`. This creates `ntp-devops` directory with *incomplete* configurations. You **WILL** need to supply missing configuration.
+- Run `./sunbird-devops/deploy/generate-config.sh <implementation-name> <environment-name>`. Example `./sunbird-devops/deploy/generate-config.sh ntp production deploy`. This creates `ntp-devops` directory with *incomplete* configurations. You WILL need to supply missing configuration.
 - Modify all the configurations under `# DB CONFIGURATION` block in `<implementation-name>-devops/ansible/inventories/<environment-name>/group_vars/<environment-name>`
 
-**DB creation**
+**DB creation via automation**
 
-**Via automation**
-
-**Run Time**: 15-30 mins to prepare and 30 mins to complete.
+- **Run Time**: 15-30 mins to prepare and 30 mins to complete.
 Following is a set of scripts which install the DBs into the `db-server` and copy over `master` data.
 
 - Run `cd sunbird-devops/deploy`
@@ -94,6 +93,7 @@ Included in the next demo
 - Run `sudo ./init-dbs.sh <implementation-name>-devops/ansible/inventories/<environment-name>` to initialize the DB.
 
 **Automation Walkthrough**
+
 [Part 4](https://sunbirdpublic.blob.core.windows.net/installation/demo/demo-4.gif)
 
 **Setup Application and Core services**
@@ -147,7 +147,7 @@ This will setup all the sunbird core services.
 
 This will setup sunbird proxy services.
 
-- **Automation Walkthrough**
+**Automation Walkthrough**
 
 [Part 5](https://sunbirdpublic.blob.core.windows.net/installation/demo/demo-5.gif)
 
