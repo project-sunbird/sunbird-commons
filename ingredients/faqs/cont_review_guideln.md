@@ -1,4 +1,3 @@
-**Criteria to Review content:**
 
 The platform is currently in the process of finalizing the review guidelines. 
 The guidelines to review content include:
