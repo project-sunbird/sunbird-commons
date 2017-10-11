@@ -12,7 +12,7 @@ hide_section_selector: true
 published: true
 ---
 
-# Features
+## Features
 
 **Which product features are relevant for content creators and content providers?**
 
