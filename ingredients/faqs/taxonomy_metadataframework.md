@@ -1,4 +1,5 @@
 Taxonomy on this platform comprises of three layers viz.- 
+
 - Vocabulary layer
 - Content Layer and 
 - Framework Layer. 
