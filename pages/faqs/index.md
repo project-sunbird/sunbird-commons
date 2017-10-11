@@ -10,7 +10,7 @@ hide_section_selector: true
 published: true
 ---
 
-# Frequently Asked Question
+## Frequently Asked Question
 
 This page addresses the most commonly asked questions of our platform. Here you will find questions on all aspects of the platform such as: 
 
