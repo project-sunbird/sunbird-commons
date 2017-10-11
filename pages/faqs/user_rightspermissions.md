@@ -11,7 +11,7 @@ hide_platform_selector: true
 hide_section_selector: true
 published: true
 ---
-# User Rights and Permissions	
+## User Rights and Permissions	
 
 **What user roles does the platform support?**
 
