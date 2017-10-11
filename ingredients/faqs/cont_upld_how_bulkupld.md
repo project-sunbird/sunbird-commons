@@ -2,19 +2,12 @@ To bulk upload content,
 
 1. Send a mail to content.ntp@centralsquarefound.org, with the subject as  request to bulk upload 
 2. Supported file formats:
-  
-  a. Text (.pdf)
-  
-  b. Video (.mp4, .webm, YouTube URLs)
-  
-  c. HTML 
-  
-  d. ECML (created using the inbuilt content editor)
-  
-  e. EPUB
-  
-  f. H5P
-
+	- Text (.pdf)
+    - Video (.mp4, .webm, YouTube URLs)
+    - HTML 
+    - ECML (created using the inbuilt content editor)
+    - EPUB
+    - H5P
 3. File size should not exceed 25MB per file
 4. The team will respond with  a form (excel file), seeking basic information on the nature of the content
 5. Reply to the mail after filling in the required details, such as file name, description, file type, subject, class 
@@ -22,10 +15,8 @@ To bulk upload content,
 7. Compress  all the content files into one .zip file. The size of the zip file should not exceed <xxx>  
 8. Upload the .zip file on Google drive and share the link with or email the zipped folder to content.ntp@centralsquarefound.org
 9. Ensure the following if the content is URL based:
-		
-	a. The destination website uses HyperText Transfer Protocol Secure (https) and not  HyperText Transfer Protocol (http). 
-	
-    b. The destination website is enabled for cross origin resource sharing 
+	- The destination website uses HyperText Transfer Protocol Secure (https) and not  HyperText Transfer Protocol (http). 
+	- The destination website is enabled for cross origin resource sharing 
 
 	***Note:***
 	
