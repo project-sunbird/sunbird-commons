@@ -12,7 +12,7 @@ hide_section_selector: true
 published: true
 ---
 
-# Creating Content
+## Creating Content
 
 **Who can create content on the platform?**
 
