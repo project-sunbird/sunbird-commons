@@ -8,4 +8,4 @@ Signing up on the platform is a seamless process. While individuals can register
 		- Teacher ID
     - Verified Email ID and mobile number of the teachers
 3. On providing the information requested for, the organizationâ€™s designated administrator will receive credentials such as User ID and password.
-4. The organizationâ€™s administrator can use the credentials received to sign in and add organization and organization member details.
+4. The organization's administrator can use the credentials received to sign in and add organization and organization member details.
