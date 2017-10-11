@@ -1,6 +1,6 @@
 The platform has only one common repository for all organizations.
 
-If the organization maintains a separate repository, the content in that repository does not automatically reflect in the platform's repository. Any updates made to content in the organizationâ€™s repository must be re-uploaded on the platform's site. The uploaded content undergoes the review process, before it is re-published on the platform.
+If the organization maintains a separate repository, the content in that repository does not automatically reflect in the platform's repository. Any updates made to content in the organization's repository must be re-uploaded on the platform's site. The uploaded content undergoes the review process, before it is re-published on the platform.
 
 Content that is already submitted to the platform repository can be modified using platformâ€™s in-built content editor. To make changes or modify uploaded content:
 
