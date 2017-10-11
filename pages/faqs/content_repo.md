@@ -12,7 +12,7 @@ hide_section_selector: true
 published: true
 ---
 
-# Content Repositories
+## Content Repositories
 
 **After content is uploaded on the platform, do updates made to the original content in the organization’s repository reflect automatically in platform's repository?**
 
