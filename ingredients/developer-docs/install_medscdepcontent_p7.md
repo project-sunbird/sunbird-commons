@@ -140,8 +140,12 @@ sunbird_trampoline_client_id:  # Eg: trampoline
 sunbird_trampoline_secret:     # Eg: HJKDHJEHbdggh23737
 ```
 
-- Run `sudo ./deploy-core.sh <implementation-name>-devops/ansible/inventories/<environment-name>`. This will setup all the sunbird core services.
-- Run `sudo ./deploy-proxy.sh <implementation-name>-devops/ansible/inventories/<environment-name>`. This will setup sunbird proxy services.
+- Run `sudo ./deploy-core.sh <implementation-name>-devops/ansible/inventories/<environment-name>`.
+
+This will setup all the sunbird core services.
+- Run `sudo ./deploy-proxy.sh <implementation-name>-devops/ansible/inventories/<environment-name>`. 
+
+This will setup sunbird proxy services.
 
 - **Automation Walkthrough**
 
