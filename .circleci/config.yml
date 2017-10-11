@@ -110,6 +110,7 @@ jobs:
       - store_artifacts:
           path: /project/workspace/_site
           destination: sunbird-artifact-file-qa
+          
 workflows:
   version: 2
   build_and_deploy:
