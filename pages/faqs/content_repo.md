@@ -4,9 +4,12 @@ directory: faqs
 title: Content Repositories
 page_title: Content Repositories
 description: Content and Organization's repositories
-keywords: 'Content, Repository, Repositories, Upload, Uploaded, Original, Organization, Platform, Stored '
+keywords: >-
+  Content, Repository, Repositories, Upload, Uploaded, Original, Organization,
+  Platform, Stored 
 hide_platform_selector: true
 hide_section_selector: true
+published: true
 ---
 
 # Content Repositories
@@ -17,7 +20,7 @@ hide_section_selector: true
 
 **Does any change in the organization’s content repository affect the content repository on the platform?**
 
-{% ingredient /faqs/cont_review_change %}{% endingredient %}
+{% ingredient /faqs/cont_repo_chng %}{% endingredient %}
 
 **Is the content provided stored in platform’s repository?**
 
