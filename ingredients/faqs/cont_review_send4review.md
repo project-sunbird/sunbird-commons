@@ -1,4 +1,3 @@
-**Sending Content for Review**
 
 1. Click Send for Review button on the header to send the created content for review
 1. If the content is submitted successfully, a message Successfully sent for Review is displayed, else the associated error message is displayed.
