@@ -9,8 +9,7 @@ hide_platform_selector: true
 hide_section_selector: true
 published: true
 ---
-
-# Content Reviews
+## Content Reviews
 
 **Who reviews content?**
 
