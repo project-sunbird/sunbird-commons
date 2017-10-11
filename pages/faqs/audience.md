@@ -12,7 +12,7 @@ hide_platform_selector: true
 hide_section_selector: true
 published: true
 ---
-# Audience
+## Audience
 
 **Who is the audience for the content on the platform?**
 
@@ -25,4 +25,3 @@ published: true
 **How are content authors and contributors given credit?**
 
 {% ingredient /faqs/audience_credit_creator_contributor %}{% endingredient %}
-
