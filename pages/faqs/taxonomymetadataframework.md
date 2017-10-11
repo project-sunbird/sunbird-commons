@@ -12,7 +12,7 @@ hide_platform_selector: true
 hide_section_selector: true
 published: true
 ---
-# Taxonomy, Metadata and Framework
+## Taxonomy, Metadata and Framework
 
 **What is taxonomy? Why do you need to tag content using the taxonomy provided?**
 
