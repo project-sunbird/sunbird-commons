@@ -1,4 +1,5 @@
 Currently, this platform users' are categorized as:
+
 - Organization Administrator
 - System Administrator
 - Content Creator
