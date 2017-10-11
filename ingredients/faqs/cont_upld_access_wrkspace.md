@@ -1,4 +1,5 @@
-### Accessing your workspace
+**Accessing your workspace**
+
 1. Click Profile tab on the header, 
 
 			OR
