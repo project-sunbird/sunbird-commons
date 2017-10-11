@@ -3,13 +3,17 @@ type: landing
 directory: faqs
 title: Content Formats
 page_title: Content Formats
-description: Description of all types, sizes and format of content supported by the platform
-keywords: 'Content, Format, Support, File Size, Metadata, Youtube, Video, Maximum File size '
+description: >-
+  Description of all types, sizes and format of content supported by the
+  platform
+keywords: >-
+  Content, Format, Support, File Size, Metadata, Youtube, Video, Maximum File
+  size 
 hide_platform_selector: true
 hide_section_selector: true
+published: true
 ---
-
-# Content Formats
+## Content Formats
 
 **What content formats are supported on the platform?**
 
@@ -30,7 +34,3 @@ hide_section_selector: true
 **Does the platform fetch metadata from YouTube?**
 
 {% ingredient /faqs/cont_fmt_metadata_youtube %}{% endingredient %}
-
-
-
-
