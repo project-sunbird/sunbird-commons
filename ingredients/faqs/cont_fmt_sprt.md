@@ -1,4 +1,5 @@
 Currently, the platform supports the following formats for compiled content:
+
 - Text (.pdf)
 - Video (.mp4, .webm, YouTube URLs)
 - HTML 
@@ -7,6 +8,7 @@ Currently, the platform supports the following formats for compiled content:
 - H5P
 
 It also supports the following formats for its resource library:
+
 - Audio (.mp3)
 - Images (.jpeg, .png)
 - URLs for YouTube videos and other files
