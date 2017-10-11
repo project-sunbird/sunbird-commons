@@ -10,7 +10,7 @@ hide_section_selector: true
 published: true
 ---
 
-# Help and Support
+## Help and Support
 
 **How do you get answers to problems that you face on the platform?**
 
