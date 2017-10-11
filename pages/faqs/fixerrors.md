@@ -10,7 +10,7 @@ hide_section_selector: true
 published: true
 ---
 
-# Fix Errors
+## Fix Errors
 
 **How can you fix errors after uploading content?**
 
