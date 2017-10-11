@@ -1,4 +1,5 @@
 The difference between a Course, Content and Book are undelined below:  
+
 - **Content** is a complete learning unit that can be used by any user. Content can be of several types, for example; course, textbook, lesson, worksheet, etc.
 
 - **Course** is content provided in sequence, broken down in modules, open for enrolment and completion for a duration. You can attach prerequisites for a course, and it may contain assessments.
