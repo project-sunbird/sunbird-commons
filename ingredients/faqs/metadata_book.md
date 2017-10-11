@@ -16,6 +16,4 @@ Concepts    |   |   |   |
 Keywords    |   |   |   |
 Language    |   |   |   |
 Audience    |   |   |   |
-|
-
 
