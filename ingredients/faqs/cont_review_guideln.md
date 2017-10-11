@@ -1,4 +1,5 @@
-### Criteria to Review content:
+Criteria to Review content:
+
 The platform is currently in the process of finalizing the review guidelines. 
 The guidelines to review content include:
 
@@ -11,4 +12,4 @@ The guidelines to review content include:
 - Whether the content shows the graphic aftermath of a violent act. 
 - Whether breasts, buttocks or genitals (clothed or unclothed) are shown 
 - Whether the content setting is sexually suggestive 
-- Whether subjects are depicted in poses that appear to be sexual in nature* 
+- Whether subjects are depicted in poses that appear to be sexual in nature*
