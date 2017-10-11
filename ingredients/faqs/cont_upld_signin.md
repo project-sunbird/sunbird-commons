@@ -1,2 +1,3 @@
-### Signing In
-1. Sign in to Sunbird website with your registered credentials
+**Signing In**
+
+Sign in to Sunbird website with your registered credentials
