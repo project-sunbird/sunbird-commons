@@ -11,7 +11,7 @@ hide_platform_selector: true
 hide_section_selector: true
 published: true
 ---
-# Intellectual Property Licenses & Standards
+## Intellectual Property Licenses & Standards
 
 **Who owns content on the platform?**
 
