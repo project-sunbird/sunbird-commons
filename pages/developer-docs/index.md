@@ -1,7 +1,7 @@
 ---
 type: landing
 directory: developer-docs
-title: Installation Overview
+title: Developer Documentation Overview
 page_title: Developer Documentation
 description: Developer Documentation Overview
 keywords: 'Installation, pre requisite, extending sunbird'
