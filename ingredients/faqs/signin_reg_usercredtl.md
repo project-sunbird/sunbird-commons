@@ -1,4 +1,5 @@
 The platform has the provision to register and provide user credentials (user ID and password) to: 
+
 - Individual users (users that do not belong to any organization), and 
 - Organizational users (users that are part of an organization)  
 
