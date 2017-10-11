@@ -11,7 +11,7 @@ hide_platform_selector: true
 hide_section_selector: true
 published: true
 ---
-# Signin
+## Signin
 
 **How can you register and get user credentials to sign in to the platform?**
 
