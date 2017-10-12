@@ -9,16 +9,8 @@ To create or update your profile:
 
 	a) Experience: Add your occupation details  such as work title, organization name, joining date, etc
 	    
-	{% image src='/pages/faqs/images/prfilexp.png' full center alt='Experience' %}
-  			
 	b) Address: Add  your permanent and current address
 	    
-	{% image src='/pages/faqs/images/prfiladress.png' full center alt='Address' %}
-  			
 	c) Education: Add your  academic qualifications, such as degree, year of passing, board or university, etc.
-	    
-	{% image src='/pages/faqs/images/prfiledu.png' full center alt='Education' %}
  			
 	d) Additional Information: Add personal information such as email, Aadhar number, mobile number, languages known, etc.
-	    
-	{% image src='/pages/faqs/images/prfiladdinfo.png' full center alt='Additional Information' %}
