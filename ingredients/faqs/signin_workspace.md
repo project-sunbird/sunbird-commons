@@ -1,3 +1,5 @@
+**Signing and accessing your Workspace**
+
 The user has to be signed in with registered credentials and should be on his/her workspace. 
 To access workspace,
 
