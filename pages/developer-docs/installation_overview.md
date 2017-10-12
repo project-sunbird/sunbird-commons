@@ -1,7 +1,8 @@
 ---
 type: landing
 directory: developer-docs
-page_title: installation
+title: Installation  Overview
+page_title: Installation
 description: installation overview
 keywords: 'Try Sunbird, Installation method, Pre-requisites, Sandbox'
 hide_platform_selector: true

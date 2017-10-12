@@ -1,34 +1,13 @@
 version: 2
 jobs:
   staging:
-    working_directory: project/workspace/
+    working_directory: /project/workplace/
     docker:
-      - image: lakhanmandloi/sunbird-ubuntu
+      - image: lakhanmandloi/sunbird-ubuntu-full
     steps:
     
       #Checkout
       - checkout
-      
-      # NPM Dependencies
-      - restore_cache:
-          key: sunbird-qa-npm-{{ checksum "package.json" }}
-      - run:
-          name: Install npm
-          command: npm install
-      - save_cache:
-          key: sunbird-qa-npm-{{ checksum "package.json" }}
-          paths:
-            - node_modules
-            
-      # Bundle Dependencies
-      - restore_cache:
-          key: sunbird-qa-ruby-{{ checksum "Gemfile.lock" }}
-      - run: bundle install --path vendor/bundle
-      - run: bundle update
-      - save_cache:
-          key: sunbird-qa-ruby-{{ checksum "Gemfile.lock" }}
-          paths:
-            - vendor/bundle
             
       # Run Build command
       - type: shell
@@ -40,40 +19,14 @@ jobs:
         command: |
            bundle exec s3_website push
           
-      # Store Artifacts
-      - store_artifacts:
-          path: /project/workspace/_site
-          destination: sunbird-artifact-file-qa
-          
   prod:
-    working_directory: project/workspace/
+    working_directory: /project/workspace/
     docker:
-      - image: lakhanmandloi/sunbird-ubuntu
+      - image: lakhanmandloi/sunbird-ubuntu-full
     steps:
     
       #Checkout
       - checkout
-      
-      # NPM Dependencies
-      - restore_cache:
-          key: sunbird-prod-npm-{{ checksum "package.json" }}
-      - run:
-          name: Install npm
-          command: npm install
-      - save_cache:
-          key: sunbird-prod-npm-{{ checksum "package.json" }}
-          paths:
-            - node_modules
-            
-      # Bundle Dependencies
-      - restore_cache:
-          key: sunbird-prod-ruby-{{ checksum "Gemfile.lock" }}
-      - run: bundle install --path vendor/bundle
-      - run: bundle update
-      - save_cache:
-          key: sunbird-prod-ruby-{{ checksum "Gemfile.lock" }}
-          paths:
-            - vendor/bundle
             
       # Run Build command
       - type: shell
@@ -106,10 +59,6 @@ jobs:
           git commit -m "Deploy"
           git push origin master
           
-      # Store Artifacts
-      - store_artifacts:
-          path: /project/workspace/_site
-          destination: sunbird-artifact-file-qa
           
 workflows:
   version: 2

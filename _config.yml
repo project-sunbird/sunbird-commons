@@ -2,16 +2,13 @@
 title: Sunbird
 name: Sunbird
 email: info@sunbird.org
-description: "Sunbird"
-url: "http://localhost:4000"
-baseurl: ""
+description: "Sunbird Site"
 environment: production
 permalink: pretty
 markdown: kramdown
 highlighter: pygments
-dashboard_url: "http://localhost:3000"
-branch_github_url: "https://github.com/project-sunbird/sunbird-commons"
 safe: false
+ga: UA-106552125-1
 
 exclude:
 - vendor

@@ -1,11 +1,6 @@
 <!DOCTYPE html>
 <html>
   {% include head.html %}
-
-{% if page.exclude_from_google_search == true %}
-    <meta name="robots" content="noindex" />
-{% endif %}
-
   <body>
   <div class="container inner container-height docs">
     <header class="logo-container">
@@ -24,74 +19,15 @@
       </div>
     </nav>
     <div class="content">
-      <div class={% if page.contents == 'number'%}
-          "inner__content header content-guide"
-        {% elsif page.contents == 'list' %}
-          "inner__content header"
-        {% elsif page.guide %}
-          "inner__content header content-guide"
-        {% else %}"inner__content header"{% endif %}>
-
+      <div class="inner__content header">
         <h1>{{ page.title }} </h1>
-
-        {% if page.hide_section_selector == true %}
-          <span class="hide-selector">{% section_selector %}</span>
-        {% else %}
-          {% section_selector %}
-        {% endif %}
       </div>
 
-      {% if page.hide_platform_selector != true and page.overview != true %}
-        {% unless page.hide_platform_selector contains page.section %}
-          {% platform_selector %}
-        {% endunless %}
-      {% endif %}
-
-      <div id="main-content" class={% if page.contents == 'number' or page.contents.number contains page.section %}
-          "inner__content content-guide"
-        {% elsif page.contents == 'list' or page.contents.list contains page.section %}
-          "inner__content"
-        {% elsif page.guide %}
-          "inner__content content-guide"
-        {% else %}"inner__content"{% endif %}>
-        {% if page.contents == 'list' or page.contents.list contains page.section %}
-
+      <div id="main-content" class="inner__content">
           {{ content }}
-        {% elsif page.contents == 'number' or page.contents.number contains page.section %}
-          {{ content }}
-        {% elsif page.contents == 'hide' or page.contents.hide contains page.section %}
-          {{ content }}
-        {% elsif page.overview %}
-          {{ content }}
-        {% elsif page.guide %}
-          {{ content }}
-        {% elsif page.advanced or page.support %}
-          {{ content }}
-        {% else %}
-          {{ content }}
-        {% endif %}
       </div>
     </div>
   </div>
-
-  <script>
-    var platformSelector = $("#platform-selector");
-    var mainContent = $("#main-content");
-
-    $(".content").scroll(function() {
-
-      if (this.scrollTop > 264) {
-        platformSelector.addClass("fixed");
-        mainContent.addClass("no-selector");
-      }
-      else {
-        platformSelector.removeClass("fixed");
-        mainContent.removeClass("no-selector");
-      }
-
-    });
-  </script>
-
   <script type="text/javascript">
 
       $(document).ready(function(){
@@ -108,7 +44,5 @@
       });
 
   </script>
-
   </body>
-
 </html>
