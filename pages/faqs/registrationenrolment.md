@@ -17,14 +17,6 @@ published: true
 
 {% ingredient /faqs/reg&enrol_signup %}{% endingredient %}
 
-**How do you upload organizations on the platform?**
-
-{% ingredient /faqs/regenrol_upld_org %}{% endingredient %}
-
-**How do you upload users on the platform?**
-
-{% ingredient /faqs/regenrol_upld_user %}{% endingredient %}
-
 **How do you integrate organization’s existing teacher database?**
 
 {% ingredient /faqs/regenrol_integrate_org_teacher_database %}{% endingredient %}
