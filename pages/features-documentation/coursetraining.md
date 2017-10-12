@@ -16,10 +16,18 @@ Course is a content provided in sequence, broken down in modules, open for enrol
 
 **Compiling Courses in Sunbird**
 
+{% ingredient /faqs/signin_workspace %}{% endingredient %}
+
 {% ingredient /faqs/createcont_course %}{% endingredient %}
+
 {% ingredient /faqs/createcont_add_cont_course %}{% endingredient %}
+
 {% ingredient /faqs/createcont_add_courseunit %}{% endingredient %}
+
 {% ingredient /faqs/createcont_add_collection %}{% endingredient %}
+
 {% ingredient /faqs/createcont_add_story %}{% endingredient %}
+
 {% ingredient /faqs/createcont_add_wrksheet %}{% endingredient %}
+
 {% ingredient /faqs/createcont_modify %}{% endingredient %}
