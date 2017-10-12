@@ -25,9 +25,13 @@ published: true
 **What metadata does the content provider enter for each piece of content?**
 
 {% ingredient /faqs/metadata_define %}{% endingredient %}
+
 {% ingredient /faqs/metadata_collection %}{% endingredient %}
+
 {% ingredient /faqs/metadata_book %}{% endingredient %}
+
 {% ingredient /faqs/metadata_lesson %}{% endingredient %}
+
 {% ingredient /faqs/metadata_collection %}{% endingredient %}
 
 **How can the content provider add taxonomy and use it?**
