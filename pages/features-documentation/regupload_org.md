@@ -9,6 +9,6 @@ hide_section_selector: true
 published: true
 ---
 
-### Register and Upload Organizations 
+### Register Organizations 
 
 {% ingredient /faqs/regenrol_upld_org %}{% endingredient %}
