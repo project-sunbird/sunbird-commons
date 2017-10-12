@@ -14,3 +14,5 @@ published: true
 {% ingredient/features-documentation/user_self_enrollment %}{% endingredient %}
 
 {% ingredient/features-documentation/signing_in %}{% endingredient %}
+
+{% ingredient/faqs/signin_workspace %}{% endingredient %}
