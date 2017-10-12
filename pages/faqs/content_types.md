@@ -14,4 +14,4 @@ published: true
 
 **What is the difference between a course, content and a Book?**
 
-{% ingredient /faqs/cont_type_define_course_cont&book %}{% endingredient %}
+{% ingredient /faqs/cont_type_define_course_contbook %}{% endingredient %}
