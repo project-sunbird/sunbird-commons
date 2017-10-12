@@ -10,4 +10,4 @@ published: true
 ---
 ### Register and Upload Users
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+{% ingredient /faqs/regenrol_upld_user %}{% endingredient %}
