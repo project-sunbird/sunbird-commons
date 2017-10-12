@@ -14,8 +14,21 @@ published: true
 
 **How do you upload content on the platform?**
 
-{% ingredient /faqs/cont_upld_signin %}{% endingredient %}
-{% ingredient /faqs/cont_upld_access_wrkspace %}{% endingredient %}
+The user has to be signed in with registered credentials and should be on his/her workspace. 
+To access workspace,
+
+ 1. Click Profile tab on the header
+
+ OR
+
+ Click the Profile icon and select Profile
+ 
+ 2. Click **View your Workspace** from the right side of the profile page
+
+ OR
+
+ Click Profile icon and select **Workspace** from the drop-down list
+
 {% ingredient /faqs/cont_upld_upldfiles %}{% endingredient %}
 
 **What is bulk upload? Is bulk upload possible on the platform?**
