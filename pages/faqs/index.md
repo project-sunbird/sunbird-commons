@@ -22,4 +22,4 @@ This page addresses the most commonly asked questions of our platform. Here you 
 + Taxonomy and metadata
 + Glossary
 
-If you have a question that is not answered here, please contact us @
+If you have a question that is not answered here, please send an email to http://www.sunbird.org/contact
