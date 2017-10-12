@@ -1,4 +1,5 @@
-### Creating Course from your Workspace
+**Creating Course from your Workspace**
+
 1. Click the Course tab. The Creating Course page is displayed 
 2. Enter the course Name and Description 
 
