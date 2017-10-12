@@ -10,5 +10,6 @@ hide_section_selector: true
 published: true
 ---
 
-## Elementary Views
+## Elementary View
+
 From architectural perspective, there are multiple views of Sunbird architecture, classified as Logical, Physical, Conceptual and Deployment.
