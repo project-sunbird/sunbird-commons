@@ -8,6 +8,6 @@ hide_platform_selector: true
 hide_section_selector: true
 published: true
 ---
-### Register and Upload Users
+### Register Users
 
 {% ingredient /faqs/regenrol_upld_user %}{% endingredient %}
