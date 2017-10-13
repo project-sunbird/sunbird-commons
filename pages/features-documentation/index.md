@@ -1,8 +1,8 @@
 ---
 type: landing
 directory: features-documentation
-title: Feature Overview
-page_title: Overview
+title: Product Features
+page_title: Product Features
 description: Sunbird offers extensive functionality and features 
 keywords: 'Features, highlights, sunbird features, functionalities'
 hide_platform_selector: true
