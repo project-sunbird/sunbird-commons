@@ -1,4 +1,4 @@
---
+---
 type: landing
 directory: features-documentation
 title: Register and Upload Organizations
