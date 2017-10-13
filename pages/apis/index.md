@@ -37,7 +37,7 @@ published: true
 
 **Organization Management APIs**
 
-- **[Org. API](/apis/orgapi/)** The Organisation Management API resources perform operations related to management of Organisation on the Sunbird Platform. The basic operations include creation, updation, joining, approving.
+- **[Organisation Management API](/apis/orgapi/)** The Organisation Management API resources perform operations related to management of Organisation on the Sunbird Platform. The basic operations include creation, updation, joining, approving.
 
 **User APIs**
 
