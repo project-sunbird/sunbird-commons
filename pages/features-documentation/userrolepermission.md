@@ -1,8 +1,8 @@
 ---
 type: landing
 directory: features-documentation
-title: User Role Permission
-page_title: User Role Permission
+title: User Roles and Permissions
+page_title: User Roles and Permissions
 description: User Roles and Permission
 keywords: 'Admin, System Admin, Org Admin, Instructor, Student, Roles, Permissions'
 hide_platform_selector: true
