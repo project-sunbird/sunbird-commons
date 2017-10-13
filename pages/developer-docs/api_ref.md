@@ -1,7 +1,7 @@
 ---
 type: landing
 directory: developer-docs
-title: API Reference
+title: API References
 page_title: API Reference
 description: API Reference
 keywords: API, Reference, Coding, REST
