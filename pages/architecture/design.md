@@ -1,8 +1,8 @@
 ---
 type: landing
 directory: architecture
-title: Architecture Design
-page_title: Architecture Design
+title:Design
+page_title:Design
 description: Architecture Design
 keywords: Architecture Design
 hide_platform_selector: true
