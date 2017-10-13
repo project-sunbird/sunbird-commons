@@ -1,8 +1,8 @@
 ---
 type: landing
 directory: faqs
-title: FAQ-Audience
-page_title: FAQ-Audience
+title: Audience
+page_title: Audience
 description: About audience for the content
 keywords: >-
   Audience, Consumer, Who visits the platform, Who can consume content, Target
