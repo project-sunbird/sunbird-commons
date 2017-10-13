@@ -126,16 +126,16 @@ Included in the next demo
 - Update following configs
 
 ```yml
-# Login to the keycloak admin console, goto the clients->admin-cli->Installation->Select json format
+Login to the keycloak admin console, goto the clients->admin-cli->Installation->Select json format
 sunbird_sso_client_id: # Eg: admin-cli
 sunbird_sso_username: # keycloak user name
 sunbird_sso_password: # keycloak user password
 
-# Login to the keycloak admin console, goto the clients->portal->Installation->Select json format
+Login to the keycloak admin console, goto the clients->portal->Installation->Select json format
 keycloak_realm:  # Eg: sunbird
 sunbird_keycloak_client_id: # Eg: portal
 
-# Login to the keycloak admin console, goto the clients->trampoline->Installation->Select json format
+Login to the keycloak admin console, goto the clients->trampoline->Installation->Select json format
 sunbird_trampoline_client_id:  # Eg: trampoline
 sunbird_trampoline_secret:     # Eg: HJKDHJEHbdggh23737
 ```
