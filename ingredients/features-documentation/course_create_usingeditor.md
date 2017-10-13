@@ -1,4 +1,4 @@
-##**Creating Course using Online Authoring tool/Editor**
+**Creating Course using Online Authoring tool/Editor**
 
 To start creating Course content using authoring tool/editor, follow the steps below: 
 
