@@ -1,4 +1,4 @@
-##**Adding Unit to the Courses**
+**Adding Unit to the Courses**
 
 1. Click **+** icon on the left navigation pane
 1. Select **Course Unit** from the drop-down list. The unit is displayed as **Untitled Course Unit**
