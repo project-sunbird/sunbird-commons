@@ -52,7 +52,8 @@ User registries store user profile information, that can be accessed after authe
 
 - **Significantly shorten learning lead times by enabling course discussions, peer-to-peer and mentoring interactions**
 
-Most MOOCs today are focused on individual self-learning scenarios where a single user enrolls in a course and goes ahead to complete the course without much interaction with other students. Even interactions with instructors is rare. This approach may work fine for technical subjects and areas where significant social interaction may not be required. However, for most areas, just theoretical or technical knowledge is insufficient. This leads to situations where students considered to be proficient in an area may yet to be unemployable. The benefits of discussions and collaboration in learning are well known now and include 
+Most MOOCs today are focused on individual self-learning scenarios where a single user enrolls in a course and goes ahead to complete the course without much interaction with other students. Even interactions with instructors is rare. This approach may work fine for technical subjects and areas where significant social interaction may not be required. However, for most areas, just theoretical or technical knowledge is insufficient. This leads to situations where students considered to be proficient in an area may yet to be unemployable. The benefits of discussions and collaboration in learning are well known now and include:
+
 	- Development of critical thought
   	- Increase in student attention and engagement
  	- Promotion of positive attitudes toward the subject matter
