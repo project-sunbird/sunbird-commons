@@ -1,5 +1,5 @@
-**Content consumer Role-Functionality matrix**
+**Content Consumer Role-Functionality Matrix**
 
 | Functionality  Users|Create Lesson|Create course|Create textbook|Review content|Upload|Consume content| 
 |----------------------|-------------|-------------|---------------|--------------|------|---------------|
-|**Contet Consumers**	|No	|No	|No	|No	|No	|No	|
+|**Content Consumers**	|No	|No	|No	|No	|No	|No	|
