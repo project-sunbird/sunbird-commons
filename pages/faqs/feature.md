@@ -2,7 +2,7 @@
 type: landing
 directory: faqs
 title: Feature
-page_title: Feature
+page_title: Features
 description: Product features
 keywords: >-
   Content creator, Content provider, Feature, Platform, Product, Languages,
