@@ -9,7 +9,7 @@ hide_platform_selector: true
 hide_section_selector: true
 published: true
 ---
-### Workspace
+## Workspace
 
 {% ingredient/features-documentation/workspace_about %}{% endingredient %}
 
