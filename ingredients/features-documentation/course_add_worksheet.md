@@ -1,4 +1,4 @@
-##**Adding Worksheet to the Course**
+**Adding Worksheet to the Course**
 
 1 To add "**Worksheet**" to the Course, select "**Worksheet**" option from the left pane dropdown 
 
