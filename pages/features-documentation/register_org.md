@@ -1,8 +1,8 @@
 ---
 type: landing
 directory: features-documentation
-title: Register and Upload Organizations
-page_title: Register and Upload Organizations
+title: Register Organizations
+page_title: Register Organizations
 description: Register and Enrollment
 keywords: 'Org Admin,Registration, Enrollment'
 hide_platform_selector: true
