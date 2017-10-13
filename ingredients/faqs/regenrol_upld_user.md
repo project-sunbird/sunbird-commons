@@ -1,15 +1,3 @@
-**Signing In**
-
-1. Sign in the platform portal using your registered credentials
-
-**Accessing your Workspace**
-
-1. Click Profile tab on the header
-   
-    OR
-    
-    Click the Profile Icon and select Profile
-
 **Uploading Users**
 
 1. Click Upload Users. The upload users page is displayed
