@@ -1,4 +1,4 @@
----
+--
 type: landing
 directory: features-documentation
 title: Register and Upload Organizations
@@ -10,6 +10,6 @@ hide_section_selector: true
 published: true
 ---
 
-### Register Organizations 
+## Register Organizations 
 
 {% ingredient /faqs/regenrol_upld_org %}{% endingredient %}
