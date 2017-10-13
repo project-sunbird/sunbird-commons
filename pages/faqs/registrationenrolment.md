@@ -1,7 +1,7 @@
 ---
 type: landing
 directory: faqs
-title: Registration and Enrolment
+title: Registration and Enrollment
 page_title: Registration and Enrolment
 description: Who and how to register & enroll in the platform
 keywords: >-
@@ -11,7 +11,7 @@ hide_platform_selector: true
 hide_section_selector: true
 published: true
 ---
-## Registration and Enrolment
+## Registration and Enrollment
 
 **How do you sign up on the platform?**
 
