@@ -5,8 +5,12 @@ s3_endpoint: ap-southeast-1
 
 
 max_age:
-  "*": 6000
-
+  "*": 0
+  
+cache_control:
+  "assets/*": public, max-age=3600
+  "*": no-cache, no-store
+  
 gzip:
   - .html
   - .css
