@@ -7,7 +7,7 @@ Lesson refers to the smallest unit of content created. There are two types of le
 To add a lesson to the Course
 
 1.Click + icon on the left navigation pane 
-1.Select **Story**/**Worksheet** from the drop-down list. The **Lesson browser** page is displayed.
+1.Select Story/Worksheet from the drop-down list. The Lesson browser page is displayed.
 - For faster and effective search of the lessons, you can apply filters. To apply filters, select from the drop-down lists available for Language, Grade, Lesson Type, Domain, and, Concept
 - Click Apply. Results are loaded on the right pane
 - Click Load more to view more lessons
