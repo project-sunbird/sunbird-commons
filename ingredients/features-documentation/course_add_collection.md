@@ -1,4 +1,4 @@
-##**Adding Lesson to the Course**
+**Adding Lesson to the Course**
 
 Lesson refers to the smallest unit of content created. There are two types of lessons:
 1. Story
@@ -17,4 +17,3 @@ To add a lesson to the Course
 
 1.Click Save tab on the header to save the course 
 1.Click Send for review to send the created course unit for review
-
