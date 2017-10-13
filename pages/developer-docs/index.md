@@ -19,8 +19,6 @@ There are lots of ways to contribute to the Sunbird project:
 - Coding
 - Testing
 - Improving the build process and tools
-- Contributing to the documentation.
+- Contributing to the documentation
 
 We know that before you can even start contributing,getting set up to work on Sunbird and finding a bug that's a good fit for your skills can be a challenge. We're always looking for ways to improve that process and make Sunbird more open, accessible and easier to participate in.The Developer documentation provides all that’s needed from installing Sunbird to contributing. It also provided the information related to Sunbird APIs, SDKs, and other developer resources.
-
-
