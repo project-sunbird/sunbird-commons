@@ -1,4 +1,4 @@
-##**Adding Story to the Course**
+**Adding Story to the Course**
 
 1 To add "**Story**" to the course, select "**Story**" option from the left pane dropdown 
 
