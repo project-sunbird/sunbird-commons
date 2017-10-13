@@ -1,8 +1,8 @@
 ---
 type: landing
 directory: faqs
-title: Signin
-page_title: Signin
+title: Sign In
+page_title: Sign In
 description: Registration and user credential
 keywords: >-
   Sign in, Registration, Credential, Individual User, Organizational User,
@@ -11,7 +11,7 @@ hide_platform_selector: true
 hide_section_selector: true
 published: true
 ---
-## Signin
+## Sign In
 
 **How can you register and get user credentials to sign in to the platform?**
 
