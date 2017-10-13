@@ -1,7 +1,7 @@
 ---
 type: landing
 directory: faqs
-title: Content Formats
+title: Content Format
 page_title: Content Formats
 description: >-
   Description of all types, sizes and format of content supported by the
