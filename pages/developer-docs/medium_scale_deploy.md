@@ -8,6 +8,6 @@ hide_platform_selector: true
 hide_section_selector: true
 published: true
 ---
-### Medium Scale Deployment
+## Medium Scale Deployment
 
 {% ingredient /developer-docs/install_medscdepcontent_p7 %}{% endingredient %}.
