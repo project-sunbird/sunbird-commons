@@ -1,3 +1,3 @@
-##Exploring Courses
+Exploring Courses
 
 <Page in progress>
