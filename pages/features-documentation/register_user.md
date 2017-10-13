@@ -1,6 +1,7 @@
 ---
 type: landing
 directory: features-documentation
+title: Register and Upload Users
 page_title: Register and Upload Users
 description: Registration and Enrollment
 keywords: 'Users, registration, enrollment'

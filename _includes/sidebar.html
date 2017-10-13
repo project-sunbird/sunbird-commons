@@ -1,33 +1,33 @@
 <div id="">
-	<div class="sidebar-wrapper">
+	<div class="sidebar-wrapper {{page.directory | slugify}}">
 		<div class="" >
-			<a href="/architecture">
+			<a href="/architecture/">
 				<h4 class="sidebar-group-title">Architecture</h4>
 			</a>
-			<ul class="sidebar-group" >
+			<ul class="sidebar-group architecture">
 				<li>
-					<a href="/architecture">Overview</a>
+					<a href="/architecture/">Overview</a>
 				</li>
 				<li>
-					<a href="/architecture/design">Design</a>
+					<a href="/architecture/design/">Design</a>
 				</li>
 				<li>
 					<div class="">
-					<a href="/architecture/views/elementryview">
+						<a href="/architecture/views/elementryview/" class="sidebar-group-title">
 							<h4 class="sidebar-group-title">Elementary Views</h4>
 						</a>
 						<ul class="sidebar-group">
 							<li>
-								<a href="/architecture/views/logical">Logical View</a>
+								<a href="/architecture/views/logical/">Logical View</a>
 							</li>
 							<li>
-								<a href="/architecture/views/physical">Physical View</a>
+								<a href="/architecture/views/physical/">Physical View</a>
 							</li>
 							<li>
-								<a href="/architecture/views/conceptual">Conceptual View</a>
+								<a href="/architecture/views/conceptual/">Conceptual View</a>
 							</li>
 							<li>
-								<a href="/architecture/views/deployment">Deployment View</a>
+								<a href="/architecture/views/deployment/">Deployment View</a>
 							</li>
 						</ul>
 					</div>
@@ -36,280 +36,170 @@
 			<a href="/features-documentation/">
 				<h4 class="sidebar-group-title">Product Features</h4>
 			</a>
-			<ul class="sidebar-group" >
+			<ul class="sidebar-group features-documentation" >
 				<li>
-					<a href="/features-documentation/onboarding">Onboarding</a>
+					<a href="/features-documentation/onboarding/">Onboarding</a>
 				</li>
 				<li>
-					<a href="/features-documentation/login">Login</a>
+					<a href="/features-documentation/login/">Login</a>
 				</li>
 				<li>
-					<a href="/features-documentation/administration">Administration</a>
-				<ul class="sidebar-group">
-							<li>
-								<a href="/features-documentation/register_org">Register Organizations</a>
-							</li>
-							<li>
-								<a href="/features-documentation/register_user">Register Users</a>
-							</li>
-						</ul>
-				</li>
-				<li>
-					<a href="/features-documentation/userrolepermission">User Roles and Permissions</a>
-				</li>
-					<div class="">
+					<a href="/features-documentation/administration/">Administration</a>
 					<ul class="sidebar-group">
-							<li>
-								<a href="/features-documentation/userprofile">User Profile</a>
-							</li>
-							<li>
-								<a href="/features-documentation/workspace">Workspace</a>
-							</li>
-						</ul>
-					</div>
-				</li>
-				<li>
-					<a href="/features-documentation/coursetraining">Courses and Training</a>
-				</li>
-				<li>
-					<a href="/features-documentation/resources">Resources</a>
-				</li>
-				<li>
-					<div class="">
-						<a href="/features-documentation/contentlifecycle" class="sidebar-group-title">Content Lifecycle</a>
-				<li>
-						<a href="/features-documentation/contentcreation">Content Creation</a>
-				</li>
-				<li>
-					<a href="/features-documentation/contenteditor">Content Editor</a>
-				</li>
-				<li>
-					<a href="/features-documentation/guidelines">Guidelines</a>
-				</li>
-						<ul class="sidebar-group">
-							<li>
-								<a href="/features-documentation/intellectualproperty">Intellectual Property</a>
-							</li>
-						</ul>
-				<li>
-				<a href="/participate/">Participate</a>
-				</li>
-				<li>
-					<a href="/features-documentation/collaborationpartnership">Collaboration and Partnership</a>
-				</li>
-							<!--<li>
-								<a href="/features-documentation/review">Review</a>
-							</li>
-							<li>
-								<a href="/features-documentation/publishing">Publishing</a>
-							</li>-->
-			</ul>
-					</div>
-				</li>
-				
-				<!--<li>
-					<div class="">
-						
-							<li>
-								<a href="/features-documentation/contentsubmission">Content Submission</a>
-							</li>
-							<li>
-								<a href="/features-documentation/codesubmission">Code Submission</a>
-							</li>
-							<li>
-								<a href="/features-documentation/review">Review</a>
-							</li>
-						</ul>
-					</div>
-				</li>-->
-				<!--<li>
-					<div class="">
-						
-							<ul class="sidebar-group">
-							<li>
-								<a href="/participate/">Participation Process</a>
-							</li>
-							<li>
-								<a href="#">Suggest Design</a>
-							</li>
-							<li>
-								<a href="#">Write Documentation</a>
-							</li>
-							<li>
-								<a href="#">Write Code</a>
-							</li>
-							<li>
-								<a href="#">Test</a>
-							</li>
-							<li>
-								<a href="#">Answer Questions</a>
-							</li>
-							<li>
-								<a href="#">Review</a>
-							</li>
-							<li>
-								<a href="#">Mentor</a>
-							</li>
-							<li>
-								<a href="#">Maintain</a>
-							</li>
-						</ul>-->
-					</div>
-				</li>
-				<!--<li>
-					<a href="/features-documentation/reportinganalytics">Reporting and Analytics</a>
-				</li>-->
-				
-				<!--<li>
-					<a href="/features-documentation/supportedenvironment">Supported Environments</a>
-				</li>-->
-			</ul>
-			<a href="/developer-docs">
-				<h4 class="sidebar-group-title">Developer Documentation</h4>
-			</a>
-			<ul class="sidebar-group" >
-				<li>
-					<a href="/developer-docs/installation_overview/">Installation Overview</a>
-					<!--<ul class="sidebar-group">
 						<li>
-							<a href="/developer-docs/getting_started/">Supported Environments</a>
+							<a href="/features-documentation/register_org/">Register Organizations</a>
+						</li>
+						<li>
+							<a href="/features-documentation/register_user/">Register Users</a>
 						</li>
 					</ul>
 				</li>
 				<li>
-					<a href="/developer-docs/hosting_sunbird/">Hosting Sunbird</a>
-				</li>-->
+					<a href="/features-documentation/userrolepermission/">User Roles and Permissions</a>
+				</li>
 				<li>
 					<div class="">
-						<a class="sidebar-group-title">Installing Sunbird</a>
 						<ul class="sidebar-group">
 							<li>
-								<a href="/developer-docs/developer_install">Quick Installation</a>
-							</li>
-							<!--<li>
-								<a href="/developer-docs/developer_install/#setup">Quick Installation</a>
+								<a href="/features-documentation/userprofile/">User Profile</a>
 							</li>
 							<li>
-								<a href="/developer-docs/developer_install/#setup">Small Scale Deployment</a>
-							</li>-->
-							<li>
-								<a href="/developer-docs/medium_scale_deploy">Medium Scale Deployment</a>
-							</li>
-							<!--<li>
-								<a href="/developer-docs/large_scale_deploy">Large Scale Deployment</a>
+								<a href="/features-documentation/workspace/">Workspace</a>
 							</li>
 						</ul>
 					</div>
 				</li>
 				<li>
-					<div class="">
-						<a class="sidebar-group-title" href="/developer-docs/extending_sunbird/">Extending Sunbird</a>
-						<ul class="sidebar-group">
-							<li>
-								<a href="/developer-docs/extending_sunbird/">Overview</a>
-							</li>
-							<li>
-								<a href="/developer-docs/extending_sunbird/">Extension Points</a>
-							</li>
-							<li>
-								<a href="/developer-docs/extending_sunbird/">Extension Options</a>
-							</li>
-						</ul>
-					</div>
+					<a href="/features-documentation/coursetraining/">Courses and Training</a>
+				</li>
+				<li>
+					<a href="/features-documentation/resources/">Resources</a>
+				</li>
+				<li>
+					<a href="/features-documentation/contentlifecycle/" class="sidebar-group-title">Content Lifecycle</a>
+				</li>
+				<li>
+					<a href="/features-documentation/contentcreation/">Content Creation</a>
+				</li>
+				<li>
+					<a href="/features-documentation/contenteditor/">Content Editor</a>
+				</li>
 				</li>
 				<li>
 					<div class="">
-						<a class="sidebar-group-title" href="/developer-docs/customize_sunbird/">Customizing Sunbird</a>
-						<!--<ul class="sidebar-group">
-							<li>
-								<a href="/developer-docs/customize_sunbird/#changing-the-look-and-feel">Changing the Look and Feel</a>
-							</li>
-						</ul>-->
-					</div>
-				</li>
-				<li>
-					<div class="">
-						<a class="sidebar-group-title" href="/apis/">API References</a>
+						<a href="/features-documentation/guidelines/" class="sidebar-group-title">Guidelines</a>
 						<ul class="sidebar-group">
 							<li>
-								<a href="/apis/">Sunbird REST APIs</a>
+								<a href="/features-documentation/intellectualproperty/">Intellectual Property</a>
 							</li>
 						</ul>
 					</div>
 				</li>
 				<!--<li>
-					<div class="">
-						<a class="sidebar-group-title">Code Contribution</a>
-						<ul class="sidebar-group">
-							<li>
-								<a href="/developer-docs/code_contribute/">Overview</a>
-							</li>
-							<li>
-								<a href="/developer-docs/code_contribute/">Guidelines</a>
-							</li>
-							<li>
-								<a href="/developer-docs/code_contribute/">Contributor Roles</a>
-							</li>
-						</ul>-->
-					</div>
-				</li>
-			</ul>
-			<a href="/faqs/">
-				<h4 class="sidebar-group-title">Frequently asked questions</h4>
-			</a>
-			<ul class="sidebar-group" >
-				<li>
-					<a href="/faqs/audience">Audience</a>
-				</li>
-				<!--<li>
-					<a href="/faqs/contentcreation">Content Creation</a>
+					<a href="/features-documentation/reportinganalytics/">Reporting and Analytics</a>
 				</li>-->
 				<li>
-					<a href="/faqs/content_format">Content Format</a>
+					<a href="/features-documentation/collaborationpartnership/">Collaboration and Partnership</a>
 				</li>
-				<li>
-					<a href="/faqs/content_repo">Content Repo</a>
-				</li>
-				<li>
-					<a href="/faqs/contentreviews">Content Review</a>
-				</li>
-				<li>
-					<a href="/faqs/content_types">Content Types</a>
-				</li>
-				<li>
-					<a href="/faqs/content_upload">Content Upload</a>
-				</li>
-				<li>
-					<a href="/faqs/feature">Features</a>
-				</li>
-				<li>
-					<a href="/faqs/fixerrors">Fix Errors</a>
-				</li>
-				<li>
-					<a href="/faqs/glossary">Glossary</a>
-				</li>
-				<li>
-					<a href="/faqs/helpsupport">Help Support</a>
-				</li>
-				<li>
-					<a href="/faqs/intellectual_propertylicensesstandards">Intellectual Property Licenses Standards</a>
-				</li>
-				<li>
-					<a href="/faqs/registrationenrolment">Registration Enrollment</a>
-				</li>
-				<li>
-					<a href="/faqs/signin">Sign In</a>
-				</li>
-				<li>
-					<a href="/faqs/taxonomymetadataframework">Taxonomy Meta Data Framework</a>
-				</li>
-				<li>
-					<a href="/faqs/user_rightspermissions">Users Rights Permission</a>
-				</li>
-			</ul>
-			<a href="/faqs/glossary">
-				<h4 class="sidebar-group-title">Glossary</h4>
-			</a>
-		</div>
+				</ul>
+				<a href="/developer-docs/">
+					<h4 class="sidebar-group-title">Developer Documentation</h4>
+				</a>
+				<ul class="sidebar-group developer-docs">
+					<li>
+						<a href="/developer-docs/installation_overview/">Installation Overview</a>
+					</li>
+					<!--<li>
+						<a href="/developer-docs/hosting_sunbird/">Hosting Sunbird</a>
+					</li>-->
+					<li>
+						<div class="">
+							<a class="sidebar-group-title" href="/developer-docs/developer_install/">Installing Sunbird</a>
+							<ul class="sidebar-group">
+								<li>
+									<a href="/developer-docs/medium_scale_deploy/">Medium Scale Deployment</a>
+								</li>
+								<!--<li>
+									<a href="/developer-docs/large_scale_deploy/">Large Scale Deployment</a>
+								</li>-->
+							</ul>
+						</div>
+					</li>
+					<!--<li>
+						<div class="">
+							<a class="sidebar-group-title" href="/developer-docs/extending_sunbird/">Extending Sunbird</a>
+						</div>
+					</li>
+					<li>
+						<div class="">
+							<a class="sidebar-group-title" href="/developer-docs/customize_sunbird/">Customizing Sunbird</a>
+						</div>
+					</li>-->
+					<li>
+						<div class="">
+							<a class="sidebar-group-title" href="/apis/">API References</a>
+							<ul class="sidebar-group">
+								<li>
+									<a href="/apis/">Sunbird REST APIs</a>
+								</li>
+							</ul>
+						</div>
+					</li>
+				</div>
+			</li>
+		</ul>
+		<a href="/faqs/">
+			<h4 class="sidebar-group-title">Frequently asked questions</h4>
+		</a>
+		<ul class="sidebar-group faqs" >
+			<li>
+				<a href="/faqs/audience/">Audience</a>
+			</li>
+			<li>
+				<a href="/faqs/content_format/">Content Format</a>
+			</li>
+			<li>
+				<a href="/faqs/content_repo/">Content Repo</a>
+			</li>
+			<li>
+				<a href="/faqs/contentreviews/">Content Review</a>
+			</li>
+			<li>
+				<a href="/faqs/content_types/">Content Types</a>
+			</li>
+			<li>
+				<a href="/faqs/content_upload/">Content Upload</a>
+			</li>
+			<li>
+				<a href="/faqs/feature/">Features</a>
+			</li>
+			<li>
+				<a href="/faqs/fixerrors/">Fix Errors</a>
+			</li>
+			<li>
+				<a href="/faqs/helpsupport/">Help Support</a>
+			</li>
+			<li>
+				<a href="/faqs/intellectual_propertylicensesstandards/">Intellectual Property Licenses Standards</a>
+			</li>
+			<li>
+				<a href="/faqs/registrationenrolment/">Registration Enrollment</a>
+			</li>
+			<li>
+				<a href="/faqs/signin/">Sign In</a>
+			</li>
+			<li>
+				<a href="/faqs/taxonomymetadataframework/">Taxonomy Meta Data Framework</a>
+			</li>
+			<li>
+				<a href="/faqs/user_rightspermissions/">Users Rights Permission</a>
+			</li>
+		</ul>
+		<a href="/faqs/glossary/">
+			<h4 class="sidebar-group-title">Glossary</h4>
+		</a>
 	</div>
 </div>
+<script>
+$("a[href$='{{page.url}}']").addClass("sidebar-link-selected");
+</script>
