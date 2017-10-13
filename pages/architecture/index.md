@@ -1,8 +1,8 @@
 ---
 type: landing
 directory: architecture
-title: Architecture Overview
-page_title: Architecture Overview
+title: Architecture 
+page_title: Architecture 
 description: Architecture Overview
 keywords: Architecture Overview
 hide_platform_selector: true
