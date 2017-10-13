@@ -1,4 +1,4 @@
-##**Filter content from Courses**
+**Filter content from Courses**
 
 1 Click on "**Courses**" tab, locate the "**Filter**" key
 
