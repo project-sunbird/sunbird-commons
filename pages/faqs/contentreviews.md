@@ -1,15 +1,15 @@
 ---
 type: landing
 directory: faqs
-title: Content Reviews
-page_title: Content Reviews
+title: Content Review
+page_title: Content Review
 description: Review and its lifecycle
 keywords: 'Content, Review, Criteria, Guideline, Send for Review '
 hide_platform_selector: true
 hide_section_selector: true
 published: true
 ---
-## Content Reviews
+## Content Review
 
 **Who reviews content?**
 
