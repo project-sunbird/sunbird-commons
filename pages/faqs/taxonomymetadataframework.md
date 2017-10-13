@@ -1,7 +1,7 @@
 ---
 type: landing
 directory: faqs
-title: 'Taxonomy, Metadata and Framework'
+title: 'Taxonomy Meta Data and Framework'
 page_title: 'About taxonomy, metadata and framework'
 description: 'About taxonomy, metadata and framework'
 keywords: >-
