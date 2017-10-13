@@ -13,6 +13,7 @@ published: true
 ## Elementary View
 
 The views of Sunbird architecture are classified as: 
+
 - Logical
 - Physical
 - Conceptual
