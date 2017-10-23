@@ -29,3 +29,9 @@ User should have the link and credential to login into the Sunbird portal.
 | a)  Taking up  a course/study material                                                                                                   1. Click on Profile menu to avail options viz., navigate profile, go to home page, see teacher note,turn on/off sound etc               2. Click icon to move to previous page/slide of study material                                                                           3. Click icon to move the next page/side of study material                                                                               4. Click Previous button, to read study material uploaded precedent to ongoing material | {% image src='/pages/features-documentation/images/createcourse4.png' full center alt='Profile Page' %} |
 |                                          |                                          |
 
+Steps | | Images
+--------------|-|-------
+Step 1: <ul><li>a) Sign In Diksha portal using your registered credential</li><li>i) Enter your User ID</li><li>ii) Enter your password</li><li>iii) Click log in button</li></ul>   | <img src= "https://www.pexels.com/photo/photo-of-a-tiger-roaring-38278/">   | 
+Step 2: <ul><li>a) You will land to the Home page: </li><li>i) In the “Home” page, you can find your courses that your are enrolled to  </li><li>ii) Locate all the courses that you are enrolled to in “To Do  </li><li>iii) Click on “Resume” button, to take up a course    | <img src= "https://www.worldwildlife.org/species/bengal-tiger">   |
+
+
