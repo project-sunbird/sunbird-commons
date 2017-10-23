@@ -23,9 +23,9 @@ User should have the link and credential to login into the Sunbird portal.
 Steps	| Images
 --------|---------
 **Sign in Sunbird portal using your registered credential**	| {% image src='/pages/features-documentation/images/login1.png' full center alt='Login' %}
-Enter your User ID   | 
-Enter your password  |
-Click login button   | 
+	1. Enter your User ID   | 
+	2. Enter your password  |
+	3. Click login button   | 
 **You will land to the Home page**	| {% image src='/pages/features-documentation/images/workspace2.png' full center alt='Workspace' %}
 1. In the Home page, you can find your courses that your are enrolled to	| 
 2. Locate all the courses that you are enrolled to in To Do	|
