@@ -20,8 +20,8 @@ User should have the link and credential to login into the Sunbird portal.
 
 **Steps**
 
-Steps   				| |Images
-------------------------| |---------------------
+Steps	| Images
+--------|---------
 - Sign in Sunbird portal using your registered credential:	|{% image src='/pages/features-documentation/images/login1.png' full center alt='Login' %}
 1. Enter your User ID   | 
 2. Enter your password  |
