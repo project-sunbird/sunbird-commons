@@ -26,17 +26,17 @@ Steps	| Images
 1. Enter your User ID   | 
 2. Enter your password  |
 3. Click login button   | 
-- You will land to the Home page	| {% image src='/pages/features-documentation/images/workspace2.png' full center alt='Workspace' %}
+**You will land to the Home page**	| {% image src='/pages/features-documentation/images/workspace2.png' full center alt='Workspace' %}
 1. In the Home page, you can find your courses that your are enrolled to	| 
 2. Locate all the courses that you are enrolled to in To Do	|
 3. Click Resume button to take up a course	|
-- You can land to Course page	| {% image src='/pages/features-documentation/images/consumecourse3.png' full center alt='Course' %}
+**You can land to Course page**	| {% image src='/pages/features-documentation/images/consumecourse3.png' full center alt='Course' %}
 1. In the Course page, you can find details about the course content, structure, progress etc	|   
 2. Click (pdf icon) link, to read printable study material	|
 3. Click (play icon) link, to view video study material	|
 4. Click (+) icon, on the right side, to take a note	|
 5. Click Resume Course button to restart taking up a course	|
-- Taking up  a course/study material	|{% image src='/pages/features-documentation/images/createcourse4.png' full center alt='Study Material' %}
+**Taking up  a course/study material**	|{% image src='/pages/features-documentation/images/createcourse4.png' full center alt='Study Material' %}
 1. Click on Profile menu to avail options viz., navigate profile, go to home page, see teacher note, turn on/off sound etc  |
 2. Click left arrow icon to move to previous page/slide of study material   |
 3. Click right arrow icon to move to the next page/slide of study material  |
