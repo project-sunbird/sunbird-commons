@@ -2,10 +2,10 @@ Organization administrators can use the credentials received to sign in and uplo
   
 **Uploading Organizations**
 
-1. Click Upload Organizations. The upload organizations page is displayed
+1. Click **Upload Organizations**. The upload organizations page is displayed
 2. Download the csv file for reference
 3. You can add or upload details of up to 200 organizations at a time in one csv
-4. The OrgName column is mandatory. Enter organization name in this column
+4. The **OrgName** column is mandatory. Enter organization name in this column
 5. Enter each organization’s name in a separate row
 6. Entering details in all other columns is optional
 
@@ -25,4 +25,4 @@ Organization administrators can use the credentials received to sign in and uplo
 7. Save the csv file to your computer
 8. Click UPLOAD ORGANIZATIONS CSV. The explorer window is displayed
 9. Select the saved csv file and click open
-10. On successful file upload, a message intimating you of the same will be displayed, else an error message is displayed
+10. On successful file upload, a process ID will be generated, else an error message is displayed
