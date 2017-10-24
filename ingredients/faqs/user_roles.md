@@ -4,6 +4,8 @@ Currently, Sunbird users are categorized as:
 - System Administrator
 - Content Creator
 - Content Reviewer
-- Registered General User
+- Flag Reviewer
+- Course Mentor
+- Registered User
 
 The workflows for all user roles can be configured.
