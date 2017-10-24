@@ -43,4 +43,4 @@
 8. Click UPLOAD USERS CSV. The explorer window is displayed
 9. Select the csv file and click Open
 10. The csv file is successfully uploaded
-11. On successful file upload, a message intimating you of the same will be displayed, else an error message is displayed.
+11. On successful file upload, a process ID will be generated, else an error message is displayed
