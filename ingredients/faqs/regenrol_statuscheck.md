@@ -4,7 +4,7 @@ On successful upload of the .csv file, a process ID will be generated. To check 
 
    OR
  
-  Click the **Profile** Icon and select **Profile**
+   Click the **Profile** Icon and select **Profile**
 
 2. Click **Check Upload Status**
 3. Enter **Process ID** 
