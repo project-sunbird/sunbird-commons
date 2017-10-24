@@ -28,3 +28,7 @@ published: true
 **How to update teacher registry on the platform?**
 
 {% ingredient /faqs/regenrol_update_teacher_registry %}{% endingredient %}
+
+**How to check organization or user upload status**
+
+{% ingredient /faqs/regenrol_statuscheck %}{% endingredient %}
