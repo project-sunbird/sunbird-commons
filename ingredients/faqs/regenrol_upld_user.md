@@ -20,6 +20,7 @@
     Password	| Decided login credentials for each user by Org Admin
 
 	***Note:***
+	
 	*UserName and FirstName should not be the same*
 
 7. All other columns are optional. These columns include information about the user such as:
@@ -36,6 +37,7 @@
     Subject	| Taught by the user
     
 	***Note:***
+	
 	*Columns titled emailVerified, phoneVerfied and provider are conditionally mandatory. Value for emailVerfied and phoneVerified should be True, if details are provided for provider*
 
 8. Click UPLOAD USERS CSV. The explorer window is displayed
