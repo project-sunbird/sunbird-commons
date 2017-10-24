@@ -2,11 +2,14 @@
 
 1. Click Upload Users. The upload users page is displayed
 2. Enter Provider details. Channel ID of the organization administrator must be entered here
-3. Enter External ID. Unique ID of the user that has to be uploaded must be entered here
+3. Enter External ID. Unique ID of the organization that is maintained in the system administrator’s repository.
+
+For example, in the case of a state, state repository is the system administrator repository and the ID given to each school, or education body in the state is the External ID. 
+
     
     OR
     
-    Enter OrgID. Unique ID of the admin organization must be entered here
+   Enter OrgID. Unique ID of the administration organization that is generated on DIKSHA.This ID is generated when the organization is successfully uploaded on DIKSHA.
     
 4. Download the csv file for reference
 5. You can add or upload details of up to 200 users at a time in one csv file
