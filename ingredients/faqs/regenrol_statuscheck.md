@@ -6,6 +6,6 @@ OR
  
 Click the **Profile** Icon and select **Profile**
 
-2. Click **Check Upload Status**
-3. Enter **Process ID** 
-4. Click **Check Status**
+1. Click **Check Upload Status**
+1. Enter **Process ID** 
+1. Click **Check Status**
