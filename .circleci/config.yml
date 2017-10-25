@@ -24,25 +24,31 @@ jobs:
     docker:
       - image: lakhanmandloi/sunbird-ubuntu-full
     steps:
-    
+      
       #Checkout
       - checkout
-            
-      # Run Build command
-      - type: shell
-        command: |
-          bundle exec jekyll build
           
+      # Add SSH Key   
       - add_ssh_keys:
           fingerprints:
             - "95:dd:d1:b9:84:d7:bc:96:88:c2:f9:0f:4d:96:fc:17"
-        
-          
-      # Deploy to Gitpages
+      #Add User
       - type: shell
         command: |
           git config --global user.email "lakhan_m@tekditechnologies.com"
           git config --global user.name "Lakhan Mandloi"
+      
+      # Pull Code from staging site
+      - type: shell
+        command: |
+          cd ..
+          mkdir downloads
+          cd downloads
+          aws s3 sync s3://sunbird-trial/ .
+           
+      # Deploy to Gitpages
+      - type: shell
+        command: |
           cd ..
           mkdir deploy
           cd deploy
@@ -51,7 +57,7 @@ jobs:
           cp -R .git/ ../
           rm -rf *
           cd ..
-          cp -R ../workspace/_site lakhanmandloi.github.io.git/
+          cp -R ../downloads/ lakhanmandloi.github.io.git/
           cp -R .git/ lakhanmandloi.github.io.git/
           cd lakhanmandloi.github.io.git/
           ls

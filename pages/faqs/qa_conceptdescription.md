@@ -1,3 +1,15 @@
+---
+type: landing
+directory: faqs
+title: Concept Description
+page_title: Concept Description
+description: Concept Description
+keywords: >-
+  Concept Description
+hide_platform_selector: true
+hide_section_selector: true
+---
+
 ### Q: Which product features are relevant for content creators and content providers?
 ### A: 
 
