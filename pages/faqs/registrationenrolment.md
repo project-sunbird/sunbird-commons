@@ -15,7 +15,7 @@ published: true
 
 **How do you sign up on the platform?**
 
-{% ingredient /faqs/reg&enrol_signup %}{% endingredient %}
+{% ingredient /faqs/regenrol_signup %}{% endingredient %}
 
 **How do you integrate organization’s existing teacher database?**
 

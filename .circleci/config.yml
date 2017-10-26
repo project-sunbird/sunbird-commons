@@ -44,7 +44,7 @@ jobs:
           cd ..
           mkdir downloads
           cd downloads
-          aws s3 sync s3://sunbird-trial/ .
+          aws s3 sync --delete s3://sunbird-trial/ .
            
       # Deploy to Gitpages
       - type: shell
@@ -52,19 +52,19 @@ jobs:
           cd ..
           mkdir deploy
           cd deploy
-          git clone git@github.com:lakhanmandloi/lakhanmandloi.github.io.git
-          cd lakhanmandloi.github.io
+          git clone git@github.com:lakhanmandloi/sunbird-commons.git
+          cd sunbird-commons
+          git checkout gh-pages
           cp -R .git/ ../
           rm -rf *
+          rm -rf .circleci/
           cd ..
-          cp -R ../downloads/ lakhanmandloi.github.io.git/
-          cp -R .git/ lakhanmandloi.github.io.git/
-          cd lakhanmandloi.github.io.git/
-          ls
+          cp -R ../downloads/* sunbird-commons/
+          cp -R .git/ sunbird-commons/
+          cd sunbird-commons/
           git add -A
-          git commit -m "Deploy"
-          git push origin master
-          
+          git commit -m "$CIRCLE_TAG"
+          git push origin gh-pages
           
 workflows:
   version: 2

@@ -1,6 +1,7 @@
 This platform allows to integrate the organization’s existing teacher list with the platform's teacher registry. The platform's teacher registry is a consolidated list of all teachers within its registered organizations. This consolidated database will help spread of learning and education, nationwide, through structured programs.
 
 To set up the teacher registry:
+
 1. Collate a list of existing users into a database
 2. Write an email  to content.ntp@centralsquarefoundation.org, with the subject as Setting up Teacher Registry
 3. The team will respond with an information checklist.

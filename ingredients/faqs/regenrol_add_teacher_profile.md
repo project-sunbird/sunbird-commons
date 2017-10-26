@@ -6,11 +6,7 @@ To create or update your profile:
 2. Click Profile tab on the header 
 3. Depending on your organisation, you may already see  some information available.
 4. Add or edit the following details :
-
-	a) Experience: Add your occupation details  such as work title, organization name, joining date, etc
-	    
-	b) Address: Add  your permanent and current address
-	    
-	c) Education: Add your  academic qualifications, such as degree, year of passing, board or university, etc.
- 			
-	d) Additional Information: Add personal information such as email, Aadhar number, mobile number, languages known, etc.
+	* Experience: Add your occupation details  such as work title, organization name, joining date, etc
+	* Address: Add  your permanent and current address
+	* Education: Add your  academic qualifications, such as degree, year of passing, board or university, etc.
+	* Additional Information: Add personal information such as email, Aadhar number, mobile number, languages known, etc.
