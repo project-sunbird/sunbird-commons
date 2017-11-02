@@ -26,7 +26,7 @@ At a minimum, you should be:
 
 ***Note: pre-requisites are not required to try out the sandbox option***
 
-- **Installation Options**
+**Installation Options**
 
 - I want to try Sunbird
 
