@@ -16,7 +16,7 @@ This page provides a summarized listing of the essential steps for planning, ins
 
 Based on your usage and the level of complexity which you are comfortable with, there are a few different options for installing and running Sunbird.
 
-- [] **Pre-requisites**
+- **Pre-requisites**
 
 Each of the installation option requires a few pre-requisites to be satisfied. 
 At a minimum, you should be:
@@ -26,7 +26,7 @@ At a minimum, you should be:
 
 ***Note: pre-requisites are not required to try out the sandbox option***
 
-- [] **Installation Options**
+- **Installation Options**
 
 - I want to try Sunbird
 
