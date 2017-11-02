@@ -8,9 +8,7 @@ keywords: 'Try Sunbird, Installation method, Pre-requisites, Sandbox'
 hide_platform_selector: true
 hide_section_selector: true
 ---
-## Installation Overview
-
-If you've read the Sunbird architecture description, you will be aware that it requires several distributed components for runtime operation. This is web-based system,which means there there is no executable file (aka no .exe files), and it must  run on a web server and accessed through a web browser. Getting started with this complexity can be cumbersome. Fortunately,we've simplified the installation process for some common scenarios.
+This page provides a summarized listing of the essential steps for planning, installing, and configuring Sunbird deployment in a live environment.The deployment of Sunbird requires several distributed components for runtime operation. Getting started with this can be cumbersome. Fortunately,the installation process is simplified for some common scenarios.
 
 **Choosing an installation method**
 
