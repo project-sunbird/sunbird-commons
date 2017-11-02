@@ -10,7 +10,9 @@ hide_section_selector: true
 ---
 This page provides a summarized listing of the essential steps for planning, installing, and configuring Sunbird deployment in a live environment.The deployment of Sunbird requires several distributed components for runtime operation. Getting started with this can be cumbersome. Fortunately,the installation process is simplified for some common scenarios.
 
-**Choosing an installation method**
+**Size and Verify Your Environment**
+
+Choosing an installation method
 
 Based on your usage and the level of complexity which you are comfortable with, there are a few different options for installing and running Sunbird.
 
