@@ -12,6 +12,8 @@ This page provides a summarized listing of the essential steps for planning, ins
 
 **Size and Verify Your Environment**
 
+See the prerequisites for installation. Additional requirements for installation might apply based on the environment on which you install Sunbird and how you use Sunbird.
+
 - **Choosing an Installation method**
 
 Based on your usage and the level of complexity which you are comfortable with, there are a few different options for installing and running Sunbird.
