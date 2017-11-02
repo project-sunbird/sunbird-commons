@@ -60,14 +60,15 @@ Not automated as of now but you are free to contribute back! Send in a PR.
 Get 2 servers and prepare to get your hands dirty when needed. 1st server would serve as the DB server and the 2nd, the application server plus the administration server. Note that the default automation creates 3 servers because it separates the application and the administration server.
 
 **Step 2: Setup your DBs**
+
 You are free to either use existing DBs, create DBs manually or run the following automation scripts to create them. The DBs Sunbird uses are:
 
-- Cassandra
-- Postgres
-- Mongo
-- Elasticsearch
+  - Cassandra
+  - Postgres
+  - Mongo
+  - Elasticsearch
 
-- Preparation
+- **Preparation**
 Run the following steps starting from your local machine:
 
 - SSH into the `db-server`. If you have not edited the default configuration, then the name of the DB VM would be `db-1`. Automated setup does not expose the DB to the Internet, so to SSH into the DB, you will need to SSH to `vm-1` (check out `masterFQDN` above) with `ssh -A` (key forwarding) and then SSH to `db-1`.
